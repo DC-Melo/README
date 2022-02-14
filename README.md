@@ -77,22 +77,21 @@
 2019.05-至今    工作三年,两年绩效考核最高等级  
 2019.05-至今    三个专利  
 2017.01-2017.02 获得年度优秀员工称号  
-2016.07-2016.07 “基于Excel的一键控制器编码”获得劳动竞赛最佳金点子  
-2014.08-2014.08 “基于数据库的半自动测试台架”获得大众联合创新大赛二等奖  
+2016.07-2016.07 《基于Excel的一键控制器编码》获得劳动竞赛最佳金点子  
+2014.08-2014.08 《基于数据库的半自动测试台架》获得大众联合创新大赛二等奖  
 
 
 ## 开源项目目录Table of Contents 
 
-- [FFmpeg和Imagamagic制作自定义GIF动图](#FFmpeg和Imagamagic制作自定义GIF动图)
-- [制作公司bug跟踪系统MantisBT](#制作公司bug跟踪系统MantisBT)
-- [制作个人主页LAMP](#制作个人主页LAMP)
-
-
-
-## 开源项目
-于OpenCV-python进行人脸识别，测试CNN识别算法(TensorFlow+CNN+Python+OpenCV)  
-利用FFmpeg和imagamagic制作自定义GIF动图(Linux+FFmpeg+imagmagic+Shell)  
-模拟wechat的web端API，批量发送定制化的祝福微信信息和定制化的GIF动图。利用该技术做汽车微信，通过汽车车机发送微信(AndroidStudio+Java)。  
+- [FFmpeg+Imagamagic:制作自定义GIF动图命令](#FFmpeg+Imagamagic:制作自定义GIF动图命令)
+- [MantisBT:制作公司bug跟踪系统](#MantisBT:使用制作公司bug跟踪系统)
+- [LAMP:制作个人主页](#LAMP:制作个人主页)
+- [Python:模拟WEB微信发送定制化微信祝福](#Python:模拟WEB微信发送定制化微信祝福)
+- [Tensorflow+CNN:人脸识别](#Tensorflow+CNN:人脸识别)
+- [VIM-script:中文测试用例全自动转换Python测试代码](#VIM-script:中文测试用例全自动转换Python测试代码)
+- [Android:接收测试五大原子方法实现](#Android:接收测试五大原子方法实现)
+- [Android:测试27大工具集合](#Android:测试27大工具集合)
+- [JAVA:注意力分区研究APP](#JAVA:注意力分区研究APP)
 
 
 Wang Jiang (王江)
