@@ -39,16 +39,16 @@
 | Python                      | pudb                           | 数据爬虫，测试框架，tensorflow机器学习  |
 | Go                          |                                | 跨平台系统命令                          |
 
-兴趣涉猎：机器学习算法NB，DT，SVM，KF，TensorFlow、CNN、GAN，RNN，SLAM
-数学基础：熟悉矩阵计算，熟悉概率论，熟悉复变函数，熟悉利群李代数
-论文能力：读了较多的英文论文以及书籍。JVM，Introduction to Algorithms，Deep Learning（Lan Goodfellow），Deep Learning with Python，hadoop，spark
+兴趣涉猎：机器学习算法NB，DT，SVM，KF，TensorFlow、CNN、GAN，RNN，SLAM  
+数学基础：熟悉矩阵计算，熟悉概率论，熟悉复变函数，熟悉利群李代数  
+论文能力：读了较多的英文论文以及书籍。JVM，Introduction to Algorithms，Deep Learning（Lan Goodfellow），Deep Learning with Python，hadoop，spark  
 
-## 性格爱好																							
+## 性格爱好
 1. 无挑战不欢，性格开朗、富有挑战精神、喜欢尝试新鲜事物、喜欢有流动性的生活、有较强的适应性
 2. 要玩就要玩专业，高级。喜欢运动。包括：摩托车、轮滑、滑雪、羽毛球，背包旅行
 3. 喜欢展示分享，看各种论文，听分享报告
 
-## 工作经验																							  
+## 工作经验
 2019.05~至今    梧桐车联（腾讯CSIG智慧出行事业部）
 Python：组织团队构建测试框架，开发python测试框架基础原子方法，将模版化的中文测试用例，通过vim编辑器快速生成测试用例脚本。团队经过简单调试，合校即可将上千条测试用例投入使用。
 GO:     测试中心大约27个测试工具，按模块抓日志，获取各个APP版本号，运行monkey，检查ANR，CRASH，分析缺陷，自动提交缺陷等等。通过调研分析，GO语言非常适合做跨平台的命令工具。于是3天快速入门GO，两周完成27个功能中的20个功能的开发调试和使用培训。
@@ -71,20 +71,20 @@ JAVA:   使用JAVA开发了一安卓打地鼠游戏，用于采集车机不同�
 用Matlab验证模糊神经网络算法控制散热系统。并在Freescale(NXP)芯片的控制器上实现控制算法(NNs+C)。
 移植实时操作系统uCos-II，并在uCos-II上实现系统的控制策略(汇编ASM+C语言)
 
-## 奖励情况																							
-2019.05~至今		工作三年,两年绩效考核最高等级
-2019.05~至今		三个专利		
-2017.01~2017.02		获得年度优秀员工称号
-2016.07~2016.07		“基于Excel的一键控制器编码”获得劳动竞赛最佳金点子
-2014.08~2014.08		“基于数据库的半自动测试台架”获得大众联合创新大赛二等奖
+## 奖励情况
+2019.05~至今    工作三年,两年绩效考核最高等级  
+2019.05~至今    三个专利  
+2017.01~2017.02 获得年度优秀员工称号  
+2016.07~2016.07 “基于Excel的一键控制器编码”获得劳动竞赛最佳金点子  
+2014.08~2014.08 “基于数据库的半自动测试台架”获得大众联合创新大赛二等奖  
 
 ## 开源项目
-于Opencv-python进行人脸识别，测试CNN识别算法(TensorFlow+CNN+Python+OpenCV)
-利用FFmpeg和imagamagic制作自定义GIF动图(Linux+FFmpeg+imagmagic+Shell)
-模拟wechat的web端API，批量发送定制化的祝福微信信息和定制化的GIF动图。利用该技术做汽车微信，通过汽车车机发送微信(AndroidStudio+Java)。
-制作个人主页(LAMP)，制作公司考勤一览图(LAMP+Echarts)
-制作公司bug跟踪系统(MantisBT)
-制作个人位置跟踪记录APP(Java)，生成KML格式可以在google地图上回轨迹(AndroidStudio+Java)
+于Opencv-python进行人脸识别，测试CNN识别算法(TensorFlow+CNN+Python+OpenCV)  
+利用FFmpeg和imagamagic制作自定义GIF动图(Linux+FFmpeg+imagmagic+Shell)  
+模拟wechat的web端API，批量发送定制化的祝福微信信息和定制化的GIF动图。利用该技术做汽车微信，通过汽车车机发送微信(AndroidStudio+Java)。  
+制作个人主页(LAMP)，制作公司考勤一览图(LAMP+Echarts)  
+制作公司bug跟踪系统(MantisBT)  
+制作个人位置跟踪记录APP(Java)，生成KML格式可以在google地图上回轨迹(AndroidStudio+Java)  
 
 
 ## 项目目录Table of Contents 
