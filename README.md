@@ -51,24 +51,24 @@
 **喜欢展示分享。** 看各种论文，听分享报告  
 
 ## 工作经验
-2019.05~至今    梧桐车联（腾讯CSIG智慧出行事业部）  
+2019.05-至今    梧桐车联（腾讯CSIG智慧出行事业部）  
 **Python** 组织团队构建测试框架，开发python测试框架基础原子方法，将模版化的中文测试用例，通过vim编辑器快速生成测试用例脚本。团队经过简单调试，合校即可将上千条测试用例投入使用。  
 **GO**     测试中心大约27个测试工具，按模块抓日志，获取各个APP版本号，运行monkey，检查ANR，CRASH，分析缺陷，自动提交缺陷等等。通过调研分析，GO语言非常适合做跨平台的命令工具。于是3天快速入门GO，两周完成27个功能中的20个功能的开发调试和使用培训。  
 **JAVA**   使用JAVA开发了一安卓打地鼠游戏，用于采集车机不同屏幕区域的点击便捷度。  
 **培训**   每月定期培训团队，赋能团队。培训内容包括: 嵌入式硬件基本知识，通讯基本知识基础,面向各种问题，使用对应编程语言解决问题。  
   
-2016.10~2019.04 安吉四维导航系统、导航地图测试、车辆互联产品开发测试  
+2016.10-2019.04 安吉四维导航系统、导航地图测试、车辆互联产品开发测试  
 **组织**   带领测试团队，组织安排车机测试工作。  
 **Linux**  测试基于Android的导航系统(给上汽红岩定制的产品)。具备Android系统定制能力(Linux+C编译)  
 **adb**    测试手机车机互联产品(为大众、上汽定制的产品)。具备APP测试开发能力、adb调试能力(Linux+Java+adb)  
 **OpenCV** 基于ROS设计物流AGV仿真系统。使用blender画3D模型，使用gazebo进行仿真，使用OpenCV进行图像处理。  
   
-2012.09~2016.10 翼锐汽车仪表自动测试系统搭建  
+2012.09-2016.10 翼锐汽车仪表自动测试系统搭建  
 **python** 基于Python开发控制器一键快速编码程序(python)  
 **CAN**    基于CANoe开发控制器测试系统,进行CAN总线信号测试和硬线信号测试(C+CAN)  
 **VB**     基于VB开发基于Excel测试用例管理系统、以及用户测试界面(VB)  
   
-2009.09~2011.04 研究生阶段参与课题：燃料电池备用电源控制器开发（国家科技支撑项目）  
+2009.09-2011.04 研究生阶段参与课题：燃料电池备用电源控制器开发（国家科技支撑项目）  
 **labview** 负责开发燃料电池备用电源人机界面，参与燃料电池备用电源系统控制流程设计 (Labview+C)  
 **matlab**  用Matlab验证模糊神经网络算法控制散热系统。并在Freescale(NXP)芯片的控制器上实现控制算法(NNs+C)。  
 **uCos-II** 移植实时操作系统uCos-II，并在uCos-II上实现系统的控制策略(汇编ASM+C语言)  
@@ -80,27 +80,19 @@
 2016.07-2016.07 “基于Excel的一键控制器编码”获得劳动竞赛最佳金点子  
 2014.08-2014.08 “基于数据库的半自动测试台架”获得大众联合创新大赛二等奖  
 
+
+## 开源项目目录Table of Contents 
+
+- [FFmpeg和Imagamagic制作自定义GIF动图](#FFmpeg和Imagamagic制作自定义GIF动图)
+- [制作公司bug跟踪系统MantisBT](#制作公司bug跟踪系统MantisBT)
+- [制作个人主页LAMP](#制作个人主页LAMP)
+
+
+
 ## 开源项目
-于Opencv-python进行人脸识别，测试CNN识别算法(TensorFlow+CNN+Python+OpenCV)  
+于OpenCV-python进行人脸识别，测试CNN识别算法(TensorFlow+CNN+Python+OpenCV)  
 利用FFmpeg和imagamagic制作自定义GIF动图(Linux+FFmpeg+imagmagic+Shell)  
 模拟wechat的web端API，批量发送定制化的祝福微信信息和定制化的GIF动图。利用该技术做汽车微信，通过汽车车机发送微信(AndroidStudio+Java)。  
-制作个人主页(LAMP)，制作公司考勤一览图(LAMP+Echarts)  
-制作公司bug跟踪系统(MantisBT)  
-制作个人位置跟踪记录APP(Java)，生成KML格式可以在google地图上回轨迹(AndroidStudio+Java)  
-
-
-## 项目目录Table of Contents 
-
-- [项目背景Background](#项目背景Background)
-- [软件架构Environment](#软件架构Environment)
-- [编译安装Install](#编译安装Install)
-- [使用说明Usage](#使用说明Usage)
-- [后续工作TODO](#后续工作TODO)
-- [项目负责人Maintainers](#项目负责人Maintainers)
-- [参与贡献Contributing](#参与贡献Contributing)
-- [相关项目Related](#相关项目Related)
-- [开源协议License](#开源协议License)
-- [请为我点赞Donation](#请为我点赞Donation)
 
 
 Wang Jiang (王江)
