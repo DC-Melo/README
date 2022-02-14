@@ -84,15 +84,15 @@
 ## 开源项目目录Table of Contents 
 
 
-- [FFmpeg+Imagamagic:制作自定义GIF动图命令](#FFmpeg+Imagamagic:制作自定义GIF动图命令)
-- [MantisBT:制作公司bug跟踪系统](#MantisBT:使用制作公司bug跟踪系统)
-- [LAMP:制作个人主页](#LAMP:制作个人主页)
-- [Python:模拟WEB微信发送定制化微信祝福](#Python:模拟WEB微信发送定制化微信祝福)
-- [Tensorflow+CNN:人脸识别](#Tensorflow+CNN:人脸识别)
-- [VIM-script:中文测试用例全自动转换Python测试代码](#VIM-script:中文测试用例全自动转换Python测试代码)
-- [Android:接收测试五大原子方法实现](#Android:接收测试五大原子方法实现)
-- [Android:测试27大工具集合](#Android:测试27大工具集合)
-- [JAVA:注意力分区研究APP](#JAVA:注意力分区研究APP)
+- [FFmpeg+Imagamagic-制作自定义GIF动图命令](#FFmpeg+Imagamagic-制作自定义GIF动图命令)
+- [MantisBT-制作公司bug跟踪系统](#MantisBT-使用制作公司bug跟踪系统)
+- [LAMP-制作个人主页](#LAMP-制作个人主页)
+- [Python-模拟WEB微信发送定制化微信祝福](#Python-模拟WEB微信发送定制化微信祝福)
+- [Tensorflow+CNN-人脸识别](#Tensorflow+CNN-人脸识别)
+- [VIM-script-中文测试用例全自动转换Python测试代码](#VIM-script-中文测试用例全自动转换Python测试代码)
+- [Android-接收测试五大原子方法实现](#Android-接收测试五大原子方法实现)
+- [Android-测试27大工具集合](#Android-测试27大工具集合)
+- [JAVA-注意力分区研究APP](#JAVA-注意力分区研究APP)
 
 
 
