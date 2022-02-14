@@ -32,12 +32,13 @@
 主修课程：汽车构造、汽车理论、汽车电器、电路电子、自动控制理论、微机原理、汽车维修、汽车营销、管理学、数学基础优异  
 
 ## 主要技能: 面向问题快速学习,掌握编程技能的能力
-| 编程工具                    | 对应工具链                     | 面向解决问题编程                        |
-| --------                    | ---                            | ---                                     |
-| 嵌入式,ASM,C/C++,uCos,Linux | CMake, GDB                     | HIL,OpenCV,OpenGL,FFmepg,SLAM,Blender3D |
-| JAVA                        | Gradle,JVM,SPring,Hadoop,Spark | APP开发，中间件开发,集群运算            |
-| Python                      | pudb                           | 数据爬虫，测试框架，tensorflow机器学习  |
-| Go                          |                                | 跨平台系统命令                          |
+| 编程工具          | 对应工具链                     | 面向解决问题编程                       |
+| --------          | ---------                      | ----------------                       |
+| 嵌入式,ASM,C,uCos | freescale,makefile             | 画PCB，硬件驱动，信号分析,HIL台架搭建  |
+| C++,Linux         | CMake, GDB                     | OpenCV,OpenGL,FFmepg,SLAM,Blender3D    |
+| JAVA              | Gradle,JVM,SPring,Hadoop,Spark | APP开发，中间件开发,集群运算           |
+| Python            | pudb                           | 数据爬虫，测试框架，tensorflow机器学习 |
+| Go                |                                | 跨平台系统命令                         |
 
 兴趣涉猎：机器学习算法NB，DT，SVM，KF，TensorFlow、CNN、GAN，RNN，SLAM  
 数学基础：熟悉矩阵计算，熟悉概率论，熟悉复变函数，熟悉利群李代数  
