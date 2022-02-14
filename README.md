@@ -33,22 +33,22 @@
 主修课程：汽车构造、汽车理论、汽车电器、电路电子、自动控制理论、微机原理、汽车维修、汽车营销、管理学、**数学基础优异**  
 
 ## 主要技能: 面向问题快速学习,掌握编程技能的能力
-| 编程工具          | 对应工具链                     | 面向解决问题编程                       |
-| --------          | ---------                      | ----------------                       |
-| 嵌入式,ASM,C,uCos | freescale,makefile             | 画PCB，硬件驱动，信号分析,HIL台架搭建  |
-| C++,Linux         | CMake, GDB                     | OpenCV,OpenGL,FFmepg,SLAM,Blender3D    |
-| JAVA              | Gradle,JVM,SPring,Hadoop,Spark | APP开发，中间件开发,集群运算           |
-| Python            | pudb                           | 数据爬虫，测试框架，tensorflow机器学习 |
-| Go                |                                | 跨平台系统命令                         |
+| 编程工具          | 对应工具链                     | 面向解决问题编程                               |
+| --------          | ---------                      | ----------------                               |
+| 嵌入式,ASM,C,uCos | freescale,makefile             | 画PCB，硬件开发,驱动开发，信号分析,HIL台架搭建 |
+| C++,Linux         | CMake, GDB                     | OpenCV,OpenGL,FFmepg,SLAM,Blender3D            |
+| JAVA              | Gradle,JVM,SPring,Hadoop,Spark | APP开发，中间件开发,集群运算                   |
+| Python            | pudb                           | 数据爬虫，测试框架，tensorflow机器学习         |
+| Go                |                                | 跨平台系统命令                                 |
 
 兴趣涉猎：**机器学习算法NB，DT，SVM，KF，TensorFlow、CNN、GAN，RNN，SLAM**  
 数学基础：熟悉矩阵计算，熟悉概率论，熟悉复变函数，熟悉利群李代数  
 论文能力：读了较多的英文论文以及书籍。JVM，Introduction to Algorithms，Deep Learning（Lan Goodfellow），Deep Learning with Python，hadoop，spark  
 
 ## 性格爱好
-**无挑战不欢。**性格开朗、富有挑战精神、喜欢尝试新鲜事物、喜欢有流动性的生活、有较强的适应性
-**要玩就要玩专业，高级。**喜欢运动。包括：摩托车、轮滑、滑雪、羽毛球，背包旅行
-**喜欢展示分享。**看各种论文，听分享报告
+**无挑战不欢。**性格开朗、富有挑战精神、喜欢尝试新鲜事物、喜欢有流动性的生活、有较强的适应性  
+**要玩就要玩专业，高级。**喜欢运动。包括：摩托车、轮滑、滑雪、羽毛球，背包旅行  
+**喜欢展示分享。**看各种论文，听分享报告  
 
 ## 工作经验
 2019.05~至今    梧桐车联（腾讯CSIG智慧出行事业部）  
