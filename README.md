@@ -8,15 +8,11 @@
 <!-- 项目前言 -->
 
 ## 基本信息
-王江 DC-Melo
-
-期待地点：海外北上杭深
-
-岗位：图像算法,计算机3D建模渲染显示,计算机视觉图像理解
-
-个人简介/开源项目：https://github.com/DC-Melo/README
-
-联系方式：+86-152-1670-6941 wangjiang@alumni.tongji.edu.cn
+王江 DC-Melo  
+期待地点：海外北上杭深  
+岗位：图像算法,计算机3D建模渲染显示,计算机视觉图像理解  
+个人简介/开源项目：https://github.com/DC-Melo/README  
+联系方式：+86-152-1670-6941 wangjiang@alumni.tongji.edu.cn  
 
 
 ## 工作经历&教育背景&主修课程
