@@ -46,9 +46,9 @@
 论文能力：读了较多的英文论文以及书籍。JVM，Introduction to Algorithms，Deep Learning（Lan Goodfellow），Deep Learning with Python，hadoop，spark  
 
 ## 性格爱好
-**无挑战不欢。** 性格开朗、富有挑战精神、喜欢尝试新鲜事物、喜欢有流动性的生活、有较强的适应性  
-**要玩就要玩专业，高级。** 喜欢运动。包括：摩托车、轮滑、滑雪、羽毛球，背包旅行  
-**喜欢展示分享。** 看各种论文，听分享报告  
+**无挑战不欢** 性格开朗、富有挑战精神、喜欢尝试新鲜事物、喜欢有流动性的生活、有较强的适应性  
+**喜欢就要玩专业高级** 喜欢运动。包括：摩托车、轮滑、滑雪、羽毛球，背包旅行  
+**喜欢展示分享** 喜欢看各种论文，喜欢听分享报告,也喜欢分享技术  
 
 ## 工作经验
 2019.05-至今    梧桐车联（腾讯CSIG智慧出行事业部）  
@@ -75,7 +75,7 @@
 
 ## 奖励情况
 2019.05-至今    工作三年,两年绩效考核最高等级  
-2019.05-至今    三个专利  
+2018.10-至今    三个专利  
 2017.01-2017.02 获得年度优秀员工称号  
 2016.07-2016.07 《基于Excel的一键控制器编码》获得劳动竞赛最佳金点子  
 2014.08-2014.08 《基于数据库的半自动测试台架》获得大众联合创新大赛二等奖  
@@ -84,17 +84,46 @@
 ## 开源项目目录Table of Contents 
 
 
-- [FFmpeg+Imagamagic-制作自定义GIF动图命令](#FFmpeg+Imagamagic-制作自定义GIF动图命令)
+- [C++-比特币源码阅读、更改、编译、运行](#C++-比特币源码阅读、更改、编译、运行)
+- [C++-生成比特币荣耀地址](#C++-比特币生成荣耀地址)
+- [Python-爬虫爬取比特币超过1BTC的账户地址](#Python-爬虫爬取比特币超过1BTC的账户地址)
+- [Spark+Map+Reduce-常用密码数据库sha512成私钥，通过私钥计算地址，再检查该地址是否有比特币](#Spark+Map+Reduce-常用密码sha512成私钥，通过私钥计算地址，再检查该地址是否有比特币)
+- [比特币钱包DLL反编理解,查看钱包中地址与比特币金额](#比特币钱包DLL反编理解,查看钱包中地址与比特币金额)
+- [JAVA-比特币信息爬虫,检测到新的比特币暴涨暴跌消息，及时钉钉短信通知](#JAVA-比特币信息爬虫,检测到新的比特币暴涨暴跌消息，及时钉钉短信通知)
+
+- [GO-安卓测试工具集合(27大常用测试工具)](#GO-安卓测试工具集合(27大常用测试工具)
+- [C#-基于周立功CAN卡实车总线上位机开发](#C#-基于周立功CAN卡实车总线上位机开发)
+- [VIM-script-中文测试用例全自动转换Python测试代码](#VIM-script-中文测试用例全自动转换Python测试代码)
+- [Python-安卓接收测试五大原子方法实现](#Android-接收测试五大原子方法实现)
+- [Python-基于周立功CAN卡进行总线自动化测试](#Python-基于周立功CAN卡进行总线自动化测试)
+- [JAVA-注意力分区研究APP](#JAVA-注意力分区研究APP)
+
+- [SLAM-仿真自动驾驶AGV](#SLAM-仿真自动驾驶AGV)
+- [CANoe+Linux-车机HIL测试系统](#CANoe+Linux-车机HIL测试系统)
+- [Python-使用WEB微信发送定制化微信新年祝福](#Python-模拟WEB微信发送定制化微信新年祝福)
+- [JAVA-使用WEB微信仿制微信通讯](#JAVA-使用WEB微信仿制微信通讯)
+- [Tensorflow+CNN-人脸识别](#Tensorflow+CNN-人脸识别)
 - [MantisBT-制作公司bug跟踪系统](#MantisBT-使用制作公司bug跟踪系统)
 - [LAMP-制作个人主页](#LAMP-制作个人主页)
-- [Python-模拟WEB微信发送定制化微信祝福](#Python-模拟WEB微信发送定制化微信祝福)
-- [Tensorflow+CNN-人脸识别](#Tensorflow+CNN-人脸识别)
-- [VIM-script-中文测试用例全自动转换Python测试代码](#VIM-script-中文测试用例全自动转换Python测试代码)
-- [Android-接收测试五大原子方法实现](#Android-接收测试五大原子方法实现)
-- [Android-测试27大工具集合](#Android-测试27大工具集合)
-- [JAVA-注意力分区研究APP](#JAVA-注意力分区研究APP)
-- [uCos-II-移植实时操作系统uCos-II](#uCos-II-移植实时操作系统uCos-II)
+- [FFmpeg+Imagamagic-制作自定义GIF动图shell脚本](#FFmpeg+Imagamagic-制作自定义GIF动图shell脚本)
+- [JAVA-早期项目代码丢失，需要维护APP，于是反编译APP，更改蓝牙代码UUID再回编译](#JAVA-早期项目代码丢失，需要维护APP，于是反编译APP，更改代码蓝牙UUID再回编译)
+- [JAVA-手机APP通过蓝牙连接嵌入式硬件读取大众车辆VIN号、油量等关键信息保存于手机](#JAVA-手机APP通过蓝牙连接嵌入式硬件读取大众车辆VIN号、油量等关键信息保存于手机)
+- [Python-静安羽毛球馆定时爬虫抢票脚本](#Python-静安羽毛球馆定时爬虫抢票脚本)
 
+- [CANoe+VBA+excel-仪表HIL测试系统](#CANoe+VBA+excel-仪表HIL测试系统)
+- [uCos-II-移植实时操作系统uCos-II](#uCos-II-移植实时操作系统uCos-II)
+- [PID+C-基于PID控制PWM风扇实现控制燃料电池系统温度](#PID+C-基于PID控制PWM风扇实现控制燃料电池系统温度)
+- [Matlab-验证模糊神经网络算法控制散热系统](#Matlab-验证模糊神经网络算法控制散热系统)
+
+
+
+## 阅读参考书籍目录Coding reference books
+
+
+- [OpenGL+Blender-自己人像的射击游戏](#OpenGL+Blender-自己人像的射击游戏)
+
+- [学习OpenCV](#学习OpenCV)
+- [Learning OpenGL](#Learning OpenGL)
 
 
 
@@ -104,34 +133,34 @@ Wang Jiang (王江)
 Vehicle Engineering in Tongji University, 4800# Cao’an Road, Shanghai, China 201804
 Education                                                                      
 Tongji University(985/211), Shanghai. 				                                            2009/09~now
-M.S. expected in March 2011. Major in Vehicle Engineering;
-Studied Modern control theory, system identification, fuzzy control, computer control base, automotive dynamics, auto test etc.
+M.S. expected in March 2011. Major in Vehicle Engineering;
+Studied Modern control theory, system identification, fuzzy control, computer control base, automotive dynamics, auto test etc.
 Jiangsu university, Jiangsu. 	                                                              2005/09~2009/06
 B.S. in Automobile Application Engineering;
-Studied Automobile structure, automobile theory, automobile electric appliances, circuit electronics, automatic control theory, car maintenance etc.
+Studied Automobile structure, automobile theory, automobile electric appliances, circuit electronics, automatic control theory, car maintenance etc.
 Internship Experience & Social Activity                                                       
 Kunshan  Forsight Co. ,Ltd	 			         					                          2009, Kunshan
-Backup power system field test; Researched uCos-II real-time operating system; developing the fuel cell backup power human-computer interface; design backup power system control process ;
-Researched the current fuel cell development status and advanced technology;
+Backup power system field test; Researched uCos-II real-time operating system; developing the fuel cell backup power human-computer interface; design backup power system control process ;
+Researched the current fuel cell development status and advanced technology;
 Shanghai Fuel Cell Vehicle Powertrain Co., Ltd                       Jul. 2010~Aug. 2010, shanghai
-Translated the oversea academic documents, and checked the translated documents;
+Translated the oversea academic documents, and checked the translated documents;
 Park technology Volunteer of Shanghai World Expo         			                    May.2010 shanghai 
-Collected data of fuel cell car for Shanghai Automotive Industry Corporation (Group)
+Collected data of fuel cell car for Shanghai Automotive Industry Corporation (Group)
 Project Experience													                                    
 Participating project: Fuel cell backup power (national science and technology support project)                                                          Sep.2009~Now
-analysis DC/DC outside characteristics,developed fuel cell backup power man-machine interface, participate in fuel cell backup power system control process design.
-developed fuel cell backup power control system based on real-time operating system uCos – II.
+analysis DC/DC outside characteristics,developed fuel cell backup power man-machine interface, participate in fuel cell backup power system control process design.
+developed fuel cell backup power control system based on real-time operating system uCos – II.
 Researching project: fuel cell generator                        			               Sep.2009~Mar.2011
-developed monomer inspection program;
+developed monomer inspection program;
 Researching topic: fuel cell system control                        			               Sep.2009~Now
-research fuel cell system output capacity, and the relationship between fuel cell system working efficiency and system  working point.
-research real-time operating system uCos - II.
-research neural network and fuzzy control theory.
+research fuel cell system output capacity, and the relationship between fuel cell system working efficiency and system  working point.
+research real-time operating system uCos - II.
+research neural network and fuzzy control theory.
 Skills																			                            
-Programming Software: C Language, Matlab(simulink), Test Software(Labview)
-Designing Software: AutoCAD, Hypermes
-English：CET-6
-Editing Software: Word, Excel, PowerPoint 
+Programming Software: C Language, Matlab(simulink), Test Software(Labview)
+Designing Software: AutoCAD, Hypermes
+English：CET-6
+Editing Software: Word, Excel, PowerPoint 
 <!-- 项目目录 -->
 ## 项目目录Table of Contents 
 
