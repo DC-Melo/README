@@ -85,9 +85,9 @@
 2014.08-2014.08 《基于数据库的半自动测试台架》获得大众联合创新大赛二等奖  
 
 
-## 开源项目目录Table of Contents ##
+## 开源项目目录Projects Table of Contents ##
 
-
+### 已经完成项目Projects Closed ###
 - [C++-比特币源码阅读、更改、编译、运行](#C++-比特币源码阅读、更改、编译、运行) [Text](https://www.url.com)
 - [C++-生成比特币荣耀地址](#C++-比特币生成荣耀地址)
 - [Python-爬虫爬取比特币超过1BTC的账户地址](#Python-爬虫爬取比特币超过1BTC的账户地址)
@@ -120,14 +120,29 @@
 - [Matlab-验证模糊神经网络算法控制散热系统](#Matlab-验证模糊神经网络算法控制散热系统)
 
 
+### 正在进行项目Projects Ongoing ###
+- [OpenGL+Blender-自己人像的射击游戏](#OpenGL+Blender-自己人像的射击游戏)
+- [GAN-图片生成3D人脸模型](#OpenGL+Blender-自己人像的射击游戏)
+- [GAN-deepfake-深度学习换脸](#OpenGL+Blender-自己人像的射击游戏)
 
 ## 阅读参考书籍目录Coding reference books ##
+- [学习OpenCV](#学习OpenCV) 
+- [Learning OpenGL](#Learning OpenGL) 
 
 
-- [OpenGL+Blender-自己人像的射击游戏](#OpenGL+Blender-自己人像的射击游戏)
-- [学习OpenCV](#学习OpenCV)
-- [Learning OpenGL](#Learning OpenGL)
+<!-- 项目点赞 -->
+## 请为我点赞Donation ##
+如果你喜欢我的项目，请在对应的项目右上角 "Star" 一下。你的支持是我最大的鼓励☺☺！你也还可以扫描下面的二维码，对作者进行打赏。  
+If you like my project, "Star" in the corresponding project right corner, please. Your support is my biggest encouragement☺☺! You can also scan the qr code below or Donate to this project using Paypal, donation to Author.  
 
+---
+<div align="center">
+<img src="readme_files/dc_wechat_pay.png" width="200" >
+<img src="readme_files/dc_ali_pay.png"    width="200" >
+<img src="readme_files/dc_bitcoin.png"    width="200" >
+</div>
 
-
+如果在捐赠留言中备注名称，将会被记录到列表中~ 如果你也是github开源作者，捐赠时可以留下github项目地址或者个人主页地址，链接将会被添加到列表中起到互相推广的作用  
+If you comment on the name in the donation message, it will be recorded in the list. ~If you are also an open source author of github, you can leave the GitHub project address or personal home page address when donating. Links will be added to the list to promote each other.  
+捐赠列表(Donation list)
 
