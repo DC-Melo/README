@@ -41,7 +41,7 @@
 | C++,Linux         | CMake, GDB                     | OpenCV,OpenGL,FFmepg,ImageMagick,SLAM,Blender3D |
 | JAVA              | Gradle,JVM,SPring,Hadoop,Spark | APP开发，中间件开发,集群运算                    |
 | Python            | pudb                           | 数据爬虫，测试框架，tensorflow机器学习          |
-| Go                |                                | 跨平台系统命令                                  |
+| Go                |                                 跨平台系统命令                                  ||
 
 
 兴趣涉猎：**机器学习算法NB，DT，SVM，KF，TensorFlow、CNN、GAN，RNN，SLAM**  
