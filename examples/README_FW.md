@@ -18,8 +18,7 @@ project description
 - [参与贡献Contributing](#参与贡献Contributing)
 - [相关项目Related](#相关项目Related)
 - [开源协议License](#开源协议License)
-- [为项目点赞Donation](#为项目点赞donation)
-- [Donation](#donation)
+- [为项目点赞Donation](#为项目点赞Donation)
 
 <!-- 项目背景 -->
 ## 项目背景Background ##
@@ -71,9 +70,3 @@ If you like my project, "Star" in the corresponding project right corner, please
 如果在捐赠留言中备注名称，将会被记录到列表中~ 如果你也是github开源作者，捐赠时可以留下github项目地址或者个人主页地址，链接将会被添加到列表中起到互相推广的作用  
 If you comment on the name in the donation message, it will be recorded in the list. ~If you are also an open source author of github, you can leave the GitHub project address or personal home page address when donating. Links will be added to the list to promote each other.  
 捐赠列表(Donation list)
-
-
-## Donation
-
-test donatin
-
