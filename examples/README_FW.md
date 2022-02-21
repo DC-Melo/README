@@ -18,7 +18,7 @@ project description
 - [参与贡献Contributing](#参与贡献Contributing)
 - [相关项目Related](#相关项目Related)
 - [开源协议License](#开源协议License)
-- [为项目点赞Donation](##为项目点赞Donation##)
+- [为项目点赞Donation](##为项目点赞Donation)
 
 <!-- 项目背景 -->
 ## 项目背景Background ##
