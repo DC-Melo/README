@@ -88,58 +88,57 @@
 ## 开源项目目录Projects Table of Contents ##
 
 ### 已经完成项目Projects Closed ###
-- [C++-比特币源码阅读、更改、编译、运行](#C++-比特币源码阅读、更改、编译、运行) [Text](https://www.url.com)
-- [C++-生成比特币荣耀地址](#C++-比特币生成荣耀地址)
-- [Python-爬虫爬取比特币超过1BTC的账户地址](#Python-爬虫爬取比特币超过1BTC的账户地址)
-- [Spark+Map+Reduce-常用密码数据库sha512成私钥，通过私钥计算地址，再检查该地址是否有比特币](#Spark+Map+Reduce-常用密码sha512成私钥，通过私钥计算地址，再检查该地址是否有比特币)
-- [比特币钱包DLL反编理解,查看钱包中地址与比特币金额](#比特币钱包DLL反编理解,查看钱包中地址与比特币金额)
-- [JAVA-比特币信息爬虫,检测到新的比特币暴涨暴跌消息，及时钉钉短信通知](#JAVA-比特币信息爬虫,检测到新的比特币暴涨暴跌消息，及时钉钉短信通知)
+- [C++-比特币源码阅读、更改、编译、运行](https://github.com/DC-Melo/)
+- [C++-生成比特币荣耀地址](https://github.com/DC-Melo/)
+- [Python-爬虫爬取比特币超过1BTC的账户地址](https://github.com/DC-Melo/)
+- [Spark+Map+Reduce-常用密码数据库sha512成私钥，通过私钥计算地址，再检查该地址是否有比特币]( https://github.com/DC-Melo/)
+- [比特币钱包DLL反编理解,查看钱包中地址与比特币金额]( https://github.com/DC-Melo/)
+- [JAVA-比特币信息爬虫,检测到新的比特币暴涨暴跌消息，及时钉钉短信通知]( https://github.com/DC-Melo/)
 
-- [GO-安卓测试工具集合(27大常用测试工具)](#GO-安卓测试工具集合(27大常用测试工具)
-- [C#-基于周立功CAN卡实车总线上位机开发](#C#-基于周立功CAN卡实车总线上位机开发)
-- [VIM-script-中文测试用例全自动转换Python测试代码](#VIM-script-中文测试用例全自动转换Python测试代码)
-- [Python-安卓接收测试五大原子方法实现](#Android-接收测试五大原子方法实现)
-- [Python-基于周立功CAN卡进行总线自动化测试](#Python-基于周立功CAN卡进行总线自动化测试)
-- [JAVA-注意力分区研究APP](#JAVA-注意力分区研究APP)
+- [GO-安卓测试工具集合(27大常用测试工具)]( https://github.com/DC-Melo/)
+- [C#-基于周立功CAN卡实车总线上位机开发]( https://github.com/DC-Melo/)
+- [VIM-script-中文测试用例全自动转换Python测试代码]( https://github.com/DC-Melo/)
+- [Python-安卓接收测试五大原子方法实现]( https://github.com/DC-Melo/)
+- [Python-基于周立功CAN卡进行总线自动化测试]( https://github.com/DC-Melo/)
+- [JAVA-注意力分区研究APP](https://github.com/DC-Melo/Attention_Partition)
 
-- [SLAM-仿真自动驾驶AGV](#SLAM-仿真自动驾驶AGV)
-- [CANoe+Linux-车机HIL测试系统](#CANoe+Linux-车机HIL测试系统)
-- [Python-使用WEB微信发送定制化微信新年祝福](#Python-模拟WEB微信发送定制化微信新年祝福)
-- [JAVA-使用WEB微信仿制微信通讯](#JAVA-使用WEB微信仿制微信通讯)
-- [Tensorflow+CNN-人脸识别](#Tensorflow+CNN-人脸识别)
-- [MantisBT-制作公司bug跟踪系统](#MantisBT-使用制作公司bug跟踪系统)
-- [LAMP-制作个人主页](#LAMP-制作个人主页)
-- [FFmpeg+Imagamagic-制作自定义GIF动图shell脚本](#FFmpeg+Imagamagic-制作自定义GIF动图shell脚本)
-- [JAVA-早期项目代码丢失，需要维护APP，于是反编译APP，更改蓝牙代码UUID再回编译](#JAVA-早期项目代码丢失，需要维护APP，于是反编译APP，更改代码蓝牙UUID再回编译)
-- [JAVA-手机APP通过蓝牙连接嵌入式硬件读取大众车辆VIN号、油量等关键信息保存于手机](#JAVA-手机APP通过蓝牙连接嵌入式硬件读取大众车辆VIN号、油量等关键信息保存于手机)
-- [Python-静安羽毛球馆定时爬虫抢票脚本](#Python-静安羽毛球馆定时爬虫抢票脚本)
+- [SLAM-仿真自动驾驶AGV](https://github.com/DC-Melo/)
+- [CANoe+Linux-车机HIL测试系统]( https://github.com/DC-Melo/)
+- [Python-使用WEB微信发送定制化微信新年祝福]( https://github.com/DC-Melo/)
+- [JAVA-使用WEB微信仿制微信通讯]( https://github.com/DC-Melo/)
+- [Tensorflow+CNN-人脸识别]( https://github.com/DC-Melo/)
+- [MantisBT-制作公司bug跟踪系统]( https://github.com/DC-Melo/)
+- [LAMP-制作个人主页]( https://github.com/DC-Melo/)
+- [FFmpeg+Imagamagic-制作自定义GIF动图shell脚本]( https://github.com/DC-Melo/)
+- [JAVA-早期项目代码丢失，需要维护APP，于是反编译APP，更改蓝牙代码UUID再回编译]( https://github.com/DC-Melo/)
+- [JAVA-手机APP通过蓝牙连接嵌入式硬件读取大众车辆VIN号、油量等关键信息保存于手机]( https://github.com/DC-Melo/)
+- [Python-静安羽毛球馆定时爬虫抢票脚本]( https://github.com/DC-Melo/)
 
-- [CANoe+VBA+excel-仪表HIL测试系统](#CANoe+VBA+excel-仪表HIL测试系统)
-- [uCos-II-移植实时操作系统uCos-II](#uCos-II-移植实时操作系统uCos-II)
-- [PID+C-基于PID控制PWM风扇实现控制燃料电池系统温度](#PID+C-基于PID控制PWM风扇实现控制燃料电池系统温度)
-- [Matlab-验证模糊神经网络算法控制散热系统](#Matlab-验证模糊神经网络算法控制散热系统)
+- [CANoe+VBA+excel-仪表HIL测试系统]( https://github.com/DC-Melo/)
+- [uCos-II-移植实时操作系统uCos-II]( https://github.com/DC-Melo/)
+- [PID+C-基于PID控制PWM风扇实现控制燃料电池系统温度]( https://github.com/DC-Melo/)
+- [Matlab-验证模糊神经网络算法控制散热系统]( https://github.com/DC-Melo/)
 
 
 ### 正在进行项目Projects Ongoing ###
-- [OpenGL+Blender-自己人像的射击游戏](#OpenGL+Blender-自己人像的射击游戏)
-- [GAN-图片生成3D人脸模型](#OpenGL+Blender-自己人像的射击游戏)
-- [GAN-deepfake-深度学习换脸](#OpenGL+Blender-自己人像的射击游戏)
+- [OpenGL+Blender-自己人像的射击游戏]( https://github.com/DC-Melo/)
+- [GAN-图片生成3D人脸模型]( https://github.com/DC-Melo/)
+- [GAN-deepfake-深度学习换脸]( https://github.com/DC-Melo/)
 
 ## 阅读参考书籍目录Coding reference books ##
-- [学习OpenCV](#学习OpenCV) 
-- [Learning OpenGL](#Learning OpenGL) 
+- ![学习OpenCV](README/learning_OpenCV_3.jpg) 
+- ![Learning OpenGL](README/learning_OpenCV_3.jpg) 
 
 
 <!-- 项目点赞 -->
 ## 请为我点赞Donation ##
 如果你喜欢我的项目，请在对应的项目右上角 "Star" 一下。你的支持是我最大的鼓励☺☺！你也还可以扫描下面的二维码，对作者进行打赏。  
 If you like my project, "Star" in the corresponding project right corner, please. Your support is my biggest encouragement☺☺! You can also scan the qr code below or Donate to this project using Paypal, donation to Author.  
-
----
+![donation](README/donation_quick_response_code.png)
 <div align="center">
-<img src="readme_files/dc_wechat_pay.png" width="200" >
-<img src="readme_files/dc_ali_pay.png"    width="200" >
-<img src="readme_files/dc_bitcoin.png"    width="200" >
+<img src="README/dc_wechat_pay.png" width="200" >
+<img src="README/dc_ali_pay.png"    width="200" >
+<img src="README/dc_bitcoin.png"    width="200" >
 </div>
 
 如果在捐赠留言中备注名称，将会被记录到列表中~ 如果你也是github开源作者，捐赠时可以留下github项目地址或者个人主页地址，链接将会被添加到列表中起到互相推广的作用  
