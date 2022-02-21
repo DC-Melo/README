@@ -36,7 +36,7 @@
 | 编程工具          | 对应工具链                     | 面向解决问题编程                         |
 | --------          | ---------                      | ----------------                         |
 | 嵌入式,ASM,C,uCos | freescale,makefile             | PCB，硬件开发,驱动开发，信号分析,HIL台架 |
-| C++,Linux         | CMake, GDB                     | OpenCV,OpenGL,FFmepg,SLAM,Blender3D      |
+| C++,Linux         | CMake, GDB                     | OpenCV,OpenGL,FFmepg,ImageMagick,SLAM,Blender3D      |
 | JAVA              | Gradle,JVM,SPring,Hadoop,Spark | APP开发，中间件开发,集群运算             |
 | Python            | pudb                           | 数据爬虫，测试框架，tensorflow机器学习   |
 | Go                |                                | 跨平台系统命令                           |
@@ -86,12 +86,12 @@
 
 - [C++-比特币源码阅读、更改、编译、运行](#C++-比特币源码阅读、更改、编译、运行)
 - [C++-生成比特币荣耀地址](#C++-比特币生成荣耀地址)
-- [Python-爬虫爬取比特币超过1BTC的账户地址](#Python-爬虫爬取比特币超过1BTC的账户地址)[crawling_pass_address](https://github.com/DC-Melo/crawling_pass_address)
+- [Python-爬虫爬取比特币超过1BTC的账户地址](#Python-爬虫爬取比特币超过1BTC的账户地址)
 - [Spark+Map+Reduce-常用密码数据库sha512成私钥，通过私钥计算地址，再检查该地址是否有比特币](#Spark+Map+Reduce-常用密码sha512成私钥，通过私钥计算地址，再检查该地址是否有比特币)
 - [比特币钱包DLL反编理解,查看钱包中地址与比特币金额](#比特币钱包DLL反编理解,查看钱包中地址与比特币金额)
 - [JAVA-比特币信息爬虫,检测到新的比特币暴涨暴跌消息，及时钉钉短信通知](#JAVA-比特币信息爬虫,检测到新的比特币暴涨暴跌消息，及时钉钉短信通知)
 
-- [GO-安卓测试工具集合(27大常用测试工具)](#GO-安卓测试工具集合(27大常用测试工具))
+- [GO-安卓测试工具集合(27大常用测试工具)](#GO-安卓测试工具集合(27大常用测试工具)
 - [C#-基于周立功CAN卡实车总线上位机开发](#C#-基于周立功CAN卡实车总线上位机开发)
 - [VIM-script-中文测试用例全自动转换Python测试代码](#VIM-script-中文测试用例全自动转换Python测试代码)
 - [Python-安卓接收测试五大原子方法实现](#Android-接收测试五大原子方法实现)
@@ -121,7 +121,6 @@
 
 
 - [OpenGL+Blender-自己人像的射击游戏](#OpenGL+Blender-自己人像的射击游戏)
-
 - [学习OpenCV](#学习OpenCV)
 - [Learning OpenGL](#Learning OpenGL)
 
