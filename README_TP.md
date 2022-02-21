@@ -4,8 +4,7 @@
 ![platform](https://img.shields.io/badge/platform-Linux-yellow.svg) 
 ![language](https://img.shields.io/badge/language-markdown-blue.svg) 
 <!-- 项目描述 -->
-project description
-
+project description☻☺  
 
 <!-- 项目目录 -->
 ## 项目目录Table of Contents ##
