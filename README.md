@@ -11,7 +11,7 @@
 **王江 DC-Melo**  
 期待地点：海外北上杭深  
 期待岗位：图像算法，计算机3D建模渲染显示，计算机视觉图像理解，以及涉及到的硬件  
-个人简介：https://github.com/DC-Melo/README  
+个人简介：https://github.com/DC-Melo/README https://gitee.com/DC-Melo/README  
 开源项目：https://github.com/DC-Melo  
 联系方式：+86-152-1670-6941 wangjiang@alumni.tongji.edu.cn  
 
@@ -126,17 +126,17 @@
 - [GAN-deepfake-深度学习换脸]( https://github.com/DC-Melo/)
 
 ## 阅读参考书籍目录Coding reference books ##
-- ![学习OpenCV](README/learning_OpenCV_3.jpg "Learning OpenGL") 
-- ![Learning OpenGL](README/learning_OpenCV_3.jpg "Learning OpenGL") 
+- ![学习OpenCV](docs/img/learning_OpenCV_3.jpg "Learning OpenGL") 
+- ![Learning OpenGL](docs/img/learning_OpenCV_3.jpg "Learning OpenGL") 
 
 
 <!-- 项目点赞 -->
 ## 请为我点赞Donation ##
 如果你喜欢我的项目，请在对应的项目右上角 "Star" 一下。你的支持是我最大的鼓励☺☺！你也还可以扫描下面的二维码，对作者进行打赏。  
 If you like my project, "Star" in the corresponding project right corner, please. Your support is my biggest encouragement☺☺! You can also scan the qr code below or Donate to this project using Paypal, donation to Author.  
-![donation](README/donation_quick_response_code.png "donation")
-![donation](README/dc_ali_pay.png "donation")
-![donation](README/dc_bitcoin.png "donation")  
+![donation](docs/img/donation_quick_response_code.png "donation")
+![donation](docs/img/dc_ali_pay.png "donation")
+![donation](docs/img/dc_bitcoin.png "donation")  
 <!-- <div align="center"> -->
 <!-- <img src="README/dc_wechat_pay.png" width="200" > -->
 <!-- <img src="README/dc_ali_pay.png"    width="200" > -->
