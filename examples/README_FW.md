@@ -18,7 +18,7 @@ project description
 - [参与贡献Contributing](#参与贡献Contributing)
 - [相关项目Related](#相关项目Related)
 - [开源协议License](#开源协议License)
-- [为项目点赞Donation](#为项目点赞Donation)
+- [为项目点赞Donation](## 为项目点赞Donation ##)
 
 <!-- 项目背景 -->
 ## 项目背景Background ##
@@ -56,7 +56,7 @@ This project exists thanks to all the people who contribute.
 [MIT](https://github.com/dc-melo/README/LICENSE) © DC-Melo王江
 
 <!-- 项目点赞 -->
-## 请为我点赞Donation ##
+## 为项目点赞Donation ##
 如果你喜欢我的项目，请在对应的项目右上角 "Star" 一下。你的支持是我最大的鼓励☺☺！你也还可以扫描下面的二维码，对作者进行打赏。  
 If you like my project, "Star" in the corresponding project right corner, please. Your support is my biggest encouragement☺☺! You can also scan the qr code below or Donate to this project using Paypal, donation to Author.  
 ![donation](README/donation_quick_response_code.png)
