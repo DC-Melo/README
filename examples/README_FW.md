@@ -9,16 +9,16 @@ project description
 
 <!-- 项目目录 -->
 ## 项目目录Table of Contents ##
-- [项目背景Background](#项目背景Background)
-- [软件架构Environment](#软件架构Environment)
-- [编译安装Install](#编译安装Install)
-- [使用说明Usage](#使用说明Usage)
-- [后续工作TODO](#后续工作TODO)
-- [项目负责人Maintainers](#项目负责人Maintainers)
-- [参与贡献Contributing](#参与贡献Contributing)
-- [相关项目Related](#相关项目Related)
-- [开源协议License](#开源协议License)
-- [为项目点赞Donation](#为项目点赞Donation)
+- [项目背景Background](#项目背景background)
+- [软件架构Environment](#软件架构environment)
+- [编译安装Install](#编译安装install)
+- [使用说明Usage](#使用说明usage)
+- [后续工作TODO](#后续工作todo)
+- [项目负责人Maintainers](#项目负责人maintainers)
+- [参与贡献Contributing](#参与贡献contributing)
+- [相关项目Related](#相关项目related)
+- [开源协议License](#开源协议license)
+- [为项目点赞Donation](#为项目点赞donation)
 
 <!-- 项目背景 -->
 ## 项目背景Background ##
@@ -38,21 +38,25 @@ project description
 
 <!-- 项目负责人 -->
 ## 项目负责人Maintainers ##
+
 [@DC-Melo](https://github.com/DC-Melo)
 [@DC-Melo](https://gitee.com/DC-Melo)
 
 <!-- 参与贡献 -->
 ## 参与贡献Contributing ##
+
 This project exists thanks to all the people who contribute.
 <a href="https://github.com/dc-melo/README/graphs/contributors"><img src="https://opencollective.com/README/contributors.svg?width=890&button=false" /></a>
 
 <!-- 相关项目 -->
 ## 相关项目Related ##
+
 - [Readme](https://github.com/dc-melo/README) - 💌 about the author,and all the project overview.
 
 
 <!-- 开源协议 -->
 ## 开源协议License ##
+
 [MIT](https://github.com/dc-melo/README/LICENSE) © DC-Melo王江
 
 <!-- 项目点赞 -->
