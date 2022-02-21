@@ -46,11 +46,12 @@ project description
 
 <!-- 参与贡献 -->
 ## 参与贡献Contributing ##
-
+This project exists thanks to all the people who contribute.
+<a href="https://github.com/dc-melo/README/graphs/contributors"><img src="https://opencollective.com/README/contributors.svg?width=890&button=false" /></a>
 
 <!-- 相关项目 -->
 ## 相关项目Related ##
-- [Art of Readme](https://github.com/noffle/art-of-readme) - 💌 Learn the art of writing quality READMEs.
+- [Readme](https://github.com/dc-melo/README) - 💌 about the author,and all the project overview.
 
 
 <!-- 开源协议 -->
