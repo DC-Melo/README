@@ -136,7 +136,8 @@
 If you like my project, "Star" in the corresponding project right corner, please. Your support is my biggest encouragement☺☺! You can also scan the qr code below or Donate to this project using Paypal, donation to Author.  
 
 ---
-![donation](README/donation_quick_response_code.png)  
+
+![donation](https://github.com/DC-Melo/README/README/donation_quick_response_code.png)  
 
 ---
 <div align="center">
