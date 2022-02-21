@@ -72,6 +72,6 @@ If you comment on the name in the donation message, it will be recorded in the l
 捐赠列表(Donation list)
 
 
-## Donation ##
+## Donation
 test donatin
 
