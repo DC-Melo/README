@@ -41,7 +41,7 @@
 | C++,Linux         | CMake, GDB                     | OpenCV,OpenGL,FFmepg,ImageMagick,SLAM,Blender3D |
 | JAVA              | Gradle,JVM,SPring,Hadoop,Spark | APP开发，中间件开发,集群运算                    |
 | Python            | pudb                           | 数据爬虫，测试框架，tensorflow机器学习          |
-| Go                |                                 跨平台系统命令                                  ||
+| Go                |                                | 跨平台系统命令                                  |
 
 
 兴趣涉猎：**机器学习算法NB，DT，SVM，KF，TensorFlow、CNN、GAN，RNN，SLAM**  
@@ -54,7 +54,8 @@
 **喜欢展示分享** 喜欢看各种论文，喜欢听分享报告,也喜欢分享技术  
 
 ## 工作经验
-2019.05-至今    梧桐车联（腾讯CSIG智慧出行事业部）  
+
+### 2019.05-至今    梧桐车联（腾讯CSIG智慧出行事业部） ###
 **Python** 组织团队构建测试框架，开发python测试框架基础原子方法，将模版化的中文测试用例，通过vim编辑器快速生成测试用例脚本。团队经过简单调试，合校即可将上千条测试用例投入使用。  
 **GO**     测试中心大约27个测试工具，按模块抓日志，获取各个APP版本号，运行monkey，检查ANR，CRASH，分析缺陷，自动提交缺陷等等。通过调研分析，GO语言非常适合做跨平台的命令工具。于是3天快速入门GO，两周完成27个功能中的20个功能的开发调试和使用培训。  
 **JAVA**   使用JAVA开发了一安卓打地鼠游戏，用于采集车机不同屏幕区域的点击便捷度。  
