@@ -137,10 +137,19 @@ If you like my project, "Star" in the corresponding project right corner, please
 
 ---
 ![donation](README/donation_quick_response_code.png)  
+
+---
 <div align="center">
-<img src="README/README/dc_wechat_pay.png" width="200" >
-<img src="README/README/dc_ali_pay.png"    width="200" >
-<img src="README/README/dc_bitcoin.png"    width="200" >
+<img src="README/dc_wechat_pay.png" width="200" >
+<img src="README/dc_ali_pay.png"    width="200" >
+<img src="README/dc_bitcoin.png"    width="200" >
+</div>
+
+---
+<div align="center">
+<img src="readme_files/dc_wechat_pay.png" width="200" >
+<img src="readme_files/dc_ali_pay.png"    width="200" >
+<img src="readme_files/dc_bitcoin.png"    width="200" >
 </div>
 
 如果在捐赠留言中备注名称，将会被记录到列表中~ 如果你也是github开源作者，捐赠时可以留下github项目地址或者个人主页地址，链接将会被添加到列表中起到互相推广的作用  
