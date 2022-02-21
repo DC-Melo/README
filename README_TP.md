@@ -1,17 +1,14 @@
-# Project Name #
-
+# README #
 <!-- 项目标记 -->
 ![author](https://img.shields.io/badge/DC-Melo-brightgreen.svg) 
 ![platform](https://img.shields.io/badge/platform-Linux-yellow.svg) 
 ![language](https://img.shields.io/badge/language-markdown-blue.svg) 
-
 <!-- 项目描述 -->
 project description
 
 
 <!-- 项目目录 -->
 ## 项目目录Table of Contents ##
-
 - [项目背景Background](#项目背景Background)
 - [软件架构Environment](#软件架构Environment)
 - [编译安装Install](#编译安装Install)
