@@ -880,13 +880,11 @@ set cmdheight=2
 set completefunc=youcompleteme#CompleteFunc
 set completeopt=menuone
 set confirm
-set cpoptions=aAceFsB
 set dictionary=/usr/share/dict/words
 set expandtab
 set fileencodings=utf8,ucs-bom,gbk,cp936,gb2312,gb18030
 set helplang=cn
 set history=10000
-set hlsearch
 set ignorecase
 set incsearch
 set langmenu=zh_CN.UTF-8
@@ -924,11 +922,13 @@ if expand('%') == '' && !&modified && line('$') <= 1 && getline(1) == ''
   let s:wipebuf = bufnr('%')
 endif
 set shortmess=aoO
-badd +0 examples/README_FW.md
+badd +129 README.md
+badd +67 examples/README_FW.md
+badd +3 readme_cn.md
 argglobal
 silent! argdel *
-$argadd examples/README_FW.md
-edit examples/README_FW.md
+$argadd README.md
+edit README.md
 set splitbelow splitright
 set nosplitbelow
 set nosplitright
@@ -938,8 +938,6 @@ argglobal
 let s:cpo_save=&cpo
 set cpo&vim
 inoremap <buffer> <silent> <BS> =AutoPairsDelete()
-snoremap <buffer> <nowait> <silent>  :call UltiSnips#JumpBackwards()
-snoremap <buffer> <nowait> <silent>  :call UltiSnips#JumpForwards()
 inoremap <buffer> <silent> § =AutoPairsMoveCharacter('''')
 inoremap <buffer> <silent> ¢ =AutoPairsMoveCharacter('"')
 inoremap <buffer> <silent> © =AutoPairsMoveCharacter(')')
@@ -953,19 +951,13 @@ inoremap <buffer> <silent> û =AutoPairsMoveCharacter('{')
 inoremap <buffer> <silent> Ý =AutoPairsMoveCharacter(']')
 inoremap <buffer> <silent> Û =AutoPairsMoveCharacter('[')
 inoremap <buffer> <silent>  =AutoPairsDelete()
-inoremap <buffer> <nowait> <silent>  =UltiSnips#JumpBackwards()
-inoremap <buffer> <nowait> <silent>  =UltiSnips#JumpForwards()
 inoremap <buffer> <silent>   =AutoPairsSpace()
 inoremap <buffer> <silent> " =AutoPairsInsert('"')
 inoremap <buffer> <silent> ' =AutoPairsInsert('''')
 inoremap <buffer> <silent> ( =AutoPairsInsert('(')
 inoremap <buffer> <silent> ) =AutoPairsInsert(')')
-nnoremap <buffer> <silent> î :call AutoPairsJump()
-xnoremap <buffer> <silent> î :call AutoPairsJump()
-onoremap <buffer> <silent> î :call AutoPairsJump()
-nnoremap <buffer> <silent> ð :call AutoPairsToggle()
-xnoremap <buffer> <silent> ð :call AutoPairsToggle()
-onoremap <buffer> <silent> ð :call AutoPairsToggle()
+noremap <buffer> <silent> î :call AutoPairsJump()
+noremap <buffer> <silent> ð :call AutoPairsToggle()
 inoremap <buffer> <silent> [ =AutoPairsInsert('[')
 inoremap <buffer> <silent> ] =AutoPairsInsert(']')
 inoremap <buffer> <silent> ` =AutoPairsInsert('`')
@@ -1039,6 +1031,7 @@ setlocal keywordprg=
 setlocal nolinebreak
 setlocal nolisp
 setlocal lispwords=
+set list
 setlocal nolist
 setlocal makeencoding=
 setlocal makeprg=
@@ -1091,11 +1084,11 @@ set nowrap
 setlocal nowrap
 setlocal wrapmargin=0
 silent! normal! zE
-let s:l = 1 - ((0 * winheight(0) + 14) / 29)
+let s:l = 129 - ((14 * winheight(0) + 14) / 29)
 if s:l < 1 | let s:l = 1 | endif
 exe s:l
 normal! zt
-1
+129
 normal! 0
 tabnext 1
 if exists('s:wipebuf')
