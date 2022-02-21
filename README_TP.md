@@ -21,7 +21,7 @@ project description
 - [参与贡献Contributing](#参与贡献Contributing)
 - [相关项目Related](#相关项目Related)
 - [开源协议License](#开源协议License)
-- [请为我点赞Donation](#请为我点赞Donation)
+- [为项目点赞Donation](#为项目点赞Donation)
 
 <!-- 项目背景 -->
 ## 项目背景Background ##
@@ -56,7 +56,7 @@ This project exists thanks to all the people who contribute.
 
 <!-- 开源协议 -->
 ## 开源协议License ##
-[MIT](LICENSE) © DC-Melo王江
+[MIT](https://github.com/dc-melo/README/LICENSE) © DC-Melo王江
 
 <!-- 项目点赞 -->
 ## 请为我点赞Donation ##
@@ -74,4 +74,5 @@ If you like my project, "Star" in the corresponding project right corner, please
 If you comment on the name in the donation message, it will be recorded in the list. ~If you are also an open source author of github, you can leave the GitHub project address or personal home page address when donating. Links will be added to the list to promote each other.  
 捐赠列表(Donation list)
 
-    
+
+
