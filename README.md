@@ -33,6 +33,7 @@
 主修课程：汽车构造、汽车理论、汽车电器、电路电子、自动控制理论、微机原理、汽车维修、汽车营销、管理学、**数学基础优异**  
 
 ## 主要技能: 面向问题快速学习、掌握编程工具、解决问题的能力 ##
+- 面向问题、解决问题
 | 编程工具          | 对应工具链                     | 发现问题、解决问题过程中掌握的编程                                |
 | :------           | :--------                      | :---------------                                |
 | 嵌入式,ASM,C,uCos | freescale,makefile             | PCB，硬件开发,驱动开发，信号分析,HIL台架        |
@@ -40,11 +41,9 @@
 | JAVA              | Gradle,JVM,SPring,Hadoop,Spark | APP开发，中间件开发,集群运算                    |
 | Python            | pudb                           | 数据爬虫，测试框架，tensorflow机器学习          |
 | Go                |                                | 跨平台系统命令                                  |
-
-
-兴趣涉猎：**机器学习算法NB，DT，SVM，KF，TensorFlow、CNN、GAN，RNN，SLAM**  
-数学基础：熟悉矩阵计算，熟悉概率论，熟悉复变函数，熟悉利群李代数  
-论文能力：读了较多的英文论文以及书籍。JVM，Introduction to Algorithms，Deep Learning（Lan Goodfellow），Deep Learning with Python，hadoop，spark  
+- 兴趣涉猎：**机器学习算法NB，DT，SVM，KF，TensorFlow、CNN、GAN，RNN，SLAM**  
+- 数学基础：熟悉矩阵计算，熟悉概率论，熟悉复变函数，熟悉利群李代数  
+- 论文能力：读了较多的英文论文以及书籍。JVM，Introduction to Algorithms，Deep Learning（Lan Goodfellow），Deep Learning with Python，hadoop，spark  
 
 ## 性格爱好 ##
 **无挑战不欢** 性格开朗、富有挑战精神、喜欢尝试新鲜事物、喜欢有流动性的生活、有较强的适应性  
@@ -60,21 +59,21 @@
 - **组织培训** 每月定期培训团队，赋能团队。培训内容包括: 嵌入式硬件基本知识，通讯基本知识基础,面向各种问题，使用对应编程语言解决问题。  
   
 ### 2016.10-2019.04 安吉四维导航系统、导航地图测试、车辆互联产品开发测试 ###
-1. **Linux**    测试基于Android的导航系统(给上汽红岩定制的产品)。具备Android系统定制能力(Linux+C编译)  
-2. **adb**      测试手机车机互联产品(为大众、上汽定制的产品)。具备APP测试开发能力、adb调试能力(Linux+Java+adb)  
-3. **OpenCV**   基于ROS设计物流AGV仿真系统。使用blender画3D模型，使用gazebo进行仿真，使用OpenCV进行图像处理。  
-4. **组织培训** 带领测试团队，组织安排车机测试工作。  
+- **Linux**    测试基于Android的导航系统(给上汽红岩定制的产品)。具备Android系统定制能力(Linux+C编译)  
+- **adb**      测试手机车机互联产品(为大众、上汽定制的产品)。具备APP测试开发能力、adb调试能力(Linux+Java+adb)  
+- **OpenCV**   基于ROS设计物流AGV仿真系统。使用blender画3D模型，使用gazebo进行仿真，使用OpenCV进行图像处理。  
+- **组织培训** 带领测试团队，组织安排车机测试工作。  
   
 ### 2012.09-2016.10 翼锐汽车仪表自动测试系统搭建   ###
-1. **CANoe,VB** 基于VB开发基于Excel测试用例管理系统、以及用户测试界面(VB)  
-2. **CAN,LIN,IO** 基于CANoe开发控制器测试系统,进行CAN总线信号测试和硬线信号测试(C+CAN)  
-3. **Python**   基于Python开发控制器一键快速编码程序(python)  
+- **CANoe,VB** 基于VB开发基于Excel测试用例管理系统、以及用户测试界面(VB)  
+- **CAN,LIN,IO** 基于CANoe开发控制器测试系统,进行CAN总线信号测试和硬线信号测试(C+CAN)  
+- **Python**   基于Python开发控制器一键快速编码程序(python)  
   
 ### 2009.09-2011.04 研究生阶段参与课题：燃料电池备用电源控制器开发（国家科技支撑项目） ###
-1. **Labview**  负责开发燃料电池备用电源人机界面，参与燃料电池备用电源系统控制流程设计 (Labview+C)  
-2. **Matlab**   用Matlab验证模糊神经网络算法控制散热系统。并在Freescale(NXP)芯片的控制器上实现控制算法(NNs+C)。  
-3. **PID,PWM**  基于freescale的DZ60芯片，使用PID算法控制燃料电池温度。
-4. **uCos-II**  基于freescale的256芯片移植实时操作系统uCos-II，并在uCos-II上实现系统的控制策略(汇编ASM+C语言)  
+- **Labview**  负责开发燃料电池备用电源人机界面，参与燃料电池备用电源系统控制流程设计 (Labview+C)  
+- **Matlab**   用Matlab验证模糊神经网络算法控制散热系统。并在Freescale(NXP)芯片的控制器上实现控制算法(NNs+C)。  
+- **PID,PWM**  基于freescale的DZ60芯片，使用PID算法控制燃料电池温度。
+- **uCos-II**  基于freescale的256芯片移植实时操作系统uCos-II，并在uCos-II上实现系统的控制策略(汇编ASM+C语言)  
 
 ## 奖励情况 ##
 2019.05-至今    工作三年,两年绩效考核最高等级  
