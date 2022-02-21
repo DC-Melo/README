@@ -12,8 +12,8 @@
 期待地点：海外北上杭深  
 期待岗位：图像算法，计算机3D建模渲染显示，计算机视觉图像理解，以及涉及到的硬件  
 个人简介：https://github.com/DC-Melo/README https://gitee.com/DC-Melo/README  
-开源项目：https://github.com/DC-Melo  
-联系方式：+86-152-1670-6941 wangjiang@alumni.tongji.edu.cn  
+开源项目：https://github.com/DC-Melo        https://gitee.com/DC-Melo  
+联系方式：wangjiang@alumni.tongji.edu.cn    +86-152-1670-6941  
 
 
 ## 工作经历&教育背景&主修课程 ##
