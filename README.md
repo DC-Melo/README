@@ -137,7 +137,7 @@ If you like my project, "Star" in the corresponding project right corner, please
 
 ---
 
-![donation](https://github.com/DC-Melo/README/README/donation_quick_response_code.png)  
+![donation](README/donation_quick_response_code.png "donation")  
 
 ---
 <div align="center">
