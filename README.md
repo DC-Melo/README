@@ -1,6 +1,6 @@
-# DC's CV #
+# ☺DC's CV☺ #
 
-<!-- 项目标记 -->
+<!-- 项目标记☺☺ -->
 ![author](https://img.shields.io/badge/DC-Melo-brightgreen.svg) 
 ![platform](https://img.shields.io/badge/platform-Linux-yellow.svg) 
 ![language](https://img.shields.io/badge/language-markdown-blue.svg) 
@@ -35,13 +35,13 @@
 ## 主要技能: 面向问题快速学习、掌握编程工具、解决问题的能力 ##
 - 面向问题、解决问题  
 
-| 编程工具          | 对应工具链                     | 发现问题、解决问题过程中掌握的编程                                |
-| :------           | :--------                      | :---------------                                |
-| 嵌入式,ASM,C,uCos | freescale,makefile             | PCB，硬件开发,驱动开发，信号分析,HIL台架        |
-| C++,Linux         | CMake, GDB                     | OpenCV,OpenGL,FFmepg,ImageMagick,SLAM,Blender3D |
-| JAVA              | Gradle,JVM,SPring,Hadoop,Spark | APP开发，中间件开发,集群运算                    |
-| Python            | pudb                           | 数据爬虫，测试框架，tensorflow机器学习          |
-| Go                |                                | 跨平台系统命令                                  |
+| 编程工具       | 对应工具链                         | 发现问题、解决问题过程中掌握的编程              |
+| :------        | :--------                          | :---------------                                |
+| PCB,ASM,C,uCos | Altium designer,freescale,makefile | PCB，硬件开发,驱动开发，信号分析,HIL台架        |
+| C++,Linux      | CMake, GDB                         | OpenCV,OpenGL,FFmepg,ImageMagick,SLAM,Blender3D |
+| JAVA           | Gradle,JVM,SPring,Hadoop,Spark     | APP开发，中间件开发,集群运算                    |
+| Python         | pudb                               | 数据爬虫，测试框架，tensorflow机器学习          |
+| Go             |                                    | 跨平台系统命令                                  |
 
 - 兴趣涉猎：**机器学习算法NB，DT，SVM，KF，TensorFlow、CNN、GAN，RNN，SLAM**  
 - 数学基础：熟悉矩阵计算，熟悉概率论，熟悉复变函数，熟悉利群李代数  
@@ -131,111 +131,3 @@
 
 
 
-Wang Jiang (王江)
-+86-152-1670-6941 	2wangjiang@tongji.edu.cn
-Vehicle Engineering in Tongji University, 4800# Cao’an Road, Shanghai, China 201804
-Education                                                                      
-Tongji University(985/211), Shanghai. 				                                            2009/09~now
-M.S. expected in March 2011. Major in Vehicle Engineering;
-Studied Modern control theory, system identification, fuzzy control, computer control base, automotive dynamics, auto test etc.
-Jiangsu university, Jiangsu. 	                                                              2005/09~2009/06
-B.S. in Automobile Application Engineering;
-Studied Automobile structure, automobile theory, automobile electric appliances, circuit electronics, automatic control theory, car maintenance etc.
-Internship Experience & Social Activity                                                       
-Kunshan  Forsight Co. ,Ltd	 			         					                          2009, Kunshan
-Backup power system field test; Researched uCos-II real-time operating system; developing the fuel cell backup power human-computer interface; design backup power system control process ;
-Researched the current fuel cell development status and advanced technology;
-Shanghai Fuel Cell Vehicle Powertrain Co., Ltd                       Jul. 2010~Aug. 2010, shanghai
-Translated the oversea academic documents, and checked the translated documents;
-Park technology Volunteer of Shanghai World Expo         			                    May.2010 shanghai 
-Collected data of fuel cell car for Shanghai Automotive Industry Corporation (Group)
-Project Experience													                                    
-Participating project: Fuel cell backup power (national science and technology support project)                                                          Sep.2009~Now
-analysis DC/DC outside characteristics,developed fuel cell backup power man-machine interface, participate in fuel cell backup power system control process design.
-developed fuel cell backup power control system based on real-time operating system uCos – II.
-Researching project: fuel cell generator                        			               Sep.2009~Mar.2011
-developed monomer inspection program;
-Researching topic: fuel cell system control                        			               Sep.2009~Now
-research fuel cell system output capacity, and the relationship between fuel cell system working efficiency and system  working point.
-research real-time operating system uCos - II.
-research neural network and fuzzy control theory.
-Skills																			                            
-Programming Software: C Language, Matlab(simulink), Test Software(Labview)
-Designing Software: AutoCAD, Hypermes
-English：CET-6
-Editing Software: Word, Excel, PowerPoint 
-<!-- 项目目录 -->
-## 项目目录Table of Contents 
-
-- [项目背景Background](#项目背景Background)
-- [软件架构Environment](#软件架构Environment)
-- [编译安装Install](#编译安装Install)
-- [使用说明Usage](#使用说明Usage)
-- [后续工作TODO](#后续工作TODO)
-- [项目负责人Maintainers](#项目负责人Maintainers)
-- [参与贡献Contributing](#参与贡献Contributing)
-- [相关项目Related](#相关项目Related)
-- [开源协议License](#开源协议License)
-- [请为我点赞Donation](#请为我点赞Donation)
-
-
-<!-- 项目背景 -->
-## 项目背景Background
-
-
-<!-- 软件架构 -->
-## 软件架构Environment
-
-
-<!-- 编译安装 -->
-## 编译安装Install
-
-
-<!-- 使用说明 -->
-## 使用说明Usage
-
-
-<!-- 使用说明 -->
-## 后续工作TODO
-
-
-<!-- 项目负责人 -->
-## 项目负责人Maintainers
-
-[@DC-Melo](https://github.com/DC-Melo)
-[@DC-Melo](https://gitee.com/DC-Melo)
-
-<!-- 参与贡献 -->
-## 参与贡献Contributing
-
-
-<!-- 相关项目 -->
-## 相关项目Related
-
-- [Art of Readme](https://github.com/noffle/art-of-readme) - 💌 Learn the art of writing quality READMEs.
-
-
-<!-- 开源协议 -->
-## 开源协议License
-
-[MIT](LICENSE) © DC-Melo王江
-
-<!-- 捐赠 -->
-## 请为我点赞Donation
-
-如果你喜欢我的项目，请在对应的项目右上角 "Star" 一下。你的支持是我最大的鼓励！ ^^ 你也还可以扫描下面的二维码，对作者进行打赏。
-
-If you like my project, "Star" in the corresponding project right corner, please. Your support is my biggest encouragement! ^^ You can also scan the qr code below or Donate to this project using Paypal, donation to Author.
----
-<div align="center">
-<img src="readme_files/dc_wechat_pay.png" width="200" >
-<img src="readme_files/dc_ali_pay.png"    width="200" >
-<img src="readme_files/dc_bitcoin.png"    width="200" >
-</div>
-
-如果在捐赠留言中备注名称，将会被记录到列表中~ 如果你也是github开源作者，捐赠时可以留下github项目地址或者个人主页地址，链接将会被添加到列表中起到互相推广的作用
-
-If you comment on the name in the donation message, it will be recorded in the list. ~If you are also an open source author of github, you can leave the GitHub project address or personal home page address when donating. Links will be added to the list to promote each other.
-捐赠列表(Donation list)
-
-    
