@@ -42,14 +42,22 @@
 
 ## 主要技能: 面向问题快速学习、掌握编程工具、解决问题的能力 ##
 - 面向问题、解决问题  
-
 | 编程工具       | 对应工具链                         | 发现问题、解决问题过程中掌握的编程              |
 | :------        | :--------                          | :---------------                                |
 | PCB,ASM,C,uCos | Altium designer,freescale,makefile | PCB，硬件开发,驱动开发，信号分析,HIL台架        |
 | C++,Linux      | CMake, GDB                         | OpenCV,OpenGL,FFmepg,ImageMagick,SLAM,Blender3D |
+| Python GO      | pudb                               | 数据爬虫，测试框架，tensorflow机器学习 系统命令 |
 | JAVA           | Gradle,JVM,SPring,Hadoop,Spark     | APP开发，中间件开发,集群运算                    |
-| Python         | pudb                               | 数据爬虫，测试框架，tensorflow机器学习          |
-| Go             |                                    | 跨平台系统命令                                  |
+```                     
+ +------------+     +-------------------------------------+
+ |            |     |                                     |
+ |PCB ASM uCos|     |PCB HIL CANoe                        |
+ |C/C++ Linux +---->|OpenCV OpenGL FFmpeg ImageMagick SLAM|
+ |Python GO   |     |TensorFlow CNN                       |
+ |JAVA JVM    |     |Spring Hadoop Spark                  |
+ |            |     |GIMP Blender                         |
+ +------------+     +-------------------------------------+
+```
 
 - 兴趣涉猎：**机器学习算法NB，DT，SVM，KF，TensorFlow、CNN、GAN，RNN，SLAM**  
 - 数学基础：熟悉矩阵计算，熟悉概率论，熟悉复变函数，熟悉利群李代数  
