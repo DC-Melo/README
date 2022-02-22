@@ -44,7 +44,7 @@
 - 面向问题、解决问题  
 ```                     
  +------------+     +-------------------------------------+
- |            |     |                                     |
+ |  编程语言  |     |                                     |
  |PCB ASM uCos|     |PCB HIL CANoe                        |
  |C/C++ Linux +---->|OpenCV OpenGL FFmpeg ImageMagick SLAM|
  |Python GO   |     |TensorFlow CNN                       |
