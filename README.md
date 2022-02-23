@@ -117,23 +117,38 @@
 - [Python-安卓接收测试五大原子方法实现]( https://github.com/DC-Melo/)
 - [Python-基于周立功CAN卡进行总线自动化测试]( https://github.com/DC-Melo/)
 - [JAVA-注意力分区研究APP](https://github.com/DC-Melo/Attention_Partition)
+![pic alt](docs/media/Attention_Partition.gif)
 
 - [SLAM-仿真自动驾驶AGV](https://github.com/DC-Melo/)
+![pic alt](docs/media/apollo_simulation.gif)
+![pic alt](docs/media/slam_model_DC.gif)
+![pic alt](docs/media/slam_simulation.gif)
+![pic alt](docs/media/path_dynamic.gif)
+![pic alt](docs/media/lidar_before_testbench_b.gif)
+![pic alt](docs/media/lidar_before_testbench.gif)
 - [CANoe+Linux-车机HIL测试系统]( https://github.com/DC-Melo/)
 - [Python-使用WEB微信发送定制化微信新年祝福]( https://github.com/DC-Melo/)
+![pic alt](docs/media/python_crawler_order_badminton.gif)
 - [JAVA-使用WEB微信仿制微信通讯]( https://github.com/DC-Melo/)
 - [Tensorflow+CNN-人脸识别]( https://github.com/DC-Melo/)
+![pic alt](docs/media/CV_canny_detect.gif)
+![pic alt](docs/media/face_recongnize.gif)
+![pic alt](docs/media/face_detect.gif)
+![pic alt](docs/media/face_recongnize_1.gif)
 - [MantisBT-制作公司bug跟踪系统]( https://github.com/DC-Melo/)
 - [LAMP-制作个人主页]( https://github.com/DC-Melo/)
 - [FFmpeg+Imagamagic-制作自定义GIF动图shell脚本]( https://github.com/DC-Melo/)
 - [JAVA-早期项目代码丢失，需要维护APP，于是反编译APP，更改蓝牙代码UUID再回编译]( https://github.com/DC-Melo/)
 - [JAVA-手机APP通过蓝牙连接嵌入式硬件读取大众车辆VIN号、油量等关键信息保存于手机]( https://github.com/DC-Melo/)
 - [Python-静安羽毛球馆定时爬虫抢票脚本]( https://github.com/DC-Melo/)
+![pic alt](docs/media/test_bench_anji.gif)
+![pic alt](docs/media/JS_punch_in_DC.gif)
 
 - [CANoe+VBA+excel-仪表HIL测试系统]( https://github.com/DC-Melo/)
 - [uCos-II-移植实时操作系统uCos-II]( https://github.com/DC-Melo/)
 - [PID+C-基于PID控制PWM风扇实现控制燃料电池系统温度]( https://github.com/DC-Melo/)
 - [Matlab-验证模糊神经网络算法控制散热系统]( https://github.com/DC-Melo/)
+
 
 
 ### 正在进行项目Projects Ongoing ###
