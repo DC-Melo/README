@@ -142,8 +142,11 @@
 - [GAN-deepfake-深度学习换脸]( https://github.com/DC-Melo/)
 
 ## 阅读参考书籍目录Coding reference books ##
-- ![学习OpenCV](docs/media/learning_OpenCV_3.jpg "Learning OpenGL") 
-- ![Learning OpenGL](docs/media/learning_OpenCV_3.jpg "Learning OpenGL") 
+- Learning OpenCV 3  
+<img src="docs/media/learning_OpenCV_3.jpg" alt="OpenCV3" height="200" align="center" />
+- OpenGL Programming guide  
+<img src="docs/media/OpenGL_Programming_guide.jpg" alt="OpenGL8" height="200" align="center" />
+
 
 
 <!-- 项目点赞 -->
