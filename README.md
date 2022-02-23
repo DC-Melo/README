@@ -41,7 +41,7 @@
 主修课程：汽车构造、汽车理论、汽车电器、电路电子、自动控制理论、微机原理、汽车维修、汽车营销、管理学、**数学基础优异**  
 
 ## 主要技能: 面向问题快速学习、掌握编程工具、解决问题的能力 ##
-- 面向问题、解决问题  
+- 面向问题、学习编程工具、解决问题  
 ```                     
  +------------+    +-------------------------+    +-------------------------------------+
  |            |    |                         |    |                                     |
@@ -105,8 +105,8 @@
 
 ### 已经完成项目Projects Closed ###
 - [C++-比特币源码阅读、更改、编译、运行](https://github.com/DC-Melo/)
-- [C++-生成比特币荣耀地址](https://github.com/DC-Melo/)
-- [Python-爬虫爬取比特币超过1BTC的账户地址](https://github.com/DC-Melo/)
+- [C++-生成比特币荣耀地址](https://github.com/DC-Melo/bitcoin_vanity_miner)
+- [Python-爬虫爬取比特币超过1BTC的账户地址](https://github.com/DC-Melo/bitcoin_valued_address)
 - [Spark+Map+Reduce-常用密码数据库sha512成私钥，通过私钥计算地址，再检查该地址是否有比特币]( https://github.com/DC-Melo/)
 - [比特币钱包DLL反编理解,查看钱包中地址与比特币金额]( https://github.com/DC-Melo/)
 - [JAVA-比特币信息爬虫,检测到新的比特币暴涨暴跌消息，及时钉钉短信通知]( https://github.com/DC-Melo/)
