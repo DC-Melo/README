@@ -144,6 +144,7 @@
 ## 阅读参考书籍目录Coding reference books ##
 - Learning OpenCV 3  
 <img src="docs/media/learning_OpenCV_3.jpg" alt="OpenCV3" height="200" align="center" />
+
 - OpenGL Programming guide  
 <img src="docs/media/OpenGL_Programming_guide.jpg" alt="OpenGL8" height="200" align="center" />
 
