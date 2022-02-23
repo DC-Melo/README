@@ -140,6 +140,7 @@
 - [FFmpeg+Imagamagic-制作自定义GIF动图shell脚本]( https://github.com/DC-Melo/)  
 - [JAVA-早期项目代码丢失，需要维护APP，于是反编译APP，更改蓝牙代码UUID再回编译]( https://github.com/DC-Melo/)  
 - [JAVA-手机APP通过蓝牙连接嵌入式硬件读取大众车辆VIN号、油量等关键信息保存于手机]( https://github.com/DC-Melo/)  
+![pic alt](docs/media/app_BT_PC.gif)  
 - [Python-静安羽毛球馆定时爬虫抢票脚本]( https://github.com/DC-Melo/)  
 ![pic alt](docs/media/python_crawler_order_badminton.gif)  
 ![pic alt](docs/media/JS_punch_in_DC.gif)  
