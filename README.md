@@ -136,6 +136,7 @@
 ![pic alt](docs/media/face_detect.gif)  
 ![pic alt](docs/media/face_recongnize_1.gif)  
 - [MantisBT-制作公司bug跟踪系统]( https://github.com/DC-Melo/)  
+![pic alt](docs/media/mantisBT.gif)  
 - [LAMP-制作个人主页]( https://github.com/DC-Melo/)  
 - [FFmpeg+Imagamagic-制作自定义GIF动图shell脚本]( https://github.com/DC-Melo/)  
 - [JAVA-早期项目代码丢失，需要维护APP，于是反编译APP，更改蓝牙代码UUID再回编译]( https://github.com/DC-Melo/)  
