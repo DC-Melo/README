@@ -91,6 +91,7 @@ gantt
 - 论文能力：读了较多的英文论文以及书籍。JVM，Introduction to Algorithms，Deep Learning（Lan Goodfellow），Deep Learning with Python，hadoop，spark  
 
 ## 性格爱好 ##
+**喜欢文艺、运动、及各种团队活动** 喜欢各种团队活动，参加社会各种社团，论坛，通过社交来提高自己。
 **无挑战不欢** 性格开朗、富有挑战精神、喜欢尝试新鲜事物、喜欢有流动性的生活、有较强的适应性  
 **喜欢就要玩专业高级** 喜欢运动。包括：摩托车、轮滑、滑雪、羽毛球，背包旅行  
 **喜欢展示分享** 喜欢看各种论文，喜欢听分享报告,也喜欢分享技术  
@@ -173,6 +174,7 @@ gantt
 - [FFmpeg+Imagamagic-制作自定义GIF动图shell脚本]( https://github.com/DC-Melo/)  
 - [JAVA-早期项目代码丢失，需要维护APP，于是反编译APP，更改蓝牙代码UUID再回编译]( https://github.com/DC-Melo/)  
 - [JAVA-手机APP通过蓝牙连接嵌入式硬件读取大众车辆VIN号、油量等关键信息保存于手机]( https://github.com/DC-Melo/)  
+![DC-gif](docs/media/phone_bluetooth_vehicle_2.gif)  
 ![DC-gif](docs/media/app_BT_PC.gif)  
 - [Python-静安羽毛球馆定时爬虫抢票脚本]( https://github.com/DC-Melo/)  
 ![DC-gif](docs/media/python_crawler_order_badminton.gif)  
