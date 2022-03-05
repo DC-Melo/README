@@ -73,86 +73,23 @@
 
 ```mermaid
 gantt
-    title 全体自动化工作输出-与会人员：邓刚，刘昱良，王江，曲晟，弓松涛
-    dateFormat  YYYY-MM-DD
-    excludes    weekends
+    title 王江DC-Melo工作经历
+    dateFormat  YYYY-MM
 
-    section 邓刚
-    一周总体计划               : weekplan  , 2022-02-28 , 1w
-    关键时间节点               : milestone  , 2022-02-28 , 0d
-    工作输出                   : done,   monf  , 2022-02-28 , 1d
-    今天计划                   : active, monp  , 2022-02-28 , 1d
-    工作输出                   : done,   monf  , 2022-02-28 , 1d
-    今天计划                   : active, monp  , 2022-02-28 , 1d
-    工作输出                   : done,   monf  , 2022-02-28 , 1d
-    今天计划                   : active, monp  , 2022-02-28 , 1d
-    工作输出                   : done,   monf  , 2022-02-28 , 1d
-    今天计划                   : active, monp  , 2022-02-28 , 1d
-    工作输出                   : done,   monf  , 2022-02-28 , 1d
-    今天计划                   : active, monp  , 2022-02-28 , 1d
+    section 工作经历
+    梧桐车联     : done , weekplan  , 2019-05 , 1000d
+    关键时间节点 : done , milestone , name    , 2022-05 , 0d
+    安吉四维     : done , weekplan  , 2016-10 , 950d
+    关键时间节点 : done , milestone , name    , 2019-05 , 0d
+    翼锐汽车     : done , weekplan  , 2012-06 , 1600d
+    关键时间节点 : done , milestone , name    , 2016-10 , 0d
 
-    section 刘昱良
-    一周总体计划               : weekplan  , 2022-02-28 , 1w
-    关键时间节点               : milestone  , 2022-02-28 , 0d
-    工作输出                   : done,   monf  , 2022-02-28 , 1d
-    今天计划                   : active, monp  , 2022-02-28 , 1d
-    工作输出                   : done,   monf  , 2022-02-28 , 1d
-    今天计划                   : active, monp  , 2022-02-28 , 1d
-    工作输出                   : done,   monf  , 2022-02-28 , 1d
-    今天计划                   : active, monp  , 2022-02-28 , 1d
-    工作输出                   : done,   monf  , 2022-02-28 , 1d
-    今天计划                   : active, monp  , 2022-02-28 , 1d
-    工作输出                   : done,   monf  , 2022-02-28 , 1d
-    今天计划                   : active, monp  , 2022-02-28 , 1d
-
-    section 王江
-    一周总体计划               : weekplan  , 2022-02-28 , 1w
-    关键时间节点               : milestone  , 2022-02-28 , 0d
-    跑monkey过程中性能培训讲解 : done,   monf  , 2022-02-28 , 1d
-    今天计划                   : active, monp  , 2022-02-28 , 1d
-    工作输出                   : done,   Tuef  , 2022-03-01 , 1d
-    工作输出                   : done,   monf  , 2022-02-28 , 1d
-    今天计划                   : active, monp  , 2022-02-28 , 1d
-    工作输出                   : done,   monf  , 2022-02-28 , 1d
-    今天计划                   : active, monp  , 2022-02-28 , 1d
-    工作输出                   : done,   monf  , 2022-02-28 , 1d
-    今天计划                   : active, monp  , 2022-02-28 , 1d
-    工作输出                   : done,   monf  , 2022-02-28 , 1d
-    今天计划                   : active, monp  , 2022-02-28 , 1d
-
-    section 曲晟
-    一周总体计划               : weekplan  , 2022-02-28 , 1w
-    关键时间节点               : milestone  , 2022-02-28 , 0d
-    工作输出                   : done,   monf  , 2022-02-28 , 1d
-    今天计划                   : active, monp  , 2022-02-28 , 1d
-    工作输出                   : done,   monf  , 2022-02-28 , 1d
-    今天计划                   : active, monp  , 2022-02-28 , 1d
-    工作输出                   : done,   monf  , 2022-02-28 , 1d
-    今天计划                   : active, monp  , 2022-02-28 , 1d
-    工作输出                   : done,   monf  , 2022-02-28 , 1d
-    今天计划                   : active, monp  , 2022-02-28 , 1d
-    工作输出                   : done,   monf  , 2022-02-28 , 1d
-    今天计划                   : active, monp  , 2022-02-28 , 1d
-
-    section 弓松涛
-    一周总体计划               : weekplan  , 2022-02-28 , 1w
-    关键时间节点               : milestone  , 2022-02-28 , 0d
-    工作输出                   : done,   monf  , 2022-02-28 , 1d
-    今天计划                   : active, monp  , 2022-02-28 , 1d
-    工作输出                   : done,   monf  , 2022-02-28 , 1d
-    今天计划                   : active, monp  , 2022-02-28 , 1d
-    工作输出                   : done,   monf  , 2022-02-28 , 1d
-    今天计划                   : active, monp  , 2022-02-28 , 1d
-    工作输出                   : done,   monf  , 2022-02-28 , 1d
-    今天计划                   : active, monp  , 2022-02-28 , 1d
-    工作输出                   : done,   monf  , 2022-02-28 , 1d
-    今天计划                   : active, monp  , 2022-02-28 , 1d
-
+    section 教育经历
+    同济大学     : done , weekplan  , 2009-09 , 950d
+    关键时间节点 : done , milestone , name    , 2012-04 , 0d
+    江苏大学     : done , weekplan  , 2005-09 , 1400d
+    关键时间节点 : done , milestone , name    , 2009-06 , 0d
 ```
-
-
-
-
 
 ### 2019.05-至今    梧桐车联（腾讯CSIG智慧出行事业部） ###
 - **Python**   组织团队构建测试框架，开发python测试框架基础原子方法，将模版化的中文测试用例，通过vim编辑器快速生成测试用例脚本。团队经过简单调试，合校即可将上千条测试用例投入使用。  
@@ -166,7 +103,7 @@ gantt
 - **OpenCV**   基于ROS设计物流AGV仿真系统。使用blender画3D模型，使用gazebo进行仿真，使用OpenCV进行图像处理。  
 - **组织培训** 带领测试团队，组织安排车机测试工作。  
   
-### 2012.09-2016.10 翼锐汽车仪表自动测试系统搭建   ###
+### 2012.06-2016.10 翼锐汽车仪表自动测试系统搭建   ###
 - **CANoe,VB** 基于VB开发基于Excel测试用例管理系统、以及用户测试界面(VB)  
 - **CAN,LIN,IO** 基于CANoe开发控制器测试系统,进行CAN总线信号测试和硬线信号测试(C+CAN)  
 - **Python**   基于Python开发控制器一键快速编码程序(python)  
