@@ -81,8 +81,8 @@ gantt
     今天计划       : active, monp  , 2022-02-28 , 1d
     工作输出       : done,   Tuef  , 2022-03-01 , 1d
     今天计划       : active, Tuep  , 2022-03-01 , 1d
-    工作输出       : done,   Wedf  , 2022-03-02 , 12h
-    今天计划       : active, Wedp  , 2022-03-02.12 , 12h
+    工作输出       : done,   Wedf  , 2022-03-02.01 , 2h
+    今天计划       : active, Wedp  , 2022-03-02.06 , 2h
     工作输出       : done,   Thuf  , 2022-03-03 , 1d
     今天计划       : active, Thup  , 2022-03-03 , 1d
 
