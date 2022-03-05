@@ -79,14 +79,52 @@ gantt
     王江           : weekplan  , 2022-02-28 , 1w
     工作输出       : monp  , 2022-02-28 , 1d
     今天计划       : monf  , 2022-02-28 , 1d
-    工作输出       : Tuep  , 2022-02-28 , 1d
-    今天计划       : Tuef  , 2022-02-28 , 1d
-    工作输出       : Wedp  , 2022-02-28 , 4h
-    今天计划       : Wedf  , 2022-02-28 , 4h
+    工作输出       : Tuep  , 2022-03-1 , 1d
+    今天计划       : Tuef  , 2022-03-1 , 1d
+    工作输出       : Wedp  , 2022-03-2 , 4h
+    今天计划       : Wedf  , 2022-03-2 , 4h
+    工作输出       : Thup  , 2022-03-3 , 1d
+    今天计划       : Thuf  , 2022-03-3 , 1d
 
 ```
 
-ganttDateFormwork
+
+
+```mermaid
+gantt
+dateFormat  YYYY-MM-DD.HH
+axisFormat %H hours
+title CDAY DAY TASK
+
+section SUNRISE
+Completed exercise : crit   , active , sr0      , TODAY.06   , TODAY.09
+Jogging exercise   : crit   , active , sr1      , TODAY.06   , 30min
+Oral exercise      : crit   , active , sr2      , after sr1 , 30min
+Badminton exercise : crit   , active , sr3      , after sr2 , 30min
+
+section MORNING
+Completed task     : active , am0    , TODAY.09 , TODAY.12
+Implement parse    : active , am1    , TODAY.09 , 2h
+
+section NOON
+Oral exercise      : active , m0     , TODAY.12 , TODAY.14
+
+section AFTERNOON
+Completed exercise : active , pm0    , TODAY.14 , TODAY.18
+Completed exercise : active , pm1    , TODAY.14 , TODAY.18
+
+section SUNSET
+Completed exercise : active , ss0    , TODAY.18 , TODAY.19
+
+section EVENING
+Completed exercise : active , ss0    , TODAY.19 , TODAY.21
+
+section MIDNIGHT
+Reading            : crit,active , mn0    , TODAY.21 , TODAY.23
+Comment            : crit,active , mn0    , TODAY.21 , TODAY.23
+
+```
+
 
 ### 2019.05-至今    梧桐车联（腾讯CSIG智慧出行事业部） ###
 - **Python**   组织团队构建测试框架，开发python测试框架基础原子方法，将模版化的中文测试用例，通过vim编辑器快速生成测试用例脚本。团队经过简单调试，合校即可将上千条测试用例投入使用。  
