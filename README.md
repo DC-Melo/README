@@ -77,7 +77,7 @@ gantt
 
     section 王
     王    : mon0p  , 2022-02-28 , 1w
-    Mon        : active , mon1f    , 2022-02-28    , 1d
+    星期一的各种任务,星期一的各种任务,星期一的各种任务,星期一的各种任务,星期一的各种任务,星期一的各种任务,        : active , mon1f    , 2022-02-28    , 1d
     Tue        : active , mon2f    , after mon1f , 1d
     Wed        : active , mon3f    , after mon2f , 1d
     Thu        : active , mon4f    , after mon3f , 1d
