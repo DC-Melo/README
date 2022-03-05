@@ -73,7 +73,7 @@
 
 ```mermaid
 gantt
-    title 与会人员：邓刚，刘昱良，王江，曲晟，弓松涛 自动化工作输出 
+    title 全体自动化工作输出-与会人员：邓刚，刘昱良，王江，曲晟，弓松涛
     dateFormat  YYYY-MM-DD
     excludes    weekends
 
