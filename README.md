@@ -164,6 +164,8 @@ gantt
 ![DC-gif](docs/media/test_bench_anji.gif)  
 - [Python-使用WEB微信发送定制化微信新年祝福]( https://github.com/DC-Melo/)  
 - [JAVA-使用WEB微信仿制微信通讯]( https://github.com/DC-Melo/)  
+![DC-gif](docs/media/python_wechat.gif)  
+![DC-gif](docs/media/realway_crawler.gif)  
 - [Tensorflow+CNN-人脸识别]( https://github.com/DC-Melo/)  
 ![DC-gif](docs/media/CV_canny_detect.gif)  
 ![DC-gif](docs/media/face_recongnize.gif)  
@@ -174,6 +176,9 @@ gantt
 - [LAMP-制作个人主页]( https://github.com/DC-Melo/)  
 - [FFmpeg+Imagamagic-制作自定义GIF动图shell脚本]( https://github.com/DC-Melo/)  
 - [JAVA-早期项目代码丢失，需要维护APP，于是反编译APP，更改蓝牙代码UUID再回编译]( https://github.com/DC-Melo/)  
+- [HIL-实验室建设，测试太台架搭建]( https://github.com/DC-Melo/)  
+![DC-gif](docs/media/test_bench_anji.gif)  
+![DC-gif](docs/media/small_testbench.gif)  
 - [JAVA-手机APP通过蓝牙连接嵌入式硬件读取大众车辆VIN号、油量等关键信息保存于手机]( https://github.com/DC-Melo/)  
 ![DC-gif](docs/media/phone_bluetooth_vehicle_2.gif)  
 ![DC-gif](docs/media/app_BT_PC.gif)  
@@ -185,6 +190,8 @@ gantt
 - [uCos-II-移植实时操作系统uCos-II]( https://github.com/DC-Melo/)  
 - [PID+C-基于PID控制PWM风扇实现控制燃料电池系统温度]( https://github.com/DC-Melo/)  
 - [Matlab-验证模糊神经网络算法控制散热系统]( https://github.com/DC-Melo/)  
+![DC-gif](docs/media/fuel_cell_system.gif)  
+
 
 
 
@@ -194,6 +201,7 @@ gantt
 - [GAN-deepfake-深度学习换脸]( https://github.com/DC-Melo/)
 
 ## 阅读参考书籍目录Coding reference books ##
+![DC-gif](docs/media/books.gif)  
 - Learning OpenCV 3  
 <img src="docs/media/learning_OpenCV_3.jpg" alt="OpenCV3" height="200" align="center" />
 
