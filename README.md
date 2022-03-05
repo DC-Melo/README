@@ -141,6 +141,7 @@ gantt
 - [JAVA-比特币信息爬虫,检测到新的比特币暴涨暴跌消息，及时钉钉短信通知]( https://github.com/DC-Melo/)  
 
 - [GO-安卓测试工具集合(27大常用测试工具)]( https://github.com/DC-Melo/)  
+![DC-gif](docs/media/go_adb_tools_2.gif)  
 - [C#-基于周立功CAN卡实车总线上位机开发]( https://github.com/DC-Melo/)  
 - [VIM-script-中文测试用例全自动转换Python测试代码]( https://github.com/DC-Melo/)  
 - [Python-安卓接收测试五大原子方法实现]( https://github.com/DC-Melo/)  
