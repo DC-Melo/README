@@ -161,7 +161,7 @@ gantt
 ![DC-gif](docs/media/lidar_before_testbench_b.gif)  
 ![DC-gif](docs/media/lidar_before_testbench.gif)  
 - [CANoe+Linux-车机HIL测试系统]( https://github.com/DC-Melo/)  
-![DC-gif](docs/media/test_bench_anji.gif)  
+![DC-gif](docs/media/testbench_anji.gif)  
 - [Python-使用WEB微信发送定制化微信新年祝福]( https://github.com/DC-Melo/)  
 - [JAVA-使用WEB微信仿制微信通讯]( https://github.com/DC-Melo/)  
 ![DC-gif](docs/media/python_wechat.gif)  
