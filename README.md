@@ -76,44 +76,17 @@ gantt
     title 工作输出
 
     section 王
-    王    : mon0p  , 2022-02-28 , 1w
-    星期一的各种任星期一的各种任星期一的各种任星期一的各种任星期一的各种任务务务务务星期一的各种任务        : active , mon1f    , 2022-02-28    , 1d
-    Tue        : active , mon2f    , after mon1f , 1d
-    Wed        : active , mon3f    , after mon2f , 1d
-    Thu        : active , mon4f    , after mon3f , 1d
-    Fri        : active , mon5f    , after mon4f , 1d
+    王江           : weekplan  , 2022-02-28 , 1w
+    工作输出       : monp  , 2022-02-28 , 1d
+    今天计划       : monf  , 2022-02-28 , 1d
+    工作输出       : Tuep  , 2022-02-28 , 1d
+    今天计划       : Tuef  , 2022-02-28 , 1d
+    工作输出       : Wedp  , 2022-02-28 , 4h
+    今天计划       : Wedf  , 2022-02-28 , 4h
 
-    section TUE
-    TUE task    : tue0p  , 2022-03-01 , 1d
-    tast1       : active , tue1f    , 2022-03-01    , 4h
-    task2       : active , tue2f    , after tue1f , 4h
-
-    section WED
-    WED task    : wed0p  , 2022-03-02 , 1d
-    task1       : active , wed1f    , 2022-03-02    , 4h
-    task2       : active , wed2f    , after wed1f , 4h
-
-    section THU
-    THU task    : thu0p  , 2022-03-03 , 1d
-    task1       : active , thu1f    , 2022-03-03    , 4h
-    task2       : active , thu2f    , after thu1f , 4h
-
-    section FRI
-    FRI task    : fri0p  , 2022-03-04 , 1d
-    task1       : active , fri1f    , 2022-03-04    , 4h
-    task2       : active , fri2f    , after fri1f , 4h
-
-    section SAT
-    SAT task    : sat0p  , 2022-03-05 , 1d
-    task1       : active , sat1f    , 2022-03-05    , 4h
-    task2       : active , sat2f    , after sat1f , 4h
-
-    section SUN
-    SUN task    : sun0p  , 2022-03-06 , 1d
-    task1       : active , sun1f    , 2022-03-06    , 4h
-    task2       : active , sun2f    , after sun1f , 4h
 ```
 
+ganttDateFormwork
 
 ### 2019.05-至今    梧桐车联（腾讯CSIG智慧出行事业部） ###
 - **Python**   组织团队构建测试框架，开发python测试框架基础原子方法，将模版化的中文测试用例，通过vim编辑器快速生成测试用例脚本。团队经过简单调试，合校即可将上千条测试用例投入使用。  
