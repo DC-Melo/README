@@ -70,6 +70,41 @@
 
 ## 工作经验 ##
 
+```mermaid
+gantt
+    dateFormat  YYYY-MM-DD.HH
+    axisFormat %H hours
+    title 任务图
+
+    section SUNRISE
+    Completed exercise : crit   , active , sr0      , 2021-07-01.06   , 2021-07-01.09
+    Jogging exercise   : crit   , active , sr1      , 2021-07-01.06   , 30min
+    Oral exercise      : crit   , active , sr2      , after exe1 , 30min
+    Badminton exercise : crit   , active , sr3      , after exe2 , 30min
+
+    section MORNING
+    Completed task     : active , am0    , 2021-07-01.09 , 2021-07-01.12
+    Implement parse    : active , am1    , 2021-07-01.09 , 2h
+
+    section NOON
+    Oral exercise      : active , m0     , 2021-07-01.12 , 2021-07-01.14
+
+    section AFTERNOON
+    Completed exercise : active , pm0    , 2021-07-01.14 , 2021-07-01.18
+    Completed exercise : active , pm1    , 2021-07-01.14 , 2021-07-01.18
+
+    section SUNSET
+    Completed exercise : active , ss0    , 2021-07-01.18 , 2021-07-01.19
+
+    section EVENING
+    Completed exercise : active , ss0    , 2021-07-01.19 , 2021-07-01.21
+
+    section MIDNIGHT
+    Reading            : crit,active , mn0    , 2021-07-01.21 , 2021-07-01.23
+    Comment            : crit,active , mn0    , 2021-07-01.21 , 2021-07-01.23
+
+```
+
 ### 2019.05-至今    梧桐车联（腾讯CSIG智慧出行事业部） ###
 - **Python**   组织团队构建测试框架，开发python测试框架基础原子方法，将模版化的中文测试用例，通过vim编辑器快速生成测试用例脚本。团队经过简单调试，合校即可将上千条测试用例投入使用。  
 - **GO**       测试中心大约27个测试工具，按模块抓日志，获取各个APP版本号，运行monkey，检查ANR，CRASH，分析缺陷，自动提交缺陷等等。通过调研分析，GO语言非常适合做跨平台的命令工具。于是3天快速入门GO，两周完成27个功能中的20个功能的开发调试和使用培训。  
