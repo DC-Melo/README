@@ -40,6 +40,25 @@
 2005.09-2009.06 | 江苏大学                                   | 汽车与交通工程学院   | 学士  
 主修课程：汽车构造、汽车理论、汽车电器、电路电子、自动控制理论、微机原理、汽车维修、汽车营销、管理学、**数学基础优异**  
 
+```mermaid
+gantt
+    title 王江DC-Melo工作经历
+    dateFormat  YYYY-MM
+
+    section 工作经历
+    梧桐车联 : done , weekplan  , 2019-05 , 1000d
+    开发专家 : done , milestone , name    , 2022-05 , 0d
+    安吉四维 : done , weekplan  , 2016-10 , 950d
+    测试主管 : done , milestone , name    , 2019-05 , 0d
+    翼锐汽车 : done , weekplan  , 2012-06 , 1600d
+    工程师   : done , milestone , name    , 2016-10 , 0d
+
+    section 教育经历
+    同济大学 : done , weekplan  , 2009-09 , 950d
+    硕士     : done , milestone , name    , 2012-04 , 0d
+    江苏大学 : done , weekplan  , 2005-09 , 1400d
+    本科     : done , milestone , name    , 2009-06 , 0d
+```
 ## 主要技能: 面向问题快速学习、掌握编程工具、解决问题的能力 ##
 - 面向问题、学习编程工具、解决问题  
 ```                     
@@ -71,25 +90,6 @@
 
 ## 工作经验 ##
 
-```mermaid
-gantt
-    title 王江DC-Melo工作经历
-    dateFormat  YYYY-MM
-
-    section 工作经历
-    梧桐车联     : done , weekplan  , 2019-05 , 1000d
-    关键时间节点 : done , milestone , name    , 2022-05 , 0d
-    安吉四维     : done , weekplan  , 2016-10 , 950d
-    关键时间节点 : done , milestone , name    , 2019-05 , 0d
-    翼锐汽车     : done , weekplan  , 2012-06 , 1600d
-    关键时间节点 : done , milestone , name    , 2016-10 , 0d
-
-    section 教育经历
-    同济大学     : done , weekplan  , 2009-09 , 950d
-    关键时间节点 : done , milestone , name    , 2012-04 , 0d
-    江苏大学     : done , weekplan  , 2005-09 , 1400d
-    关键时间节点 : done , milestone , name    , 2009-06 , 0d
-```
 
 ### 2019.05-至今    梧桐车联（腾讯CSIG智慧出行事业部） ###
 - **Python**   组织团队构建测试框架，开发python测试框架基础原子方法，将模版化的中文测试用例，通过vim编辑器快速生成测试用例脚本。团队经过简单调试，合校即可将上千条测试用例投入使用。  
