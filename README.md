@@ -69,15 +69,19 @@
 **喜欢展示分享** 喜欢看各种论文，喜欢听分享报告,也喜欢分享技术  
 
 ## 工作经验 ##
+
 ```mermaid
 gantt
     dateFormat  YYYY-MM-DD
-    title CWEEK WEEK TASK
+    title 工作输出
 
-    section MON
-    MON task    : mon0p  , TOWEEK.1 , 1d
-    task1       : active , mon1f    , TOWEEK.1    , 4h
-    task2       : active , mon2f    , after mon1f , 4h
+    section 王
+    王    : mon0p  , TOWEEK.1 , 1d
+    Mon        : active , mon1f    , TOWEEK.1    , 1d
+    Tue        : active , mon2f    , after mon1f , 1d
+    Wed        : active , mon3f    , after mon2f , 1d
+    Thu        : active , mon4f    , after mon3f , 1d
+    Fri        : active , mon5f    , after mon4f , 1d
 
     section TUE
     TUE task    : tue0p  , TOWEEK.2 , 1d
@@ -110,40 +114,6 @@ gantt
     task2       : active , sun2f    , after sun1f , 4h
 ```
 
-```mermaid
-gantt
-    dateFormat  YYYY-MM-DD.HH
-    axisFormat %H hours
-    title 任务图
-
-    section SUNRISE
-    Completed exercise : crit   , active , sr0      , 2021-07-01.06   , 2021-07-01.09
-    Jogging exercise   : crit   , active , sr1      , 2021-07-01.06   , 30min
-    Oral exercise      : crit   , active , sr2      , after exe1 , 30min
-    Badminton exercise : crit   , active , sr3      , after exe2 , 30min
-
-    section MORNING
-    Completed task     : active , am0    , 2021-07-01.09 , 2021-07-01.12
-    Implement parse    : active , am1    , 2021-07-01.09 , 2h
-
-    section NOON
-    Oral exercise      : active , m0     , 2021-07-01.12 , 2021-07-01.14
-
-    section AFTERNOON
-    Completed exercise : active , pm0    , 2021-07-01.14 , 2021-07-01.18
-    Completed exercise : active , pm1    , 2021-07-01.14 , 2021-07-01.18
-
-    section SUNSET
-    Completed exercise : active , ss0    , 2021-07-01.18 , 2021-07-01.19
-
-    section EVENING
-    Completed exercise : active , ss0    , 2021-07-01.19 , 2021-07-01.21
-
-    section MIDNIGHT
-    Reading            : crit,active , mn0    , 2021-07-01.21 , 2021-07-01.23
-    Comment            : crit,active , mn0    , 2021-07-01.21 , 2021-07-01.23
-
-```
 
 ### 2019.05-至今    梧桐车联（腾讯CSIG智慧出行事业部） ###
 - **Python**   组织团队构建测试框架，开发python测试框架基础原子方法，将模版化的中文测试用例，通过vim编辑器快速生成测试用例脚本。团队经过简单调试，合校即可将上千条测试用例投入使用。  
