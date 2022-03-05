@@ -76,7 +76,7 @@ gantt
     title 工作输出
 
     section 王
-    王    : mon0p  , TOWEEK.1 , 1d
+    王    : mon0p  , TOWEEK.1 , 1w
     Mon        : active , mon1f    , TOWEEK.1    , 1d
     Tue        : active , mon2f    , after mon1f , 1d
     Wed        : active , mon3f    , after mon2f , 1d
