@@ -75,9 +75,9 @@ gantt
     dateFormat  YYYY-MM-DD
     title 工作输出
 
-    section 王
-    王江           : weekplan  , 2022-02-28 , 1w
-    工作输出       : monp  , 2022-02-28 , 1d
+    section 王江
+    完成性能excel报告  : weekplan  , 2022-02-28 , 1w
+    工作输出       : active, monp  , 2022-02-28 , 1d
     今天计划       : monf  , 2022-02-28 , 1d
     工作输出       : Tuep  , 2022-03-01 , 1d
     今天计划       : Tuef  , 2022-03-01 , 1d
@@ -87,6 +87,49 @@ gantt
     今天计划       : Thuf  , 2022-03-03 , 1d
 
 ```
+
+
+```mermaid
+gantt
+dateFormat  YYYY-MM-DD
+title CWEEK WEEK TASK
+
+section MON
+MON task    : mon0p  , TOWEEK.1 , 1d
+task1       : active , mon1f    , TOWEEK.1    , 4h
+task2       : active , mon2f    , after mon1f , 4h
+
+section TUE
+TUE task    : tue0p  , TOWEEK.2 , 1d
+tast1       : active , tue1f    , TOWEEK.2    , 4h
+task2       : active , tue2f    , after tue1f , 4h
+
+section WED
+WED task    : wed0p  , TOWEEK.3 , 1d
+task1       : active , wed1f    , TOWEEK.3    , 4h
+task2       : active , wed2f    , after wed1f , 4h
+
+section THU
+THU task    : thu0p  , TOWEEK.4 , 1d
+task1       : active , thu1f    , TOWEEK.4    , 4h
+task2       : active , thu2f    , after thu1f , 4h
+
+section FRI
+FRI task    : fri0p  , TOWEEK.5 , 1d
+task1       : active , fri1f    , TOWEEK.5    , 4h
+task2       : active , fri2f    , after fri1f , 4h
+
+section SAT
+SAT task    : sat0p  , TOWEEK.6 , 1d
+task1       : active , sat1f    , TOWEEK.6    , 4h
+task2       : active , sat2f    , after sat1f , 4h
+
+section SUN
+SUN task    : sun0p  , TOWEEK.7 , 1d
+task1       : active , sun1f    , TOWEEK.7    , 4h
+task2       : active , sun2f    , after sun1f , 4h
+```
+
 
 
 ### 2019.05-至今    梧桐车联（腾讯CSIG智慧出行事业部） ###
