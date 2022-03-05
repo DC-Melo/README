@@ -81,10 +81,24 @@ gantt
     今天计划       : active, monp  , 2022-02-28 , 1d
     工作输出       : done,   Tuef  , 2022-03-01 , 1d
     今天计划       : active, Tuep  , 2022-03-01 , 1d
-    工作输出       : done,   Wedf  , 2022-03-02 , 2h
-    今天计划       : active, Wedp  , 2022-03-02 , 8h
+    工作输出       : done,   Wedf  , 2022-03-02 , 1d
+    今天计划       : active, Wedp  , 2022-03-02 , 1d
     工作输出       : done,   Thuf  , 2022-03-03 , 1d
     今天计划       : active, Thup  , 2022-03-03 , 1d
+    工作输出       : done,   Frif  , 2022-03-04 , 1d
+    今天计划       : active, Frip  , 2022-03-04 , 1d
+    section 刘昱良
+    完成性能excel报告  : weekplan  , 2022-02-28 , 1w
+    工作输出       : done,   monf  , 2022-02-28 , 1d
+    今天计划       : active, monp  , 2022-02-28 , 1d
+    工作输出       : done,   Tuef  , 2022-03-01 , 1d
+    今天计划       : active, Tuep  , 2022-03-01 , 1d
+    工作输出       : done,   Wedf  , 2022-03-02 , 1d
+    今天计划       : active, Wedp  , 2022-03-02 , 1d
+    工作输出       : done,   Thuf  , 2022-03-03 , 1d
+    今天计划       : active, Thup  , 2022-03-03 , 1d
+    工作输出       : done,   Frif  , 2022-03-04 , 1d
+    今天计划       : active, Frip  , 2022-03-04 , 1d
 
 ```
 
