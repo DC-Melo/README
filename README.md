@@ -76,41 +76,41 @@ gantt
     title 工作输出
 
     section 王
-    王    : mon0p  , TOWEEK.1 , 1w
-    Mon        : active , mon1f    , TOWEEK.1    , 1d
+    王    : mon0p  , 2022-02-28 , 1w
+    Mon        : active , mon1f    , 2022-02-28    , 1d
     Tue        : active , mon2f    , after mon1f , 1d
     Wed        : active , mon3f    , after mon2f , 1d
     Thu        : active , mon4f    , after mon3f , 1d
     Fri        : active , mon5f    , after mon4f , 1d
 
     section TUE
-    TUE task    : tue0p  , TOWEEK.2 , 1d
-    tast1       : active , tue1f    , TOWEEK.2    , 4h
+    TUE task    : tue0p  , 2022-03-01 , 1d
+    tast1       : active , tue1f    , 2022-03-01    , 4h
     task2       : active , tue2f    , after tue1f , 4h
 
     section WED
-    WED task    : wed0p  , TOWEEK.3 , 1d
-    task1       : active , wed1f    , TOWEEK.3    , 4h
+    WED task    : wed0p  , 2022-03-02 , 1d
+    task1       : active , wed1f    , 2022-03-02    , 4h
     task2       : active , wed2f    , after wed1f , 4h
 
     section THU
-    THU task    : thu0p  , TOWEEK.4 , 1d
-    task1       : active , thu1f    , TOWEEK.4    , 4h
+    THU task    : thu0p  , 2022-03-03 , 1d
+    task1       : active , thu1f    , 2022-03-03    , 4h
     task2       : active , thu2f    , after thu1f , 4h
 
     section FRI
-    FRI task    : fri0p  , TOWEEK.5 , 1d
-    task1       : active , fri1f    , TOWEEK.5    , 4h
+    FRI task    : fri0p  , 2022-03-04 , 1d
+    task1       : active , fri1f    , 2022-03-04    , 4h
     task2       : active , fri2f    , after fri1f , 4h
 
     section SAT
-    SAT task    : sat0p  , TOWEEK.6 , 1d
-    task1       : active , sat1f    , TOWEEK.6    , 4h
+    SAT task    : sat0p  , 2022-03-05 , 1d
+    task1       : active , sat1f    , 2022-03-05    , 4h
     task2       : active , sat2f    , after sat1f , 4h
 
     section SUN
-    SUN task    : sun0p  , TOWEEK.7 , 1d
-    task1       : active , sun1f    , TOWEEK.7    , 4h
+    SUN task    : sun0p  , 2022-03-06 , 1d
+    task1       : active , sun1f    , 2022-03-06    , 4h
     task2       : active , sun2f    , after sun1f , 4h
 ```
 
