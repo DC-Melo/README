@@ -73,34 +73,40 @@
 
 ```mermaid
 gantt
-    title 工作输出 
+    title 工作输出 与会人员： 邓刚，刘昱良，王江，曲晟，弓松涛
     dateFormat  YYYY-MM-DD
     excludes    weekends
 
-    section 王江
-    完成性能excel报告  : weekplan  , 2022-02-28 , 1w
-    1. 跑monkey过程中性能培训讲解        : done,   monf  , 2022-02-28 , 1d
-    今天计划       : active, monp  , 2022-02-28 , 1d
-    工作输出       : done,   Tuef  , 2022-03-01 , 1d
-    今天计划       : active, Tuep  , 2022-03-01 , 1d
-    工作输出       : done,   Wedf  , 2022-03-02 , 1d
-    今天计划       : active, Wedp  , 2022-03-02 , 1d
-    工作输出       : done,   Thuf  , 2022-03-03 , 1d
-    今天计划       : active, Thup  , 2022-03-03 , 1d
-    工作输出       : done,   Frif  , 2022-03-04 , 1d
-    今天计划       : active, Frip  , 2022-03-04 , 1d
+    section 邓刚
+    一周总体计划               : weekplan  , 2022-02-28 , 1w
+    关键时间节点               : milestone  , 2022-02-28 , 0d
+    工作输出                   : done,   monf  , 2022-02-28 , 1d
+    今天计划                   : active, monp  , 2022-02-28 , 1d
+
     section 刘昱良
-    完成性能excel报告  : weekplan  , 2022-02-28 , 1w
-    工作输出       : done,   monf  , 2022-02-28 , 1d
-    今天计划       : active, monp  , 2022-02-28 , 1d
-    工作输出       : done,   Tuef  , 2022-03-01 , 1d
-    今天计划       : active, Tuep  , 2022-03-01 , 1d
-    工作输出       : done,   Wedf  , 2022-03-02 , 1d
-    今天计划       : active, Wedp  , 2022-03-02 , 1d
-    工作输出       : done,   Thuf  , 2022-03-03 , 1d
-    今天计划       : active, Thup  , 2022-03-03 , 1d
-    工作输出       : done,   Frif  , 2022-03-04 , 1d
-    今天计划       : active, Frip  , 2022-03-04 , 1d
+    一周总体计划               : weekplan  , 2022-02-28 , 1w
+    关键时间节点               : milestone  , 2022-02-28 , 0d
+    工作输出                   : done,   monf  , 2022-02-28 , 1d
+    今天计划                   : active, monp  , 2022-02-28 , 1d
+
+    section 王江
+    一周总体计划               : weekplan  , 2022-02-28 , 1w
+    关键时间节点               : milestone  , 2022-02-28 , 0d
+    跑monkey过程中性能培训讲解 : done,   monf  , 2022-02-28 , 1d
+    今天计划                   : active, monp  , 2022-02-28 , 1d
+    工作输出                   : done,   Tuef  , 2022-03-01 , 1d
+
+    section 曲晟
+    一周总体计划               : weekplan  , 2022-02-28 , 1w
+    关键时间节点               : milestone  , 2022-02-28 , 0d
+    工作输出                   : done,   monf  , 2022-02-28 , 1d
+    今天计划                   : active, monp  , 2022-02-28 , 1d
+
+    section 弓松涛
+    一周总体计划               : weekplan  , 2022-02-28 , 1w
+    关键时间节点               : milestone  , 2022-02-28 , 0d
+    工作输出                   : done,   monf  , 2022-02-28 , 1d
+    今天计划                   : active, monp  , 2022-02-28 , 1d
 
 ```
 
