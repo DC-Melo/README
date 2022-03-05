@@ -32,23 +32,23 @@ gantt
     dateFormat  YYYY-MM
 
     section 工作经历
+    开发专家                : done , milestone , name     , 2022-05 , 0d
     梧桐车联                : crit , done      , weekplan , 2019-05 , 1100d
     GO，OpenGL，CNN         : done , weekplan  , 2019-05  , 1100d
-    开发专家                : done , milestone , name     , 2022-05 , 0d
+    测试主管                : done , milestone , name     , 2019-05 , 0d
     安吉四维                : crit , done      , weekplan , 2016-10 , 950d
     Linux，JAVA，OpenCV     : done , weekplan  , 2016-10  , 950d
-    测试主管                : done , milestone , name     , 2019-05 , 0d
+    工程师                  : done , milestone , name     , 2016-10 , 0d
     翼锐汽车                : crit , done      , weekplan , 2012-06 , 1600d
     HIL，CANoe，python      : done , weekplan  , 2012-06  , 1600d
-    工程师                  : done , milestone , name     , 2016-10 , 0d
 
     section 教育经历
+    硕士                    : done , milestone , name     , 2012-04 , 0d
     同济大学                : crit , done      , weekplan , 2009-09 , 950d
     嵌入式系统控制（C语言） : done , weekplan  , 2009-09  , 950d
-    硕士                    : done , milestone , name     , 2012-04 , 0d
+    本科                    : done , milestone , name     , 2009-06 , 0d
     江苏大学                : crit , done      , weekplan , 2005-09 , 1400d
     工课基础知识，数据优异  : done , weekplan  , 2005-09  , 1400d
-    本科                    : done , milestone , name     , 2009-06 , 0d
 ```
 2019.5-至今     | 北京梧桐车联（腾讯与长安合资公司）         | 测试开发主管         | 汇报对象:测试总监  
 主要工作：HIL台架搭建，组织测试开发，构建测试原子方法，搭建测试框架,将中文用例转化为python代码填充到测试框架中，简单检查调试即可投入测试生产，测试工具集开发  
