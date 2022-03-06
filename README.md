@@ -19,9 +19,9 @@
 **王江 DC-Melo**  
 期待地点：海外北上杭深  
 期待岗位：图像算法，计算机3D建模渲染显示，计算机视觉图像理解，以及涉及到的硬件  
-个人简介：https://github.com/DC-Melo/README https://gitee.com/DC-Melo/README  
-开源项目：https://github.com/DC-Melo        https://gitee.com/DC-Melo  
-联系方式：wangjiang@alumni.tongji.edu.cn    +86-152-1670-6941  
+个人简介：https://github.com/DC-Melo/README     https://gitee.com/DC-Melo/README  
+开源项目：https://github.com/DC-Melo            https://gitee.com/DC-Melo  
+联系方式：wangjiang@alumni.tongji.edu.cn        +86-152-1670-6941  
 
 
 ## 工作经历&教育背景&主修课程 ##
@@ -91,7 +91,7 @@ gantt
 - 论文能力：读了较多的英文论文以及书籍。JVM，Introduction to Algorithms，Deep Learning（Lan Goodfellow），Deep Learning with Python，hadoop，spark  
 
 ## 性格爱好 ##
-**喜欢文艺、运动、及各种团队活动** 喜欢各种团队活动，参加社会各种社团，论坛，通过社交来提高自己。  
+**喜欢文艺、运动、及各种团队活动** 喜欢各种团队活动，参加社会各种社团，论坛，借助团队的力量做更大的事情。  
 **无挑战不欢** 性格开朗、富有挑战精神、喜欢尝试新鲜事物、喜欢有流动性的生活、有较强的适应性  
 **喜欢就要玩专业高级** 喜欢运动。包括：摩托车、轮滑、滑雪、羽毛球，背包旅行  
 **喜欢展示分享** 喜欢看各种论文，喜欢听分享报告,也喜欢分享技术  
@@ -213,9 +213,10 @@ gantt
 ## 请为我点赞Donation ##
 如果你喜欢我的项目，请在对应的项目右上角 "Star" 一下。你的支持是我最大的鼓励☺☺！你也还可以扫描下面的二维码，对作者进行打赏。  
 If you like my project, "Star" in the corresponding project right corner, please. Your support is my biggest encouragement☺☺! You can also scan the qr code below or Donate to this project using Paypal, donation to Author.  
-![donation](docs/media/donation_quick_response_code.png "donation")
-![donation](docs/media/dc_ali_pay.png "donation")
-![donation](docs/media/dc_bitcoin.png "donation")  
+![donationDC](docs/media/donation_to_DC.gif "donation")
+<!-- ![donation](docs/media/donation_quick_response_code.png "donation") -->
+<!-- ![donation](docs/media/dc_ali_pay.png "donation") -->
+<!-- ![donation](docs/media/dc_bitcoin.png "donation") -->  
 <!-- <div align="center"> -->
 <!-- <img src="README/dc_wechat_pay.png" width="200" > -->
 <!-- <img src="README/dc_ali_pay.png"    width="200" > -->
