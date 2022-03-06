@@ -32,23 +32,23 @@ gantt
     dateFormat  YYYY-MM
 
     section 工作经历
-    开发专家                : done , milestone , name     , 2022-05 , 0d
-    梧桐车联                : crit , done      , weekplan , 2019-05 , 1100d
-    GO，OpenGL，CNN         : done , get skill  , 2019-05  , 1100d
-    测试主管                : done , milestone , name     , 2019-05 , 0d
-    安吉四维                : crit , done      , weekplan , 2016-10 , 950d
-    Linux，JAVA，OpenCV     : done , get skill  , 2016-10  , 950d
-    工程师                  : done , milestone , name     , 2016-10 , 0d
-    翼锐汽车                : crit , done      , weekplan , 2012-06 , 1600d
-    HIL，CANoe，python      : done , get skill  , 2012-06  , 1600d
+    开发专家               : done , milestone , level   , 2022-05 , 0d
+    梧桐车联               : crit , done      , stage   , 2019-05 , 1100d
+    GO，OpenGL，CNN        : done , get skill , 2019-05 , 1100d
+    测试主管               : done , milestone , level   , 2019-05 , 0d
+    安吉四维               : crit , done      , stage   , 2016-10 , 950d
+    Linux，JAVA，OpenCV    : done , get skill , 2016-10 , 950d
+    工程师                 : done , milestone , level   , 2016-10 , 0d
+    翼锐汽车               : crit , done      , stage   , 2012-06 , 1600d
+    HIL，CANoe，python     : done , get skill , 2012-06 , 1600d
 
     section 教育经历
-    硕士                    : done , milestone , name     , 2012-04 , 0d
-    同济大学                : crit , done      , weekplan , 2009-09 , 950d
-    嵌入式系统控制（C语言） : done , get skill  , 2009-09  , 950d
-    本科                    : done , milestone , name     , 2009-06 , 0d
-    江苏大学                : crit , done      , weekplan , 2005-09 , 1400d
-    工课基础知识，数据优异  : done , get skill  , 2005-09  , 1400d
+    硕士                   : done , milestone , level   , 2012-04 , 0d
+    同济大学               : crit , done      , stage   , 2009-09 , 950d
+    嵌入式系统控制C语言    : done , get skill , 2009-09 , 950d
+    本科                   : done , milestone , level   , 2009-06 , 0d
+    江苏大学               : crit , done      , stage   , 2005-09 , 1400d
+    工课基础知识，数据优异 : done , get skill , 2005-09 , 1400d
 ```
 
 2019.5-至今     | 北京梧桐车联（腾讯与长安合资公司）         | 测试开发主管         | 汇报对象:测试总监  
