@@ -156,6 +156,7 @@ gantt
 ![DC-gif](docs/media/pytest_basic_method_structure_2.gif)  
 - [JAVA-注意力分区研究APP](https://github.com/DC-Melo/Attention_Partition)  
 ![DC-gif](docs/media/Attention_Partition.gif)  
+![DC-gif](docs/media/Attention_Partition_result.gif)  
 
 - [SLAM-仿真自动驾驶AGV](https://github.com/DC-Melo/)  
 ![DC-gif](docs/media/apollo_simulation.gif)  
