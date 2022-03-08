@@ -168,7 +168,6 @@ gantt
 - [Python-使用WEB微信发送定制化微信新年祝福]( https://github.com/DC-Melo/)  
 - [JAVA-使用WEB微信仿制微信通讯]( https://github.com/DC-Melo/)  
 ![DC-gif](docs/media/python_wechat.gif)  
-![DC-gif](docs/media/realway_crawler.gif)  
 - [Tensorflow+CNN-人脸识别]( https://github.com/DC-Melo/)  
 ![DC-gif](docs/media/CV_canny_detect.gif)  
 ![DC-gif](docs/media/face_recongnize.gif)  
@@ -186,6 +185,7 @@ gantt
 ![DC-gif](docs/media/phone_bluetooth_vehicle_2.gif)  
 ![DC-gif](docs/media/app_BT_PC.gif)  
 - [Python-静安羽毛球馆定时爬虫抢票脚本]( https://github.com/DC-Melo/)  
+![DC-gif](docs/media/realway_crawler.gif)  
 ![DC-gif](docs/media/python_crawler_order_badminton.gif)  
 ![DC-gif](docs/media/JS_punch_in_DC.gif)  
 
@@ -204,28 +204,15 @@ gantt
 - [GAN-deepfake-深度学习换脸]( https://github.com/DC-Melo/)
 
 ## 阅读参考书籍目录Coding reference books ##
+- books
 ![DC-gif](docs/media/books.gif)  
-- Learning OpenCV 3  
-<img src="docs/media/learning_OpenCV_3.jpg" alt="OpenCV3" height="200" align="center" />
-
-- OpenGL Programming guide  
-<img src="docs/media/OpenGL_Programming_guide.jpg" alt="OpenGL8" height="200" align="center" />
-
-
+<!-- <img src="docs/media/learning_OpenCV_3.jpg" alt="OpenCV3" height="200" align="center" /> -->
 
 <!-- 项目点赞 -->
 ## 请为我点赞Donation ##
 如果你喜欢我的项目，请在对应的项目右上角 "Star" 一下。你的支持是我最大的鼓励☺☺！你也还可以扫描下面的二维码，对作者进行打赏。  
 If you like my project, "Star" in the corresponding project right corner, please. Your support is my biggest encouragement☺☺! You can also scan the qr code below or Donate to this project using Paypal, donation to Author.  
 ![donationDC](docs/media/donation_to_DC.gif "donation")
-<!-- ![donation](docs/media/donation_quick_response_code.png "donation") -->
-<!-- ![donation](docs/media/dc_ali_pay.png "donation") -->
-<!-- ![donation](docs/media/dc_bitcoin.png "donation") -->  
-<!-- <div align="center"> -->
-<!-- <img src="README/dc_wechat_pay.png" width="200" > -->
-<!-- <img src="README/dc_ali_pay.png"    width="200" > -->
-<!-- <img src="README/dc_bitcoin.png"    width="200" > -->
-<!-- </div> -->
 如果在捐赠留言中备注名称，将会被记录到列表中~ 如果你也是github开源作者，捐赠时可以留下github项目地址或者个人主页地址，链接将会被添加到列表中起到互相推广的作用  
 If you comment on the name in the donation message, it will be recorded in the list. ~If you are also an open source author of github, you can leave the GitHub project address or personal home page address when donating. Links will be added to the list to promote each other.  
 捐赠列表(Donation list)
