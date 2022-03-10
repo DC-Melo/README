@@ -132,7 +132,7 @@ gantt
 2014.08-2014.08 《基于数据库的半自动测试台架》获得大众联合创新大赛二等奖  
 
 
-## 开源项目目录Projects Table of Contents ##
+## 参与项目目录Projects Table of Contents ##
 
 ### 已经完成项目Projects Closed ###
 - [C++-比特币源码阅读、更改、编译、运行](https://github.com/DC-Melo/)  
