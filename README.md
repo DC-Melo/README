@@ -17,8 +17,8 @@
 # |_________|  (_)  |_________|   |_____/ \_____|    |_|  |_|\___|_|\___/ 
 ```
 **王江 DC-Melo**  
-期待地点：海外北上杭深成都  
-期待岗位：图像算法，计算机3D建模渲染显示，计算机视觉图像理解，以及涉及到的硬件  
+期待地点：海外、北上杭深成都  
+期待岗位：团队coding、 图像、3D渲染、量化、算法、以及嵌入式硬件设备    
 个人简介：https://github.com/DC-Melo/README     https://gitee.com/DC-Melo/README  
 开源项目：https://github.com/DC-Melo            https://gitee.com/DC-Melo  
 联系方式：wangjiang@alumni.tongji.edu.cn        +86-152-1670-6941  
@@ -51,6 +51,7 @@ gantt
     工课基础知识，数据优异 : done , get skill , 2005-09 , 1400d
 ```
 
+![DC_experience_gif](docs/media/DC_experience.gif)  
 2019.5-至今     | 北京梧桐车联（腾讯与长安合资公司）         | 测试开发主管         | 汇报对象:测试总监  
 主要工作：HIL台架搭建，组织测试开发，构建测试原子方法，搭建测试框架,将中文用例转化为python代码填充到测试框架中，简单检查调试即可投入测试生产，测试工具集开发  
 
