@@ -202,32 +202,15 @@ gantt
 - [python-卡尔曼2D滤波估计]( https://github.com/DC-Melo/)  
 ![DC-gif](docs/media/KalmanFilter.gif)  
 
-\documentclass{article}
-
-\usepackage{algorithm2e}
-\SetKwInOut{Input}{Input}
-\SetKwInOut{Output}{Output\,}
-\SetAlgoLined
-\DontPrintSemicolon
-
-\begin{document}
-
-\begin{algorithm}[H]
-  \Input{$x_{k - 1}$, $P_{k - 1}$, $u_k$, $z_k$}
-  \Output{$x_{k}^{-}$, $P_k^{-}$}
-  \BlankLine
-  $x_{k + 1} = \Phi(x)_{k - 1} + Bu_k + G\omega_k$\;
-  $P_k = \Phi(P)_{k - 1} \Phi^T + Q$\;
-  $K = PH^T (HPH^T + R)^{-1})$\;
-  $z = (z_k - H_k x_k)$\;
-  $x_k^{-} = x_k + k z$\;
-  $P_k^{-} = P - KHP$\;
-  \textbf{return} $x_k^{-}$, $P_k^{-}$\;
-  \caption{\textsc{Kalman Filter}}
-\end{algorithm}
-
-\end{document}
-
+$ x_{k - 1}, P_{k - 1}, u_k, z_k $
+$ x_{k}^{-}, P_k^{-} $
+$ x_{k + 1} = \Phi(x)_{k - 1} + Bu_k + G\omega_k\; $
+$ P_k = \Phi(P)_{k - 1} \Phi^T + Q\; $
+$ K = PH^T (HPH^T + R)^{-1})\; $
+$ z = (z_k - H_k x_k)\; $
+$ x_k^{-} = x_k + k z\; $
+$ P_k^{-} = P - KHP\; $
+$ x_k^{-}, P_k^{-}\; $
 
 
 
