@@ -53,7 +53,7 @@ gantt
     江苏大学               : crit , done      , stage   , 2005-09 , 1400d
     工课基础知识，数据优异 : done , get skill , 2005-09 , 1400d
 ```
-![DC_experience_gif](docs/media/DC_experience.gif)  
+<!-- ![DC_experience_gif](docs/media/DC_experience.gif) -->  
 
 2019.5-至今     | 北京梧桐车联（腾讯与长安合资公司）         | 测试开发主管         | 汇报对象:测试总监  
 主要工作：HIL台架搭建，组织测试开发，构建测试原子方法，搭建测试框架,将中文用例转化为python代码填充到测试框架中，简单检查调试即可投入测试生产，测试工具集开发  
