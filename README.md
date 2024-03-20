@@ -56,11 +56,9 @@ JIANGSU UNIVERSITY                                : crit , done      , stage   ,
 excellent at math, Basic knowledge of engineering : done , get skill , 2005-09 , 1400d
 ```
 
-```plantuml
 @startuml
 Bob->Alice : Hello!
 @enduml
-```
 
 
 ### stage 6 ###
