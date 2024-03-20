@@ -19,7 +19,6 @@
 #                                                                           #
 #############################################################################
 ```
-**王江 DC-Melo**  
 - Expected location: Singapore/Overseas
 - Looking for: Back-end development(Java, Go, C++)
 - About me: https://github.com/DC-Melo/README
@@ -96,7 +95,7 @@ Major courses: **Excellent in mathematics foundation**, automobile structure, au
 ![DC-gif](docs/media/hobby.gif)  
 
 
-## 工作经验 ##
+## work experience ##
 
 
 ### 2019.05-至今    梧桐车联（腾讯CSIG智慧出行事业部） ###
