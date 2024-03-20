@@ -112,12 +112,12 @@ excellent at math, Basic knowledge of engineering : done , get skill , 2005-09 ,
 - **uCos-II** transplants the real-time operating system uCos-II based on freescale's 256 chip, and implements the system's control strategy (assembly ASM+C language) on uCos-II
 
 ## Rewards ##
-2022.05-present product manager recommend as the best parter
-2019.05-2022.05 Three years of work, two years of highest level of performance appraisal
-2018.10-2022.05 three patents
-2017.01-2017.02 Won the title of Outstanding Employee of the Year
-2016.07-2016.07 "One-click Controller Coding Based on Excel" won the best golden idea in the labor competition
-2014.08-2014.08 "Semi-automatic test bench based on database" won the second prize in the Volkswagen Joint Innovation Competition
++ 2022.05-present product manager recommend as the best parter
++ 2019.05-2022.05 Three years of work, two years of highest level of performance appraisal
++ 2018.10-2022.05 three patents
++ 2017.01-2017.02 Won the title of Outstanding Employee of the Year
++ 2016.07-2016.07 "One-click Controller Coding Based on Excel" won the best golden idea in the labor competition
++ 2014.08-2014.08 "Semi-automatic test bench based on database" won the second prize in the Volkswagen Joint Innovation Competition
 
 
 ## Projects Table of Contents ##
