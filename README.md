@@ -117,21 +117,20 @@ excellent at math, Basic knowledge of engineering : done , get skill , 2005-09 ,
 2014.08-2014.08 《基于数据库的半自动测试台架》获得大众联合创新大赛二等奖  
 
 
-## 参与项目目录Projects Table of Contents ##
+## Projects Table of Contents ##
 
-### 已经完成项目Projects Closed ###
-- [C++-比特币源码阅读、更改、编译、运行](https://github.com/DC-Melo/)  
-- [C++-生成比特币荣耀地址](https://github.com/DC-Melo/bitcoin_vanity_miner)  
-- [Python-爬虫爬取比特币超过1BTC的账户地址](https://github.com/DC-Melo/bitcoin_valued_address)  
-![DC-gif](docs/media/bitcoin_address.gif)  
-- [Spark+Map+Reduce-常用密码数据库sha512成私钥，通过私钥计算地址，再检查该地址是否有比特币]( https://github.com/DC-Melo/)  
-- [比特币钱包DLL反编理解,查看钱包中地址与比特币金额]( https://github.com/DC-Melo/)  
-- [JAVA-比特币信息爬虫,检测到新的比特币暴涨暴跌消息，及时钉钉短信通知]( https://github.com/DC-Melo/)  
-
-- [GO-安卓测试工具集合(27大常用测试工具)]( https://github.com/DC-Melo/)  
-![DC-gif](docs/media/go_adb_tools_2.gif)  
-- [C#-基于周立功CAN卡实车总线上位机开发]( https://github.com/DC-Melo/)  
-![DC-gif](docs/media/CAN_simulation.gif)  
+### Projects Closed ###
+- [C++-Bitcoin source code reading, changing, compiling, running](https://github.com/DC-Melo/)  
+- [C++-Generate Bitcoin Vanity Address](https://github.com/DC-Melo/bitcoin_vanity_miner)
+- [Python-Crawler crawls account addresses with more than 1 BTC in Bitcoin](https://github.com/DC-Melo/bitcoin_valued_address)
+![bitcoin_address](docs/media/bitcoin_address.gif)  
+- [Spark+Map+Reduce-Commonly used password database sha512 into a private key, calculate the address through the private key, and then check whether the address has Bitcoin](https://github.com/DC-Melo/)
+- [Bitcoin wallet DLL decoding and understanding, view the address and Bitcoin amount in the wallet](https://github.com/DC-Melo/)
+- [JAVA-Bitcoin information crawler, detects new Bitcoin skyrocketing and plummeting news, and prompts SMS notifications](https://github.com/DC-Melo/)
+- [GO-Android testing tool collection (27 commonly used testing tools)](https://github.com/DC-Melo/)
+![adb_tools](docs/media/go_adb_tools_2.gif)  
+- [C#-based on Zhou Ligong CAN card real vehicle bus host computer development](https://github.com/DC-Melo/)
+![can_simulation](docs/media/CAN_simulation.gif)  
 - [Python-基于周立功CAN卡进行总线自动化测试]( https://github.com/DC-Melo/)  
 ![DC-gif](docs/media/pytest_code_input_tip_2.gif)  
 - [C-CAPL-基于CANoe进行总线自动化测试]( https://github.com/DC-Melo/)  
@@ -183,16 +182,6 @@ excellent at math, Basic knowledge of engineering : done , get skill , 2005-09 ,
 - [python-卡尔曼2D滤波估计]( https://github.com/DC-Melo/)  
 ![DC-gif](docs/media/KalmanFilter.gif)  
 
-$ x_{k - 1}, P_{k - 1}, u_k, z_k $  
-$ x_{k}^{-}, P_k^{-} $  
-$ x_{k + 1} = \Phi(x)_{k - 1} + Bu_k + G\omega_k\; $  
-$ P_k = \Phi(P)_{k - 1} \Phi^T + Q\; $  
-$ K = PH^T (HPH^T + R)^{-1})\; $  
-$ z = (z_k - H_k x_k)\; $  
-$ x_k^{-} = x_k + k z\; $   
-$ P_k^{-} = P - KHP\; $  
-$ x_k^{-}, P_k^{-}\; $  
-
 
 
 ### 正在进行项目Projects Ongoing ###
@@ -200,16 +189,7 @@ $ x_k^{-}, P_k^{-}\; $
 - [GAN-图片生成3D人脸模型]( https://github.com/DC-Melo/)
 - [GAN-deepfake-深度学习换脸]( https://github.com/DC-Melo/)
 
-## 阅读参考书籍目录Coding reference books ##
+## Coding reference books ##
 - books
-![DC-gif](docs/media/books.gif)  
-<!-- <img src="docs/media/learning_OpenCV_3.jpg" alt="OpenCV3" height="200" align="center" /> -->
+![books](docs/media/books.gif)  
 
-<!-- 项目点赞 -->
-## 请为我点赞Donation ##
-如果你喜欢我的项目，请在对应的项目右上角 "Star" 一下。你的支持是我最大的鼓励☺☺！你也还可以扫描下面的二维码，对作者进行打赏。  
-If you like my project, "Star" in the corresponding project right corner, please. Your support is my biggest encouragement☺☺! You can also scan the qr code below or Donate to this project using Paypal, donation to Author.  
-![donationDC](docs/media/donation_to_DC.gif "donation")
-如果在捐赠留言中备注名称，将会被记录到列表中~ 如果你也是github开源作者，捐赠时可以留下github项目地址或者个人主页地址，链接将会被添加到列表中起到互相推广的作用  
-If you comment on the name in the donation message, it will be recorded in the list. ~If you are also an open source author of github, you can leave the GitHub project address or personal home page address when donating. Links will be added to the list to promote each other.  
-捐赠列表(Donation list)
