@@ -1,13 +1,13 @@
 # ☺DC's CV☺ #
 
-<!-- 项目标记☺☺ -->
+<!-- Project  ☺☺ -->
 ![author](https://img.shields.io/badge/DC-Melo-brightgreen.svg) 
 ![platform](https://img.shields.io/badge/platform-Linux-yellow.svg) 
 ![language](https://img.shields.io/badge/language-markdown-blue.svg) 
 
-<!-- 项目前言 -->
+<!-- Project Preface -->
 
-## 基本信息 ##
+## Basic Information ##
 ```
 #############################################################################
 #  _________     _                 _____   _____      __  __      _         #  
@@ -20,38 +20,41 @@
 #############################################################################
 ```
 **王江 DC-Melo**  
-期待地点：海外、北上杭深成都  
-期待岗位：团队coding、 图像、3D渲染、量化、算法、以及嵌入式硬件设备    
-个人简介：https://github.com/DC-Melo/README     https://gitee.com/DC-Melo/README  
-开源项目：https://github.com/DC-Melo            https://gitee.com/DC-Melo  
-联系方式：wangjiang@alumni.tongji.edu.cn        +86-152-1670-6941  
+Expected location: Singapore/Overseas
+Looking for: Back-end development(Java, Go, C++)
+About me: https://github.com/DC-Melo/README
+Project: https://github.com/DC-Melo
+Contact: wangjiang@alumni.tongji.edu.cn +65-8941-7932
 
 
-## 工作经历&教育背景&主修课程 ##
+## Work experience & educational background ##
 
 ```mermaid
 gantt
-    title 王江DC-Melo工作经历
-    dateFormat  YYYY-MM
+title 王江DC-Melo experience 
+dateFormat  YYYY-MM
 
-    section 工作经历
-    开发专家               : done , milestone , level   , 2022-05 , 0d
-    梧桐车联               : crit , done      , stage   , 2019-05 , 1100d
-    GO，OpenGL，CNN        : done , get skill , 2019-05 , 1100d
-    测试主管               : done , milestone , level   , 2019-05 , 0d
-    安吉四维               : crit , done      , stage   , 2016-10 , 950d
-    Linux，JAVA，OpenCV    : done , get skill , 2016-10 , 950d
-    工程师                 : done , milestone , level   , 2016-10 , 0d
-    翼锐汽车               : crit , done      , stage   , 2012-06 , 1600d
-    HIL，CANoe，python     : done , get skill , 2012-06 , 1600d
+section work experience
+test develop engineer : done , milestone , level   , 2024-03 , 0d
+B*bit                 : crit , done      , stage   , 2022-05 , 720d
+JAVA,GO               : done , get skill , 2022-05 , 1100d
+test develop engineer : done , milestone , level   , 2022-05 , 0d
+Phoenix Automotive    : crit , done      , stage   , 2019-05 , 1100d
+JAVA,GO               : done , get skill , 2019-05 , 1100d
+test develop engineer : done , milestone , level   , 2019-05 , 0d
+ANJINAVI              : crit , done      , stage   , 2016-10 , 950d
+Linux,JAVA,OpenCV     : done , get skill , 2016-10 , 950d
+engineer              : done , milestone , level   , 2016-10 , 0d
+YIRUI AUTO            : crit , done      , stage   , 2012-06 , 1600d
+python,HIL,CANoe      : done , get skill , 2012-06 , 1600d
 
-    section 教育经历
-    硕士                   : done , milestone , level   , 2012-04 , 0d
-    同济大学               : crit , done      , stage   , 2009-09 , 950d
-    嵌入式系统控制C语言    : done , get skill , 2009-09 , 950d
-    本科                   : done , milestone , level   , 2009-06 , 0d
-    江苏大学               : crit , done      , stage   , 2005-09 , 1400d
-    工课基础知识，数据优异 : done , get skill , 2005-09 , 1400d
+section education background
+master                                            : done , milestone , level   , 2012-04 , 0d
+TONGJI UNIVERSITY                                 : crit , done      , stage   , 2009-09 , 950d
+Embedded system control C language                : done , get skill , 2009-09 , 950d
+bachelor                                          : done , milestone , level   , 2009-06 , 0d
+JIANGSU UNIVERSITY                                : crit , done      , stage   , 2005-09 , 1400d
+excellent at math, Basic knowledge of engineering : done , get skill , 2005-09 , 1400d
 ```
 
 2019.5-至今     | 北京梧桐车联（腾讯与长安合资公司）         | 测试开发主管         | 汇报对象:测试总监  
@@ -73,14 +76,14 @@ gantt
 ## 主要技能: 面向问题快速学习、掌握编程工具、解决问题的能力 ##
 - 面向问题、学习编程工具、解决问题  
 ```                     
- +------------+    +-------------------------+    +-------------------------------------+
- |            |    |                         |    |                                     |
- |PCB,ASM,uCos|    |altium designer freescale|    |PCB HIL CANoe                        |
- |C/C++,Linux +--->|CMake,GDB                +--->|OpenCV OpenGL FFmpeg ImageMagick SLAM|
- |Python,GO   |    |pudb                     |    |TensorFlow CNN                       |
- |JAVA        |    |JDB,JVM,Gradle           |    |Spring Hadoop Spark                  |
- |            |    |                         |    |GIMP Blender                         |
- +------------+    +-------------------------+    +-------------------------------------+
+ +------------+    +-------------------------+    +---------------------+
+ |            |    |                         |    |                     |
+ |JAVA        |    |JDB,JVM,Gradle           |    |Spring Hadoop Spark  |
+ |Python,GO   |    |pudb                     |    |TensorFlow CNN       |
+ |C/C++,Linux +--->|CMake,GDB                +--->|OpenCV OpenGL SLAM   |
+ |PCB,ASM,uCos|    |altium designer freescale|    |PCB HIL CANoe        |
+ |            |    |                         |    |                     |
+ +------------+    +-------------------------+    +---------------------+
 ```
 
 | 编程工具       | 对应工具链                | 发现问题、解决问题过程中掌握的编程              |
