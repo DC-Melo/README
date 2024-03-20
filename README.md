@@ -55,6 +55,14 @@ bachelor                                          : done , milestone , level   ,
 JIANGSU UNIVERSITY                                : crit , done      , stage   , 2005-09 , 1400d
 excellent at math, Basic knowledge of engineering : done , get skill , 2005-09 , 1400d
 ```
+
+```plantuml
+@startuml
+Bob->Alice : Hello!
+@enduml
+```
+
+
 ### stage 6 ###
 | B*bit | Test Development Supervisor | Reporting to: Test Director  
 Main work: 
