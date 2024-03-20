@@ -1,31 +1,31 @@
 @startuml
 hide empty description
 
-[*] -up-> jiangsu_university
-jiangsu_university -up-> State2
-State2 -up-> State3
-State3 -up-> State4
-State4 -up-> State5
-State5 -up-> B*bit
-B*bit -up-> [*]
+[*] -up-> JIANGSU_UNIVERSITY
+JIANGSU_UNIVERSITY -up-> TONGJI_UNIVERSITY
+TONGJI_UNIVERSITY -up-> SAIC_Volkswagen_company
+SAIC_Volkswagen_company -up-> ANJINAVI_company
+ANJINAVI_company -up-> Phoenix_Automotive_company
+Phoenix_Automotive_company -up-> By_bit_company
+By_bit_company -up-> [*]
 
-jiangsu_university : this is a string,this is a string,this is a string,this is a string,this is a string
-jiangsu_university : this is another string
+JIANGSU_UNIVERSITY : this is a string,this is a string,this is a string,this is a string,this is a string
+JIANGSU_UNIVERSITY : this is another string
 
-State2 : this is a string
-State2 : this is another string
+TONGJI_UNIVERSITY : this is a string
+TONGJI_UNIVERSITY : this is another string
 
-State3 : this is a string
-State3 : this is another string
+SAIC_Volkswagen_company : this is a string
+SAIC_Volkswagen_company : this is another string
 
-State4 : this is a string
-State4 : this is another string
+ANJINAVI_company : this is a string
+ANJINAVI_company : this is another string
 
-State5 : this is a string
-State5 : this is another string
+Phoenix_Automotive_company : this is a string
+Phoenix_Automotive_company : this is another string
 
-B*bit : this is a string
-B*bit : this is another string
+By_bit : this is a string
+By_bit : this is another string
 
 
 @enduml
