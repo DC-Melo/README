@@ -1,16 +1,16 @@
 @startuml
 hide empty description
 
-[*] -up-> jiangsu university
-jiangsu university -up-> State2
+[*] -up-> jiangsu_university
+jiangsu_university -up-> State2
 State2 -up-> State3
 State3 -up-> State4
 State4 -up-> State5
 State5 -up-> B*bit
 B*bit -up-> [*]
 
-jiangsu university : this is a string,this is a string,this is a string,this is a string,this is a string
-jiangsu university : this is another string
+jiangsu_university : this is a string,this is a string,this is a string,this is a string,this is a string
+jiangsu_university : this is another string
 
 State2 : this is a string
 State2 : this is another string
