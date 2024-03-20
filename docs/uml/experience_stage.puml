@@ -1,3 +1,31 @@
 @startuml
-Bob -> Alice : hello
+hide empty description
+
+[*] -up-> State1
+State1 -up-> State2
+State2 -up-> State3
+State3 -up-> State4
+State4 -up-> State5
+State5 -up-> State6
+State6 -up-> [*]
+
+State1 : this is a string
+State1 : this is another string
+
+State2 : this is a string
+State2 : this is another string
+
+State3 : this is a string
+State3 : this is another string
+
+State4 : this is a string
+State4 : this is another string
+
+State5 : this is a string
+State5 : this is another string
+
+State6 : this is a string
+State6 : this is another string
+
+
 @enduml
