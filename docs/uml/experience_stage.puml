@@ -1,5 +1,7 @@
 @startuml
-'!include https://raw.githubusercontent.com/patrik-csak/one-dark-plantuml-theme/v1.0.1/theme.puml
+!include https://raw.githubusercontent.com/patrik-csak/one-dark-plantuml-theme/v1.0.1/theme.puml
+'skinparam backgroundcolor transparent
+
 
 hide empty description
 
