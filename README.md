@@ -20,11 +20,11 @@
 #############################################################################
 ```
 **王江 DC-Melo**  
-Expected location: Singapore/Overseas
-Looking for: Back-end development(Java, Go, C++)
-About me: https://github.com/DC-Melo/README
-Project: https://github.com/DC-Melo
-Contact: wangjiang@alumni.tongji.edu.cn +65-8941-7932
+- Expected location: Singapore/Overseas
+- Looking for: Back-end development(Java, Go, C++)
+- About me: https://github.com/DC-Melo/README
+- Project: https://github.com/DC-Melo
+- Contact: wangjiang@alumni.tongji.edu.cn +65-8941-7932
 
 
 ## Work experience & educational background ##
