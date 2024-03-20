@@ -24,8 +24,8 @@ ANJINAVI_company : this is another string
 Phoenix_Automotive_company : this is a string
 Phoenix_Automotive_company : this is another string
 
-By_bit : this is a string
-By_bit : this is another string
+By_bit_company : this is a string
+By_bit_company : this is another string
 
 
 @enduml
