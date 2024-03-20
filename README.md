@@ -1,13 +1,11 @@
-# ☺DC's CV☺ #
+# [☺ DC's CV ☺](https://github.com/DC-Melo/README)  #
+CV have some GIF picture, github web view will be better: [https://github.com/DC-Melo/README](https://github.com/DC-Melo/README)
 
-<!-- Project  ☺☺ -->
-![author](https://img.shields.io/badge/DC-Melo-brightgreen.svg) 
-![platform](https://img.shields.io/badge/platform-Linux-yellow.svg) 
-![language](https://img.shields.io/badge/language-markdown-blue.svg) 
 
 <!-- Project Preface -->
 
-## Basic Information ##
+## ![author](https://img.shields.io/badge/DC-Melo-brightgreen.svg) Basic Information ##
+
 ```
 #############################################################################
 #  _________     _                 _____   _____      __  __      _         #  
@@ -26,7 +24,8 @@
 - Contact: wangjiang@alumni.tongji.edu.cn +65-8941-7932
 
 
-## Work experience & educational background ##
+
+## ![skill](https://img.shields.io/badge/background-experience-yellow.svg) Work experience & educational background ##
 
 ```mermaid
 gantt
@@ -58,7 +57,8 @@ excellent at math, Basic knowledge of engineering : done , get skill , 2005-09 ,
 
 ![experience_stage](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/DC-Melo/README/master/docs/uml/experience_stage.puml)
 
-## Main skills ##
+
+## ![skill](https://img.shields.io/badge/skill-java&Golang-blue.svg) Main skills ##
 - Paper ability: Read many English papers and books. JVM, Introduction to Algorithms, Deep Learning (Lan Goodfellow), Deep Learning with Python, Bitcoin Whitepaper 
 - Mathematics basics: familiar with matrix calculations, familiar with probability theory, familiar with complex variable functions, familiar with Lie group Lie algebra
 - find max value problems, quick learn, solve problems 
@@ -75,7 +75,7 @@ excellent at math, Basic knowledge of engineering : done , get skill , 2005-09 ,
  +------------+    +-------------------------+    +---------------------+
 ```
 
-## Personality and Hobbies ##
+## ![skill](https://img.shields.io/badge/personality-enthusiasm&optimism-blue.svg)Personality and Hobbies ##
 - **Like literature, sports, and various team activities:** I like various team activities, participate in various social societies, forums, and use the power of the team to do greater things.  
 - **enjoy difficulty and challenge:** optimism character, full of challenging spirit, like to try new things, and have strong adaptability  
 - **be professional if you like it:** I like sports. Including: motorcycles, roller skating, skiing, badminton, backpacking travel  
@@ -83,7 +83,7 @@ excellent at math, Basic knowledge of engineering : done , get skill , 2005-09 ,
 ![DC-gif](docs/media/hobby.gif)  
 
 
-## work experience detail ##
+## ![experience](https://img.shields.io/badge/experience-detail-orange.svg)work experience detail ##
 
 ### 2022.05-2024.04 By_bit (crypto exchanger) ###
 - **JAVA,spring,spark:** develop off-line data analyze system(spark) testing system.
@@ -112,7 +112,7 @@ excellent at math, Basic knowledge of engineering : done , get skill , 2005-09 ,
 - **PID,PWM:** Based on freescale's DZ60 chip, it uses PID algorithm to control the fuel cell temperature.
 - **uCos-II:** transplants the real-time operating system uCos-II based on freescale's 256 chip, and implements the system's control strategy (assembly ASM+C language) on uCos-II
 
-## Rewards ##
+## ![experience](https://img.shields.io/badge/rewards-performance-orange.svg)Rewards ##
 + 2022.05-present product manager recommend as the best parter
 + 2019.05-2022.05 Three years of work, two years of highest level of performance appraisal
 + 2018.10-2022.05 three patents
@@ -121,7 +121,7 @@ excellent at math, Basic knowledge of engineering : done , get skill , 2005-09 ,
 + 2014.08-2014.08 "Semi-automatic test bench based on database" won the second prize in the Volkswagen Joint Innovation Competition
 
 
-## Projects Table of Contents ##
+## ![experience](https://img.shields.io/badge/project-closed-orange.svg)Projects Table of Contents ##
 
 ### Projects Closed ###
 - [C++-Bitcoin source code reading, changing, compiling, running](https://github.com/DC-Melo/)  
