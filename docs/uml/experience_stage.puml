@@ -9,7 +9,7 @@ State4 -up-> State5
 State5 -up-> State6
 State6 -up-> [*]
 
-State1 : this is a string
+State1 : this is a string,this is a string,this is a string,this is a string,this is a string
 State1 : this is another string
 
 State2 : this is a string
