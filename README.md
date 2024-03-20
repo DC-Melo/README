@@ -56,13 +56,7 @@ JIANGSU UNIVERSITY                                : crit , done      , stage   ,
 excellent at math, Basic knowledge of engineering : done , get skill , 2005-09 , 1400d
 ```
 
-@startuml
-Bob->Alice : Hello!
-@enduml
-
-
-![experience_stage](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/DC-Melo/README/master/docs/uml/experience_stage.puml)
-https://raw.githubusercontent.com/DC-Melo/README/master/docs/uml/experience_stage.puml
+![experience_stage](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/DC-Melo/README/master/docs/uml/experience_stage.puml)
 
 
 ### stage 6 ###
