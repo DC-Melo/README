@@ -86,30 +86,30 @@ excellent at math, Basic knowledge of engineering : done , get skill , 2005-09 ,
 ## work experience ##
 
 ### 2022.05-2024.04 By_bit (crypto exchanger) ###
-- **JAVA** base on chat GPT to develop a crypto finance analyze chat tool, develop off-line data analyze system(spark) testing system.
+- **JAVA,spring,GPT:** base on chat GPT to develop a crypto finance analyze chat tool, develop off-line data analyze system(spark) testing system.
 
 ### 2019.05-2022.05 Wutong AutoLink (Tencent CSIG Smart Travel Division) ###
-- **JAVA** An Android whack-a-mole game was developed using JAVA, which is used to collect the click convenience of different screen areas of the car.
-- **GO** Test Center has about 27 testing tools, which can capture logs by module, obtain the version number of each APP, run monkey, check ANR, CRASH, analyze defects, automatically submit defects, etc. Through research and analysis, the GO language is very suitable for being a cross-platform command tool. So I quickly got started with GO in 3 days, and completed the development, debugging and usage training of 20 of the 27 functions in 2 weeks.
-- **Python** Organize the team to build the test framework, develop the basic atomic method of the python test framework, and quickly generate test case scripts through the vim editor using templated Chinese test cases. After simple debugging, the team can put thousands of test cases into use.
-- **Organize training** Regularly train the team every month and empower the team. The training content includes: basic knowledge of embedded hardware, basic knowledge of communication, facing various problems, and using corresponding programming languages to solve problems.
+- **JAVA:** An Android whack-a-mole game was developed using JAVA, which is used to collect the click convenience of different screen areas of the car.
+- **GO:** Test Center has about 27 testing tools, which can capture logs by module, obtain the version number of each APP, run monkey, check ANR, CRASH, analyze defects, automatically submit defects, etc. Through research and analysis, the GO language is very suitable for being a cross-platform command tool. So I quickly got started with GO in 3 days, and completed the development, debugging and usage training of 20 of the 27 functions in 2 weeks.
+- **Python:** Organize the team to build the test framework, develop the basic atomic method of the python test framework, and quickly generate test case scripts through the vim editor using templated Chinese test cases. After simple debugging, the team can put thousands of test cases into use.
+- **Organize training:** Regularly train the team every month and empower the team. The training content includes: basic knowledge of embedded hardware, basic knowledge of communication, facing various problems, and using corresponding programming languages to solve problems.
   
 ### 2016.10-2019.04 Anji four-dimensional navigation system, navigation map test, vehicle interconnection product development test ###
-- **Linux** Test the navigation system based on Android (customized product for SAIC Hongyan). Ability to customize Android system (Linux+C compilation)
-- **adb** Tests mobile phone and car-machine interconnection products (customized products for Volkswagen and SAIC). Have APP testing and development capabilities and adb debugging capabilities (Linux+Java+adb)
-- **OpenCV** Design a logistics AGV simulation system based on ROS. Use blender to draw 3D models, gazebo for simulation, and OpenCV for image processing.
-- **Organize training** Lead the testing team and organize and arrange vehicle and machine testing work.
+- **Linux:** Test the navigation system based on Android (customized product for SAIC Hongyan). Ability to customize Android system (Linux+C compilation)
+- **adb:** Tests mobile phone and car-machine interconnection products (customized products for Volkswagen and SAIC). Have APP testing and development capabilities and adb debugging capabilities (Linux+Java+adb)
+- **OpenCV:** Design a logistics AGV simulation system based on ROS. Use blender to draw 3D models, gazebo for simulation, and OpenCV for image processing.
+- **Organize training:** Lead the testing team and organize and arrange vehicle and machine testing work.
   
 ### 2012.06-2016.10 VW Automobile Instrument Automatic Test System Construction ###
-- **CANoe,VB** Developed Excel-based test case management system and user test interface (VB) based on VB
-- **CAN, LIN, IO** Develop controller test system based on CANoe to conduct CAN bus signal test and hard wire signal test (C+CAN)
-- **Python** One-click quick coding program for controller development based on Python (python)
+- **CANoe,VB:** Developed Excel-based test case management system and user test interface (VB) based on VB
+- **CAN, LIN, IO:** Develop controller test system based on CANoe to conduct CAN bus signal test and hard wire signal test (C+CAN)
+- **Python:** One-click quick coding program for controller development based on Python (python)
   
 ### 2009.09-2011.04 Participated in the project at the graduate level: Development of fuel cell backup power controller (National Science and Technology Support Project) ###
-- **Labview** is responsible for developing the fuel cell backup power supply human-machine interface and participating in the control process design of the fuel cell backup power supply system (Labview+C)
-- **Matlab** Use Matlab to verify the fuzzy neural network algorithm to control the cooling system. And implement the control algorithm (NNs+C) on the controller of the Freescale (NXP) chip.
-- **PID,PWM** Based on freescale's DZ60 chip, it uses PID algorithm to control the fuel cell temperature.
-- **uCos-II** transplants the real-time operating system uCos-II based on freescale's 256 chip, and implements the system's control strategy (assembly ASM+C language) on uCos-II
+- **Labview:** responsible for developing the fuel cell backup power supply human-machine interface and participating in the control process design of the fuel cell backup power supply system (Labview+C)
+- **Matlab:** Use Matlab to verify the fuzzy neural network algorithm to control the cooling system. And implement the control algorithm (NNs+C) on the controller of the Freescale (NXP) chip.
+- **PID,PWM:** Based on freescale's DZ60 chip, it uses PID algorithm to control the fuel cell temperature.
+- **uCos-II:** transplants the real-time operating system uCos-II based on freescale's 256 chip, and implements the system's control strategy (assembly ASM+C language) on uCos-II
 
 ## Rewards ##
 + 2022.05-present product manager recommend as the best parter
