@@ -1,31 +1,44 @@
 @startuml
 hide empty description
 
-[*] -up-> JIANGSU_UNIVERSITY
-JIANGSU_UNIVERSITY -up-> TONGJI_UNIVERSITY
-TONGJI_UNIVERSITY -up-> SAIC_Volkswagen_company
-SAIC_Volkswagen_company -up-> ANJINAVI_company
-ANJINAVI_company -up-> Phoenix_Automotive_company
-Phoenix_Automotive_company -up-> By_bit_company
-By_bit_company -up-> [*]
+[*] -up-> JIANGSU_UNIVERSITY #green
+JIANGSU_UNIVERSITY         -up-> TONGJI_UNIVERSITY          #green
+TONGJI_UNIVERSITY          -up-> SAIC_Volkswagen_company    #blue
+SAIC_Volkswagen_company    -up-> ANJINAVI_company           #blue
+ANJINAVI_company           -up-> Phoenix_Automotive_company #blue
+Phoenix_Automotive_company -up-> By_bit_company             #blue
+By_bit_company             -up-> [*]
 
-JIANGSU_UNIVERSITY : this is a string,this is a string,this is a string,this is a string,this is a string
-JIANGSU_UNIVERSITY : this is another string
+JIANGSU_UNIVERSITY         : Bachelor
+JIANGSU_UNIVERSITY         : School of Automotive and Transportation Engineering
+JIANGSU_UNIVERSITY         : **Excellent in mathematics**, basic courses of engineering
 
-TONGJI_UNIVERSITY : this is a string
-TONGJI_UNIVERSITY : this is another string
+TONGJI_UNIVERSITY          : master
+TONGJI_UNIVERSITY          : Automotive College
+TONGJI_UNIVERSITY          : **Excellence in mathematical**, computer control basics, Automobile testing, modern control theory, system identification, fuzzy control
 
-SAIC_Volkswagen_company : this is a string
-SAIC_Volkswagen_company : this is another string
+SAIC_Volkswagen_company    : engineer
+SAIC_Volkswagen_company    : Instrument Driving Assistance, Reporting to: Technical Director
+SAIC_Volkswagen_company    : Responsible for building the Volkswagen MQB platform instrument test system and HUD test system, and developing test cases.  
 
-ANJINAVI_company : this is a string
-ANJINAVI_company : this is another string
+ANJINAVI_company           : senior test develop engineer
+ANJINAVI_company           : research and development department, Reporting to: Technical Director
+ANJINAVI_company           : Responsible for building a navigation test system and test navigation map.  
 
-Phoenix_Automotive_company : this is a string
-Phoenix_Automotive_company : this is another string
+Phoenix_Automotive_company : senior test develop engineer
+Phoenix_Automotive_company : research and development department, Reporting to: Technical Director
+Phoenix_Automotive_company : building test frameworks, develop android testing APP
 
-By_bit_company : this is a string
-By_bit_company : this is another string
+By_bit_company             : senior test develop engineer
+By_bit_company             : big data department, Reporting to: department Director
+By_bit_company             : base on chat GPT to develop a crypto finance analyst chat tool, developing off-line data analyse system(base on spark) Automotive Testing system.
 
-
+right header
+**DC**
+endheader
+legend bottom left
+| <color:green>→</color> | university |
+| <color:blue>→</color> | company |
+endlegend
+right footer DC
 @enduml
