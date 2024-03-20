@@ -55,19 +55,26 @@ bachelor                                          : done , milestone , level   ,
 JIANGSU UNIVERSITY                                : crit , done      , stage   , 2005-09 , 1400d
 excellent at math, Basic knowledge of engineering : done , get skill , 2005-09 , 1400d
 ```
+### stage 6 ###
+| B*bit | Test Development Supervisor | Reporting to: Test Director  
+Main work: 
+  
 
-present | Phoenix Automotive (a joint venture between Tencent and Changan) | Test Development Supervisor | Reporting to: Test Director  
+### stage 5 ###
+| Phoenix Automotive (a joint venture between Tencent and Changan) | Test Development Supervisor | Reporting to: Test Director  
 Main work: HIL bench construction, organizing test development, building test atomic methods, building test frameworks, converting Chinese use cases into python codes and filling them into the test framework, simple inspection and debugging can be put into test production, and test tool set development  
   
+### stage 4 ###
 | Anji Siwei (a joint venture between Anji Logistics and NavInfo) | Head of Technical Department | Reporting to: Technical Director  
 Main work: Build a navigation system test system and test NavInfo’s new navigation map.  
   
+### stage 3 ###
 | SAIC Volkswagen Company | Instrument Driving Assistance Test Supervisor | Reporting to: Chief  
 Main work: Responsible for building the Volkswagen MQB platform instrument test system and HUD test system, and developing test cases.  
-  
+### stage 2 ###
 | Tongji University (985/211) | Automotive College | Master  
 Major courses: Automobile testing, automobile dynamics, modern control theory, system identification, fuzzy control, computer control basics, **Excellence in mathematical foundation  
-  
+### stage 1 ###
 | Jiangsu University | School of Automotive and Transportation Engineering | Bachelor  
 Major courses: **Excellent in mathematics foundation**, automobile structure, automobile theory, automobile electrical appliances, circuit electronics, automatic control theory, microcomputer principles, automobile maintenance, automobile marketing, management  
 
