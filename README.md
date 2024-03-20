@@ -34,18 +34,18 @@ title DC experience
 dateFormat  YYYY-MM
 
 section work experience
-test develop engineer   : done , milestone , level   , 2024-03 , 0d
-B*bit                   : crit , done      , stage   , 2022-05 , 720d
-JAVA,GO                 : done , get skill , 2022-05 , 720d
-test develop engineer   : done , milestone , level   , 2022-05 , 0d
-Phoenix Automotive      : crit , done      , stage   , 2019-05 , 1100d
-JAVA,GO                 : done , get skill , 2019-05 , 1100d
-test develop engineer   : done , milestone , level   , 2019-05 , 0d
-ANJINAVI                : crit , done      , stage   , 2016-10 , 950d
-Linux,JAVA,OpenCV       : done , get skill , 2016-10 , 950d
-engineer                : done , milestone , level   , 2016-10 , 0d
-SAIC Volkswagen Company : crit , done      , stage   , 2012-06 , 1600d
-python,HIL,CANoe        : done , get skill , 2012-06 , 1600d
+senior test develop engineer : done , milestone , level   , 2024-03 , 0d
+B*bit                        : crit , done      , stage   , 2022-05 , 720d
+JAVA,GO                      : done , get skill , 2022-05 , 720d
+senior test develop engineer : done , milestone , level   , 2022-05 , 0d
+Phoenix Automotive           : crit , done      , stage   , 2019-05 , 1100d
+JAVA,GO                      : done , get skill , 2019-05 , 1100d
+test develop engineer        : done , milestone , level   , 2019-05 , 0d
+ANJINAVI                     : crit , done      , stage   , 2016-10 , 950d
+Linux,JAVA,OpenCV            : done , get skill , 2016-10 , 950d
+engineer                     : done , milestone , level   , 2016-10 , 0d
+SAIC Volkswagen Company      : crit , done      , stage   , 2012-06 , 1600d
+python,HIL,CANoe             : done , get skill , 2012-06 , 1600d
 
 section education background
 master                                            : done , milestone , level   , 2012-04 , 0d
@@ -56,20 +56,20 @@ JIANGSU UNIVERSITY                                : crit , done      , stage   ,
 excellent at math, Basic knowledge of engineering : done , get skill , 2005-09 , 1400d
 ```
 
-2019.5-present | Phoenix Automotive (a joint venture between Tencent and Changan) | Test Development Supervisor | Reporting to: Test Director
-Main work: HIL bench construction, organizing test development, building test atomic methods, building test frameworks, converting Chinese use cases into python codes and filling them into the test framework, simple inspection and debugging can be put into test production, and test tool set development
-
-20016.10-2019.4 | Anji Siwei (a joint venture between Anji Logistics and NavInfo) | Head of Technical Department | Reporting to: Technical Director
-Main work: Build a navigation system test system and test NavInfo’s new navigation map.
-
-2012.06-2016.09 | SAIC Volkswagen Company | Instrument Driving Assistance Test Supervisor | Reporting to: Chief
-Main work: Responsible for building the Volkswagen MQB platform instrument test system and HUD test system, and developing test cases.
-
-2009.09-2012.05 | Tongji University (985/211) | Automotive College | Master
-Major courses: Automobile testing, automobile dynamics, modern control theory, system identification, fuzzy control, computer control basics, **Excellence in mathematical foundation**
-
-2005.09-2009.06 | Jiangsu University | School of Automotive and Transportation Engineering | Bachelor
-Major courses: **Excellent in mathematics foundation**, automobile structure, automobile theory, automobile electrical appliances, circuit electronics, automatic control theory, microcomputer principles, automobile maintenance, automobile marketing, management 
+present | Phoenix Automotive (a joint venture between Tencent and Changan) | Test Development Supervisor | Reporting to: Test Director  
+Main work: HIL bench construction, organizing test development, building test atomic methods, building test frameworks, converting Chinese use cases into python codes and filling them into the test framework, simple inspection and debugging can be put into test production, and test tool set development  
+  
+| Anji Siwei (a joint venture between Anji Logistics and NavInfo) | Head of Technical Department | Reporting to: Technical Director  
+Main work: Build a navigation system test system and test NavInfo’s new navigation map.  
+  
+| SAIC Volkswagen Company | Instrument Driving Assistance Test Supervisor | Reporting to: Chief  
+Main work: Responsible for building the Volkswagen MQB platform instrument test system and HUD test system, and developing test cases.  
+  
+| Tongji University (985/211) | Automotive College | Master  
+Major courses: Automobile testing, automobile dynamics, modern control theory, system identification, fuzzy control, computer control basics, **Excellence in mathematical foundation  
+  
+| Jiangsu University | School of Automotive and Transportation Engineering | Bachelor  
+Major courses: **Excellent in mathematics foundation**, automobile structure, automobile theory, automobile electrical appliances, circuit electronics, automatic control theory, microcomputer principles, automobile maintenance, automobile marketing, management  
 
 
 ## Main skills: find max value problems, quick learn, solve problems ##
