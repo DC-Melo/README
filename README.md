@@ -61,6 +61,10 @@ Bob->Alice : Hello!
 @enduml
 
 
+![experience_stage](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/DC-Melo/README/master/docs/uml/experience_stage.puml)
+https://raw.githubusercontent.com/DC-Melo/README/master/docs/uml/experience_stage.puml
+
+
 ### stage 6 ###
 | B*bit | Test Development Supervisor | Reporting to: Test Director  
 Main work: 
