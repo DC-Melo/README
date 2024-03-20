@@ -58,22 +58,24 @@ excellent at math, Basic knowledge of engineering : done , get skill , 2005-09 ,
 
 ![experience_stage](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/DC-Melo/README/master/docs/uml/experience_stage.puml)
 
-## Main skills: find max value problems, quick learn, solve problems ##
+## Main skills ##
+- Paper ability: Read many English papers and books. JVM, Introduction to Algorithms, Deep Learning (Lan Goodfellow), Deep Learning with Python, Bitcoin Whitepaper 
+- Mathematics basics: familiar with matrix calculations, familiar with probability theory, familiar with complex variable functions, familiar with Lie group Lie algebra
+- find max value problems, quick learn, solve problems 
+- skill tool chain
 ```                     
  +------------+    +-------------------------+    +---------------------+
  |            |    |                         |    |                     |
- |JAVA        |    |JDB,JVM,Maven,Gradle     |    |Spring Hadoop Spark  |
- |Python,GO   |    |pudb                     |    |TensorFlow CNN       |
- |C/C++,Linux +--->|CMake,GDB                +--->|OpenCV OpenGL SLAM   |
- |PCB,ASM,uCos|    |altium designer freescale|    |PCB HIL CANoe        |
+ |JAVA        |    |JDB,JVM,Maven,Gradle     |    |Spring,Hadoop,Spark  |
+ |Python,GO   |    |pudb                     |    |TensorFlow,CNN       |
+ |C/C++,Linux +--->|CMake,GDB                +--->|OpenCV,OpenGL,SLAM   |
+ |PCB,ASM,uCos|    |altium designer freescale|    |PCB,HIL,CANoe        |
+ |Mathematics |    |                         |    |                     |
  |            |    |                         |    |                     |
  +------------+    +-------------------------+    +---------------------+
 ```
-- Mathematics basics: familiar with matrix calculations, familiar with probability theory, familiar with complex variable functions, familiar with Lie group Lie algebra
-- Paper ability: Read many English papers and books. JVM, Introduction to Algorithms, Deep Learning (Lan Goodfellow), Deep Learning with Python, hadoop, spark
 
 ## Personality and Hobbies ##
-- Interests: **Machine learning algorithms NB, DT, SVM, KF, TensorFlow, CNN, GAN, RNN, SLAM**
 - **Like literature, sports, and various team activities** I like various team activities, participate in various social societies, forums, and use the power of the team to do greater things.
 - **No challenge, no joy** Cheerful personality, full of challenging spirit, like to try new things, like a fluid life, and have strong adaptability
 - **Play professional and advanced if you like** I like sports. Including: motorcycles, roller skating, skiing, badminton, backpacking
