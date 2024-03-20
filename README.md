@@ -31,22 +31,22 @@
 
 ```mermaid
 gantt
-title 王江DC-Melo experience 
+title DC experience 
 dateFormat  YYYY-MM
 
 section work experience
-test develop engineer : done , milestone , level   , 2024-03 , 0d
-B*bit                 : crit , done      , stage   , 2022-05 , 720d
-JAVA,GO               : done , get skill , 2022-05 , 1100d
-test develop engineer : done , milestone , level   , 2022-05 , 0d
-Phoenix Automotive    : crit , done      , stage   , 2019-05 , 1100d
-JAVA,GO               : done , get skill , 2019-05 , 1100d
-test develop engineer : done , milestone , level   , 2019-05 , 0d
-ANJINAVI              : crit , done      , stage   , 2016-10 , 950d
-Linux,JAVA,OpenCV     : done , get skill , 2016-10 , 950d
-engineer              : done , milestone , level   , 2016-10 , 0d
-YIRUI AUTO            : crit , done      , stage   , 2012-06 , 1600d
-python,HIL,CANoe      : done , get skill , 2012-06 , 1600d
+test develop engineer   : done , milestone , level   , 2024-03 , 0d
+B*bit                   : crit , done      , stage   , 2022-05 , 720d
+JAVA,GO                 : done , get skill , 2022-05 , 720d
+test develop engineer   : done , milestone , level   , 2022-05 , 0d
+Phoenix Automotive      : crit , done      , stage   , 2019-05 , 1100d
+JAVA,GO                 : done , get skill , 2019-05 , 1100d
+test develop engineer   : done , milestone , level   , 2019-05 , 0d
+ANJINAVI                : crit , done      , stage   , 2016-10 , 950d
+Linux,JAVA,OpenCV       : done , get skill , 2016-10 , 950d
+engineer                : done , milestone , level   , 2016-10 , 0d
+SAIC Volkswagen Company : crit , done      , stage   , 2012-06 , 1600d
+python,HIL,CANoe        : done , get skill , 2012-06 , 1600d
 
 section education background
 master                                            : done , milestone , level   , 2012-04 , 0d
@@ -57,50 +57,42 @@ JIANGSU UNIVERSITY                                : crit , done      , stage   ,
 excellent at math, Basic knowledge of engineering : done , get skill , 2005-09 , 1400d
 ```
 
-2019.5-至今     | 北京梧桐车联（腾讯与长安合资公司）         | 测试开发主管         | 汇报对象:测试总监  
-主要工作：HIL台架搭建，组织测试开发，构建测试原子方法，搭建测试框架,将中文用例转化为python代码填充到测试框架中，简单检查调试即可投入测试生产，测试工具集开发  
+2019.5-present | Phoenix Automotive (a joint venture between Tencent and Changan) | Test Development Supervisor | Reporting to: Test Director
+Main work: HIL bench construction, organizing test development, building test atomic methods, building test frameworks, converting Chinese use cases into python codes and filling them into the test framework, simple inspection and debugging can be put into test production, and test tool set development
 
-20016.10-2019.4 | 安吉四维（安吉物流与四维图新合资公司）     | 技术部门主管         | 汇报对象:技术总监  
-主要工作：搭建导航系统测试系统，测试四维图新的导航地图。  
+20016.10-2019.4 | Anji Siwei (a joint venture between Anji Logistics and NavInfo) | Head of Technical Department | Reporting to: Technical Director
+Main work: Build a navigation system test system and test NavInfo’s new navigation map.
 
-2012.06-2016.09 | 上海翼锐汽车科技有限公司(上汽大众设计公司) | 仪表驾驶辅助测试主管 | 汇报对象:股长  
-主要工作：负责搭建大众MQB平台仪表测试系统和HUD测试系统、开发测试用例。  
+2012.06-2016.09 | SAIC Volkswagen Company | Instrument Driving Assistance Test Supervisor | Reporting to: Chief
+Main work: Responsible for building the Volkswagen MQB platform instrument test system and HUD test system, and developing test cases.
 
-2009.09-2012.05 | 同济大学(985/211)                          | 汽车学院             | 硕士  
-主修课程：汽车试验、汽车动力学、现代控制理论、系统辨识、模糊控制、计算机控制基础、**数学基础优异**  
+2009.09-2012.05 | Tongji University (985/211) | Automotive College | Master
+Major courses: Automobile testing, automobile dynamics, modern control theory, system identification, fuzzy control, computer control basics, **Excellence in mathematical foundation**
 
-2005.09-2009.06 | 江苏大学                                   | 汽车与交通工程学院   | 学士  
-主修课程：汽车构造、汽车理论、汽车电器、电路电子、自动控制理论、微机原理、汽车维修、汽车营销、管理学、**数学基础优异**  
+2005.09-2009.06 | Jiangsu University | School of Automotive and Transportation Engineering | Bachelor
+Major courses: **Excellent in mathematics foundation**, automobile structure, automobile theory, automobile electrical appliances, circuit electronics, automatic control theory, microcomputer principles, automobile maintenance, automobile marketing, management 
 
 
-## 主要技能: 面向问题快速学习、掌握编程工具、解决问题的能力 ##
-- 面向问题、学习编程工具、解决问题  
+## Main skills: find max value problems, quick learn, solve problems ##
 ```                     
  +------------+    +-------------------------+    +---------------------+
  |            |    |                         |    |                     |
- |JAVA        |    |JDB,JVM,Gradle           |    |Spring Hadoop Spark  |
+ |JAVA        |    |JDB,JVM,Maven,Gradle     |    |Spring Hadoop Spark  |
  |Python,GO   |    |pudb                     |    |TensorFlow CNN       |
  |C/C++,Linux +--->|CMake,GDB                +--->|OpenCV OpenGL SLAM   |
  |PCB,ASM,uCos|    |altium designer freescale|    |PCB HIL CANoe        |
  |            |    |                         |    |                     |
  +------------+    +-------------------------+    +---------------------+
 ```
+- Mathematics basics: familiar with matrix calculations, familiar with probability theory, familiar with complex variable functions, familiar with Lie group Lie algebra
+- Paper ability: Read many English papers and books. JVM, Introduction to Algorithms, Deep Learning (Lan Goodfellow), Deep Learning with Python, hadoop, spark
 
-| 编程工具       | 对应工具链                | 发现问题、解决问题过程中掌握的编程              |
-| :------        | :--------                 | :---------------                                |
-| PCB,ASM,C,uCos | altium designer,freescale | PCB，硬件开发,驱动开发，信号分析,HIL台架        |
-| C++,Linux      | CMake, GDB                | OpenCV,OpenGL,FFmpeg,ImageMagick,SLAM,Blender3D |
-| Python GO      | pudb                      | 数据爬虫，测试框架，tensorflow机器学习 系统命令 |
-| JAVA           | JDB,JVM,Gradle            | APP开发，中间件开发,集群运算                    |
-- 兴趣涉猎：**机器学习算法NB，DT，SVM，KF，TensorFlow、CNN、GAN，RNN，SLAM**  
-- 数学基础：熟悉矩阵计算，熟悉概率论，熟悉复变函数，熟悉利群李代数  
-- 论文能力：读了较多的英文论文以及书籍。JVM，Introduction to Algorithms，Deep Learning（Lan Goodfellow），Deep Learning with Python，hadoop，spark  
-
-## 性格爱好 ##
-**喜欢文艺、运动、及各种团队活动** 喜欢各种团队活动，参加社会各种社团，论坛，借助团队的力量做更大的事情。  
-**无挑战不欢** 性格开朗、富有挑战精神、喜欢尝试新鲜事物、喜欢有流动性的生活、有较强的适应性  
-**喜欢就要玩专业高级** 喜欢运动。包括：摩托车、轮滑、滑雪、羽毛球，背包旅行  
-**喜欢展示分享** 喜欢看各种论文，喜欢听分享报告,也喜欢分享技术  
+## Personality and Hobbies ##
+- Interests: **Machine learning algorithms NB, DT, SVM, KF, TensorFlow, CNN, GAN, RNN, SLAM**
+- **Like literature, sports, and various team activities** I like various team activities, participate in various social societies, forums, and use the power of the team to do greater things.
+- **No challenge, no joy** Cheerful personality, full of challenging spirit, like to try new things, like a fluid life, and have strong adaptability
+- **Play professional and advanced if you like** I like sports. Including: motorcycles, roller skating, skiing, badminton, backpacking
+- **I like to show and share** I like to read various papers, listen to and share reports, and also like to share technology
 ![DC-gif](docs/media/hobby.gif)  
 
 
