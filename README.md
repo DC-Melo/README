@@ -86,13 +86,14 @@ excellent at math, Basic knowledge of engineering : done , get skill , 2005-09 ,
 ## work experience ##
 
 ### 2022.05-2024.04 By_bit (crypto exchanger) ###
-- **JAVA,spring,GPT:** base on chat GPT to develop a crypto finance analyze chat tool, develop off-line data analyze system(spark) testing system.
+- **JAVA,spring,spark:** develop off-line data analyze system(spark) testing system.
+- **GPT:** base on chat GPT to develop a crypto finance analyze chat tool 
+- **Organize training:** Regularly train the team every month and empower the team. The training content includes: basic knowledge of coding, basic knowledge of communication, facing various problems, and using corresponding programming languages to solve problems.
 
-### 2019.05-2022.05 Wutong AutoLink (Tencent CSIG Smart Travel Division) ###
+### 2019.05-2022.05 Phoenix Automotive company (Tencent CSIG Smart Travel department) ###
 - **JAVA:** An Android whack-a-mole game was developed using JAVA, which is used to collect the click convenience of different screen areas of the car.
 - **GO:** Test Center has about 27 testing tools, which can capture logs by module, obtain the version number of each APP, run monkey, check ANR, CRASH, analyze defects, automatically submit defects, etc. Through research and analysis, the GO language is very suitable for being a cross-platform command tool. So I quickly got started with GO in 3 days, and completed the development, debugging and usage training of 20 of the 27 functions in 2 weeks.
 - **Python:** Organize the team to build the test framework, develop the basic atomic method of the python test framework, and quickly generate test case scripts through the vim editor using templated Chinese test cases. After simple debugging, the team can put thousands of test cases into use.
-- **Organize training:** Regularly train the team every month and empower the team. The training content includes: basic knowledge of embedded hardware, basic knowledge of communication, facing various problems, and using corresponding programming languages to solve problems.
   
 ### 2016.10-2019.04 Anji four-dimensional navigation system, navigation map test, vehicle interconnection product development test ###
 - **Linux:** Test the navigation system based on Android (customized product for SAIC Hongyan). Ability to customize Android system (Linux+C compilation)
