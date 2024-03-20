@@ -6,8 +6,8 @@ State1 -up-> State2
 State2 -up-> State3
 State3 -up-> State4
 State4 -up-> State5
-State5 -up-> State6
-State6 -up-> [*]
+State5 -up-> B*bit
+B*bit -up-> [*]
 
 State1 : this is a string,this is a string,this is a string,this is a string,this is a string
 State1 : this is another string
@@ -24,8 +24,8 @@ State4 : this is another string
 State5 : this is a string
 State5 : this is another string
 
-State6 : this is a string
-State6 : this is another string
+B*bit : this is a string
+B*bit : this is another string
 
 
 @enduml
