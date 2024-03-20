@@ -85,36 +85,39 @@ excellent at math, Basic knowledge of engineering : done , get skill , 2005-09 ,
 
 ## work experience ##
 
+### 2022.05-2024.04 By_bit (crypto exchanger) ###
+- **JAVA** base on chat GPT to develop a crypto finance analyze chat tool, develop off-line data analyze system(spark) testing system.
 
-### 2019.05-至今    梧桐车联（腾讯CSIG智慧出行事业部） ###
-- **Python**   组织团队构建测试框架，开发python测试框架基础原子方法，将模版化的中文测试用例，通过vim编辑器快速生成测试用例脚本。团队经过简单调试，合校即可将上千条测试用例投入使用。  
-- **GO**       测试中心大约27个测试工具，按模块抓日志，获取各个APP版本号，运行monkey，检查ANR，CRASH，分析缺陷，自动提交缺陷等等。通过调研分析，GO语言非常适合做跨平台的命令工具。于是3天快速入门GO，两周完成27个功能中的20个功能的开发调试和使用培训。  
-- **JAVA**     使用JAVA开发了一安卓打地鼠游戏，用于采集车机不同屏幕区域的点击便捷度。  
-- **组织培训** 每月定期培训团队，赋能团队。培训内容包括: 嵌入式硬件基本知识，通讯基本知识基础,面向各种问题，使用对应编程语言解决问题。  
+### 2019.05-2022.05 Wutong AutoLink (Tencent CSIG Smart Travel Division) ###
+- **JAVA** An Android whack-a-mole game was developed using JAVA, which is used to collect the click convenience of different screen areas of the car.
+- **GO** Test Center has about 27 testing tools, which can capture logs by module, obtain the version number of each APP, run monkey, check ANR, CRASH, analyze defects, automatically submit defects, etc. Through research and analysis, the GO language is very suitable for being a cross-platform command tool. So I quickly got started with GO in 3 days, and completed the development, debugging and usage training of 20 of the 27 functions in 2 weeks.
+- **Python** Organize the team to build the test framework, develop the basic atomic method of the python test framework, and quickly generate test case scripts through the vim editor using templated Chinese test cases. After simple debugging, the team can put thousands of test cases into use.
+- **Organize training** Regularly train the team every month and empower the team. The training content includes: basic knowledge of embedded hardware, basic knowledge of communication, facing various problems, and using corresponding programming languages to solve problems.
   
-### 2016.10-2019.04 安吉四维导航系统、导航地图测试、车辆互联产品开发测试 ###
-- **Linux**    测试基于Android的导航系统(给上汽红岩定制的产品)。具备Android系统定制能力(Linux+C编译)  
-- **adb**      测试手机车机互联产品(为大众、上汽定制的产品)。具备APP测试开发能力、adb调试能力(Linux+Java+adb)  
-- **OpenCV**   基于ROS设计物流AGV仿真系统。使用blender画3D模型，使用gazebo进行仿真，使用OpenCV进行图像处理。  
-- **组织培训** 带领测试团队，组织安排车机测试工作。  
+### 2016.10-2019.04 Anji four-dimensional navigation system, navigation map test, vehicle interconnection product development test ###
+- **Linux** Test the navigation system based on Android (customized product for SAIC Hongyan). Ability to customize Android system (Linux+C compilation)
+- **adb** Tests mobile phone and car-machine interconnection products (customized products for Volkswagen and SAIC). Have APP testing and development capabilities and adb debugging capabilities (Linux+Java+adb)
+- **OpenCV** Design a logistics AGV simulation system based on ROS. Use blender to draw 3D models, gazebo for simulation, and OpenCV for image processing.
+- **Organize training** Lead the testing team and organize and arrange vehicle and machine testing work.
   
-### 2012.06-2016.10 翼锐汽车仪表自动测试系统搭建   ###
-- **CANoe,VB** 基于VB开发基于Excel测试用例管理系统、以及用户测试界面(VB)  
-- **CAN,LIN,IO** 基于CANoe开发控制器测试系统,进行CAN总线信号测试和硬线信号测试(C+CAN)  
-- **Python**   基于Python开发控制器一键快速编码程序(python)  
+### 2012.06-2016.10 VW Automobile Instrument Automatic Test System Construction ###
+- **CANoe,VB** Developed Excel-based test case management system and user test interface (VB) based on VB
+- **CAN, LIN, IO** Develop controller test system based on CANoe to conduct CAN bus signal test and hard wire signal test (C+CAN)
+- **Python** One-click quick coding program for controller development based on Python (python)
   
-### 2009.09-2011.04 研究生阶段参与课题：燃料电池备用电源控制器开发（国家科技支撑项目） ###
-- **Labview**  负责开发燃料电池备用电源人机界面，参与燃料电池备用电源系统控制流程设计 (Labview+C)  
-- **Matlab**   用Matlab验证模糊神经网络算法控制散热系统。并在Freescale(NXP)芯片的控制器上实现控制算法(NNs+C)。  
-- **PID,PWM**  基于freescale的DZ60芯片，使用PID算法控制燃料电池温度。
-- **uCos-II**  基于freescale的256芯片移植实时操作系统uCos-II，并在uCos-II上实现系统的控制策略(汇编ASM+C语言)  
+### 2009.09-2011.04 Participated in the project at the graduate level: Development of fuel cell backup power controller (National Science and Technology Support Project) ###
+- **Labview** is responsible for developing the fuel cell backup power supply human-machine interface and participating in the control process design of the fuel cell backup power supply system (Labview+C)
+- **Matlab** Use Matlab to verify the fuzzy neural network algorithm to control the cooling system. And implement the control algorithm (NNs+C) on the controller of the Freescale (NXP) chip.
+- **PID,PWM** Based on freescale's DZ60 chip, it uses PID algorithm to control the fuel cell temperature.
+- **uCos-II** transplants the real-time operating system uCos-II based on freescale's 256 chip, and implements the system's control strategy (assembly ASM+C language) on uCos-II
 
-## 奖励情况 ##
-2019.05-至今    工作三年,两年绩效考核最高等级  
-2018.10-至今    三个专利  
-2017.01-2017.02 获得年度优秀员工称号  
-2016.07-2016.07 《基于Excel的一键控制器编码》获得劳动竞赛最佳金点子  
-2014.08-2014.08 《基于数据库的半自动测试台架》获得大众联合创新大赛二等奖  
+## Rewards ##
+2022.05-present product manager recommend as the best parter
+2019.05-2022.05 Three years of work, two years of highest level of performance appraisal
+2018.10-2022.05 three patents
+2017.01-2017.02 Won the title of Outstanding Employee of the Year
+2016.07-2016.07 "One-click Controller Coding Based on Excel" won the best golden idea in the labor competition
+2014.08-2014.08 "Semi-automatic test bench based on database" won the second prize in the Volkswagen Joint Innovation Competition
 
 
 ## Projects Table of Contents ##
@@ -131,63 +134,57 @@ excellent at math, Basic knowledge of engineering : done , get skill , 2005-09 ,
 ![adb_tools](docs/media/go_adb_tools_2.gif)  
 - [C#-based on Zhou Ligong CAN card real vehicle bus host computer development](https://github.com/DC-Melo/)
 ![can_simulation](docs/media/CAN_simulation.gif)  
-- [Python-基于周立功CAN卡进行总线自动化测试]( https://github.com/DC-Melo/)  
+- [Python-bus automated testing based on Zhou Ligong CAN card](https://github.com/DC-Melo/)
 ![DC-gif](docs/media/pytest_code_input_tip_2.gif)  
-- [C-CAPL-基于CANoe进行总线自动化测试]( https://github.com/DC-Melo/)  
+- [C-CAPL-Bus automated testing based on CANoe](https://github.com/DC-Melo/)
 ![DC-gif](docs/media/CANoe_simulation.gif)  
-- [VIM-script-中文测试用例全自动转换Python测试代码]( https://github.com/DC-Melo/)  
-- [Python-安卓接收测试五大原子方法实现]( https://github.com/DC-Melo/)  
+- [VIM-script-Chinese test cases fully automatically convert Python test code](https://github.com/DC-Melo/)
+- [Python-implementation of five atomic methods for Android reception testing](https://github.com/DC-Melo/)
 ![DC-gif](docs/media/pytest_basic_method_structure_2.gif)  
-- [JAVA-注意力分区研究APP](https://github.com/DC-Melo/Attention_Partition)  
+- [JAVA-Attention Partition Research APP](https://github.com/DC-Melo/Attention_Partition)
 ![DC-gif](docs/media/Attention_Partition.gif)  
 ![DC-gif](docs/media/Attention_Partition_result.gif)  
 
-- [SLAM-仿真自动驾驶AGV](https://github.com/DC-Melo/)  
+- [SLAM-Simulated autonomous driving AGV](https://github.com/DC-Melo/)
 ![DC-gif](docs/media/apollo_simulation.gif)  
 ![DC-gif](docs/media/slam_model_DC.gif)  
 ![DC-gif](docs/media/slam_simulation.gif)  
 ![DC-gif](docs/media/path_dynamic.gif)  
 ![DC-gif](docs/media/lidar_before_testbench_b.gif)  
 ![DC-gif](docs/media/lidar_before_testbench.gif)  
-- [CANoe+Linux-车机HIL测试系统]( https://github.com/DC-Melo/)  
-- [Python-使用WEB微信发送定制化微信新年祝福]( https://github.com/DC-Melo/)  
-- [JAVA-使用WEB微信仿制微信通讯]( https://github.com/DC-Melo/)  
+- [CANoe+Linux-Car-machine HIL test system]( https://github.com/DC-Melo/)
+- [Python-Use WEB WeChat to send customized WeChat New Year greetings](https://github.com/DC-Melo/)
+- [JAVA-Use WEB WeChat to imitate WeChat communication](https://github.com/DC-Melo/)
 ![DC-gif](docs/media/python_wechat.gif)  
-- [Tensorflow+CNN-人脸识别]( https://github.com/DC-Melo/)  
+- [Tensorflow+CNN-Face Recognition](https://github.com/DC-Melo/)
 ![DC-gif](docs/media/CV_canny_detect.gif)  
 ![DC-gif](docs/media/face_recongnize.gif)  
 ![DC-gif](docs/media/face_detect.gif)  
 ![DC-gif](docs/media/face_recongnize_1.gif)  
-- [MantisBT-制作公司bug跟踪系统]( https://github.com/DC-Melo/)  
+- [MantisBT-production company bug tracking system]( https://github.com/DC-Melo/)
 ![DC-gif](docs/media/mantisBT.gif)  
-- [LAMP-制作个人主页]( https://github.com/DC-Melo/)  
-- [FFmpeg+Imagamagic-制作自定义GIF动图shell脚本]( https://github.com/DC-Melo/)  
-- [JAVA-早期项目代码丢失，需要维护APP，于是反编译APP，更改蓝牙代码UUID再回编译]( https://github.com/DC-Melo/)  
-- [HIL-实验室建设，测试太台架搭建]( https://github.com/DC-Melo/)  
+- [LAMP-Make a personal homepage](https://github.com/DC-Melo/)
+- [FFmpeg+Imagamagic-make custom GIF animation shell script](https://github.com/DC-Melo/)
+- [JAVA-The early project code is lost and the APP needs to be maintained, so I decompile the APP, change the Bluetooth code UUID and then compile again](https://github.com/DC-Melo/)
+- [HIL-laboratory construction, test bench construction](https://github.com/DC-Melo/)
 ![DC-gif](docs/media/testbench_anji.gif)  
 ![DC-gif](docs/media/small_testbench.gif)  
-- [JAVA-手机APP通过蓝牙连接嵌入式硬件读取大众车辆VIN号、油量等关键信息保存于手机]( https://github.com/DC-Melo/)  
+- [JAVA-Mobile APP connects to embedded hardware through Bluetooth to read Volkswagen vehicle VIN number, fuel level and other key information and save it on the mobile phone]( https://github.com/DC-Melo/)
 ![DC-gif](docs/media/phone_bluetooth_vehicle_2.gif)  
 ![DC-gif](docs/media/app_BT_PC.gif)  
-- [Python-静安羽毛球馆定时爬虫抢票脚本]( https://github.com/DC-Melo/)  
+- [Python-Jing’an Badminton Hall scheduled crawler ticket grabbing script](https://github.com/DC-Melo/)
 ![DC-gif](docs/media/realway_crawler.gif)  
 ![DC-gif](docs/media/python_crawler_order_badminton.gif)  
 ![DC-gif](docs/media/JS_punch_in_DC.gif)  
 
-- [CANoe+VBA+excel-仪表HIL测试系统]( https://github.com/DC-Melo/)  
-- [uCos-II-移植实时操作系统uCos-II]( https://github.com/DC-Melo/)  
-- [PID+C-基于PID控制PWM风扇实现控制燃料电池系统温度]( https://github.com/DC-Melo/)  
-- [Matlab-验证模糊神经网络算法控制散热系统]( https://github.com/DC-Melo/)  
+- [CANoe+VBA+excel-instrument HIL test system](https://github.com/DC-Melo/)
+- [uCos-II-Ported real-time operating system uCos-II](https://github.com/DC-Melo/)
+- [PID+C-Control the PWM fan based on PID to control the temperature of the fuel cell system](https://github.com/DC-Melo/)
+- [Matlab-Verification of fuzzy neural network algorithm to control cooling system](https://github.com/DC-Melo/)
 ![DC-gif](docs/media/fuel_cell_system.gif)  
-- [python-卡尔曼2D滤波估计]( https://github.com/DC-Melo/)  
+- [python-Kalman 2D filter estimation](https://github.com/DC-Melo/)
 ![DC-gif](docs/media/KalmanFilter.gif)  
 
-
-
-### 正在进行项目Projects Ongoing ###
-- [OpenGL+Blender-自己人像的射击游戏]( https://github.com/DC-Melo/)
-- [GAN-图片生成3D人脸模型]( https://github.com/DC-Melo/)
-- [GAN-deepfake-深度学习换脸]( https://github.com/DC-Melo/)
 
 ## Coding reference books ##
 - books
