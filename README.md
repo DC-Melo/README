@@ -76,14 +76,14 @@ excellent at math, Basic knowledge of engineering : done , get skill , 2005-09 ,
 ```
 
 ## Personality and Hobbies ##
-- **Like literature, sports, and various team activities:** I like various team activities, participate in various social societies, forums, and use the power of the team to do greater things.
-- **enjoy difficulty and challenge:** optimism character, full of challenging spirit, like to try new things, and have strong adaptability
-- **be professional if you like it:** I like sports. Including: motorcycles, roller skating, skiing, badminton, backpacking travel
-- **I like to show and share** I like to read various papers, listen to and share reports, and also like to share technology
+- **Like literature, sports, and various team activities:** I like various team activities, participate in various social societies, forums, and use the power of the team to do greater things.  
+- **enjoy difficulty and challenge:** optimism character, full of challenging spirit, like to try new things, and have strong adaptability  
+- **be professional if you like it:** I like sports. Including: motorcycles, roller skating, skiing, badminton, backpacking travel  
+- **I like to show and share** I like to read various papers, listen to and share reports, and also like to share technology  
 ![DC-gif](docs/media/hobby.gif)  
 
 
-## work experience ##
+## work experience detail ##
 
 ### 2022.05-2024.04 By_bit (crypto exchanger) ###
 - **JAVA,spring,spark:** develop off-line data analyze system(spark) testing system.
