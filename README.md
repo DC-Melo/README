@@ -124,6 +124,11 @@ excellent at math, Basic knowledge of engineering : done , get skill , 2005-09 ,
 ## ![experience](https://img.shields.io/badge/project-closed-orange.svg)Projects Table of Contents ##
 
 ### Projects Closed ###
+- [bydata bigdata platform Back-end interface](https://github.com/DC-Melo/)  
+- [trade GPT backend interface](https://github.com/DC-Melo/)  
+![telegram back-end interface](docs/media/telegram.gif) 
+![app back-end interface](docs/media/gpt_app.gif) 
+![web back-end interface](docs/media/gpt_web.gif) 
 - [C++-Bitcoin source code reading, changing, compiling, running](https://github.com/DC-Melo/)  
 - [C++-Generate Bitcoin Vanity Address](https://github.com/DC-Melo/bitcoin_vanity_miner)
 - [Python-Crawler crawls account addresses with more than 1 BTC in Bitcoin](https://github.com/DC-Melo/bitcoin_valued_address)
